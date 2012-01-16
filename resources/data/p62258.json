@@ -1,0 +1,3730 @@
+{"uniprot":{
+	"entry":{
+		"keyword":[
+			{
+				"_text_":"3D-structure",
+				"_at_id":"KW-0002"
+			},
+			{
+				"_text_":"Acetylation",
+				"_at_id":"KW-0007"
+			},
+			{
+				"_text_":"Alternative splicing",
+				"_at_id":"KW-0025"
+			},
+			{
+				"_text_":"Complete proteome",
+				"_at_id":"KW-0181"
+			},
+			{
+				"_text_":"Cytoplasm",
+				"_at_id":"KW-0963"
+			},
+			{
+				"_text_":"Direct protein sequencing",
+				"_at_id":"KW-0903"
+			},
+			{
+				"_text_":"Host-virus interaction",
+				"_at_id":"KW-0945"
+			},
+			{
+				"_text_":"Phosphoprotein",
+				"_at_id":"KW-0597"
+			},
+			{
+				"_text_":"Reference proteome",
+				"_at_id":"KW-1185"
+			}
+		],
+		"sequence":{
+			"_text_":"\nMDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASW\nRIISSIEQKEENKGGEDKLKMIREYRQMVETELKLICCDILDVLDKHLIPAANTGESKVF\nYYKMKGDYHRYLAEFATGNDRKEAAENSLVAYKAASDIAMTELPPTHPIRLGLALNFSVF\nYYEILNSPDRACRLAKAAFDDAIAELDTLSEESYKDSTLIMQLLRDNLTLWTSDMQGDGE\nEQNKEALQDVEDENQ\n",
+			"_at_mass":"29174",
+			"_at_length":"255",
+			"_at_version":"1",
+			"_at_modified":"2004-07-05",
+			"_at_checksum":"07817CCBD1F75B26"
+		},
+		"gene":{
+			"name":{
+				"_text_":"YWHAE",
+				"_at_type":"primary"
+			}
+		},
+		"name":{
+			"_text_":"1433E_HUMAN"
+		},
+		"_at_created":"2004-07-05",
+		"accession":[
+			{
+				"_text_":"P62258"
+			},
+			{
+				"_text_":"B3KY71"
+			},
+			{
+				"_text_":"D3DTH5"
+			},
+			{
+				"_text_":"P29360"
+			},
+			{
+				"_text_":"P42655"
+			},
+			{
+				"_text_":"Q4VJB6"
+			},
+			{
+				"_text_":"Q53XZ5"
+			},
+			{
+				"_text_":"Q63631"
+			},
+			{
+				"_text_":"Q7M4R4"
+			}
+		],
+		"_at_version":"94",
+		"feature":[
+			{
+				"location":{
+					"begin":{
+						"_at_position":"1"
+					},
+					"end":{
+						"_at_position":"255"
+					}
+				},
+				"_at_description":"14-3-3 protein epsilon",
+				"_at_id":"PRO_0000058618",
+				"_at_type":"chain"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"57"
+					}
+				},
+				"_at_description":"Interaction with phosphoserine on interacting protein",
+				"_at_type":"site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"130"
+					}
+				},
+				"_at_description":"Interaction with phosphoserine on interacting protein",
+				"_at_type":"site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"1"
+					}
+				},
+				"_at_description":"N-acetylmethionine",
+				"_at_evidence":"9 10",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"38"
+					}
+				},
+				"_at_description":"Phosphothreonine",
+				"_at_evidence":"10",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"50"
+					}
+				},
+				"_at_description":"N6-acetyllysine",
+				"_at_evidence":"11",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"69"
+					}
+				},
+				"_at_description":"N6-acetyllysine",
+				"_at_evidence":"11",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"118"
+					}
+				},
+				"_at_description":"N6-acetyllysine",
+				"_at_evidence":"11",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"123"
+					}
+				},
+				"_at_description":"N6-acetyllysine",
+				"_at_evidence":"11",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"210"
+					}
+				},
+				"_at_description":"Phosphoserine",
+				"_at_evidence":"10 12 13",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"1"
+					},
+					"end":{
+						"_at_position":"22"
+					}
+				},
+				"_at_description":"In isoform SV.",
+				"_at_id":"VSP_040621",
+				"_at_type":"splice variant"
+			},
+			{
+				"variation":{
+					"_text_":"NY"
+				},
+				"location":{
+					"begin":{
+						"_at_position":"106"
+					},
+					"end":{
+						"_at_position":"107"
+					}
+				},
+				"original":{
+					"_text_":"KH"
+				},
+				"_at_description":"In Ref. 13; AA sequence.",
+				"_at_ref":"31",
+				"_at_type":"sequence conflict"
+			},
+			{
+				"variation":{
+					"_text_":"F"
+				},
+				"location":{
+					"position":{
+						"_at_position":"143"
+					}
+				},
+				"original":{
+					"_text_":"E"
+				},
+				"_at_description":"In Ref. 13; AA sequence.",
+				"_at_ref":"31",
+				"_at_type":"sequence conflict"
+			},
+			{
+				"variation":{
+					"_text_":"T"
+				},
+				"location":{
+					"position":{
+						"_at_position":"148"
+					}
+				},
+				"original":{
+					"_text_":"S"
+				},
+				"_at_description":"In Ref. 13; AA sequence.",
+				"_at_ref":"31",
+				"_at_type":"sequence conflict"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"4"
+					},
+					"end":{
+						"_at_position":"17"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"20"
+					},
+					"end":{
+						"_at_position":"31"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"39"
+					},
+					"end":{
+						"_at_position":"73"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"76"
+					},
+					"end":{
+						"_at_position":"106"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"108"
+					},
+					"end":{
+						"_at_position":"111"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"115"
+					},
+					"end":{
+						"_at_position":"135"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"138"
+					},
+					"end":{
+						"_at_position":"162"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"168"
+					},
+					"end":{
+						"_at_position":"183"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"188"
+					},
+					"end":{
+						"_at_position":"204"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"205"
+					},
+					"end":{
+						"_at_position":"208"
+					}
+				},
+				"_at_type":"helix"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"211"
+					},
+					"end":{
+						"_at_position":"213"
+					}
+				},
+				"_at_type":"turn"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"214"
+					},
+					"end":{
+						"_at_position":"231"
+					}
+				},
+				"_at_type":"helix"
+			}
+		],
+		"proteinExistence":{
+			"_at_type":"evidence at protein level"
+		},
+		"dbReference":[
+			{
+				"_at_key":"75",
+				"_at_id":"U20972",
+				"property":[
+					{
+						"_at_value":"AAC50175.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"76",
+				"_at_id":"U54778",
+				"property":[
+					{
+						"_at_value":"AAC50710.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"77",
+				"_at_id":"U43399",
+				"property":[
+					{
+						"_at_value":"AAC50625.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"78",
+				"_at_id":"U43430",
+				"property":[
+					{
+						"_at_value":"AAD00026.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"79",
+				"_at_id":"U28936",
+				"property":[
+					{
+						"_at_value":"AAA75301.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"80",
+				"_at_id":"AB017103",
+				"property":[
+					{
+						"_at_value":"BAA32538.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"81",
+				"_at_id":"AY883089",
+				"property":[
+					{
+						"_at_value":"AAX68683.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"82",
+				"_at_id":"AK128785",
+				"property":[
+					{
+						"_at_value":"BAG54733.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"83",
+				"_at_id":"AK295260",
+				"property":[
+					{
+						"_at_value":"BAG58249.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"84",
+				"_at_id":"AK316185",
+				"property":[
+					{
+						"_at_value":"BAH14556.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"85",
+				"_at_id":"BT007161",
+				"property":[
+					{
+						"_at_value":"AAP35825.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"86",
+				"_at_id":"CH471108",
+				"property":[
+					{
+						"_at_value":"EAW90628.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"87",
+				"_at_id":"CH471108",
+				"property":[
+					{
+						"_at_value":"EAW90629.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"88",
+				"_at_id":"BC000179",
+				"property":[
+					{
+						"_at_value":"AAH00179.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"89",
+				"_at_id":"BC001440",
+				"property":[
+					{
+						"_at_value":"AAH01440.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"90",
+				"_at_id":"IPI00000816",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"91",
+				"_at_id":"IPI00974544",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"92",
+				"_at_id":"A61235",
+				"property":{
+					"_at_value":"A61235",
+					"_at_type":"entry name"
+				},
+				"_at_type":"PIR"
+			},
+			{
+				"_at_key":"93",
+				"_at_id":"I38947",
+				"property":{
+					"_at_value":"I38947",
+					"_at_type":"entry name"
+				},
+				"_at_type":"PIR"
+			},
+			{
+				"_at_key":"94",
+				"_at_id":"NP_006752.1",
+				"property":{
+					"_at_value":"NM_006761.4",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"95",
+				"_at_id":"Hs.513851",
+				"_at_type":"UniGene"
+			},
+			{
+				"_at_key":"96",
+				"_at_id":"2BR9",
+				"property":[
+					{
+						"_at_value":"X-ray",
+						"_at_type":"method"
+					},
+					{
+						"_at_value":"1.75",
+						"_at_type":"resolution"
+					},
+					{
+						"_at_value":"A=1-233",
+						"_at_type":"chains"
+					}
+				],
+				"_at_type":"PDB"
+			},
+			{
+				"_at_key":"97",
+				"_at_id":"2BR9",
+				"_at_type":"PDBsum"
+			},
+			{
+				"_at_key":"98",
+				"_at_id":"P62258",
+				"_at_type":"ProteinModelPortal"
+			},
+			{
+				"_at_key":"99",
+				"_at_id":"P62258",
+				"property":{
+					"_at_value":"3-232",
+					"_at_type":"residue range"
+				},
+				"_at_type":"SMR"
+			},
+			{
+				"_at_key":"100",
+				"_at_id":"P62258",
+				"property":{
+					"_at_value":"79",
+					"_at_type":"interactions"
+				},
+				"_at_type":"IntAct"
+			},
+			{
+				"_at_key":"101",
+				"_at_id":"MINT-4998623",
+				"_at_type":"MINT"
+			},
+			{
+				"_at_key":"102",
+				"_at_id":"P62258",
+				"_at_type":"STRING"
+			},
+			{
+				"_at_key":"103",
+				"_at_id":"P62258",
+				"_at_type":"PhosphoSite"
+			},
+			{
+				"_at_key":"104",
+				"_at_id":"P42655",
+				"_at_type":"OGP"
+			},
+			{
+				"_at_key":"105",
+				"_at_id":"P62258",
+				"_at_type":"UCD-2DPAGE"
+			},
+			{
+				"_at_key":"106",
+				"_at_id":"P62258",
+				"_at_type":"PeptideAtlas"
+			},
+			{
+				"_at_key":"107",
+				"_at_id":"P62258",
+				"_at_type":"PRIDE"
+			},
+			{
+				"_at_key":"108",
+				"_at_id":"ENST00000264335",
+				"property":[
+					{
+						"_at_value":"ENSP00000264335",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"ENSG00000108953",
+						"_at_type":"gene ID"
+					}
+				],
+				"_at_type":"Ensembl"
+			},
+			{
+				"_at_key":"109",
+				"_at_id":"7531",
+				"_at_type":"GeneID"
+			},
+			{
+				"_at_key":"110",
+				"_at_id":"hsa:7531",
+				"_at_type":"KEGG"
+			},
+			{
+				"_at_key":"111",
+				"_at_id":"uc002fsj.1",
+				"property":{
+					"_at_value":"human",
+					"_at_type":"organism name"
+				},
+				"_at_type":"UCSC"
+			},
+			{
+				"_at_key":"112",
+				"_at_id":"7531",
+				"_at_type":"CTD"
+			},
+			{
+				"_at_key":"113",
+				"_at_id":"GC17M001148",
+				"_at_type":"GeneCards"
+			},
+			{
+				"_at_key":"114",
+				"_at_id":"HIX0013397",
+				"_at_type":"H-InvDB"
+			},
+			{
+				"_at_key":"115",
+				"_at_id":"HIX0013751",
+				"_at_type":"H-InvDB"
+			},
+			{
+				"_at_key":"116",
+				"_at_id":"HIX0030006",
+				"_at_type":"H-InvDB"
+			},
+			{
+				"_at_key":"117",
+				"_at_id":"HGNC:12851",
+				"property":{
+					"_at_value":"YWHAE",
+					"_at_type":"gene designation"
+				},
+				"_at_type":"HGNC"
+			},
+			{
+				"_at_key":"118",
+				"_at_id":"CAB016200",
+				"_at_type":"HPA"
+			},
+			{
+				"_at_key":"119",
+				"_at_id":"CAB021109",
+				"_at_type":"HPA"
+			},
+			{
+				"_at_key":"120",
+				"_at_id":"HPA008445",
+				"_at_type":"HPA"
+			},
+			{
+				"_at_key":"121",
+				"_at_id":"605066",
+				"property":{
+					"_at_value":"gene",
+					"_at_type":"type"
+				},
+				"_at_type":"MIM"
+			},
+			{
+				"_at_key":"122",
+				"_at_id":"NX_P62258",
+				"_at_type":"neXtProt"
+			},
+			{
+				"_at_key":"123",
+				"_at_id":"217385",
+				"property":{
+					"_at_value":"17p13.3 microduplication syndrome",
+					"_at_type":"disease"
+				},
+				"_at_type":"Orphanet"
+			},
+			{
+				"_at_key":"124",
+				"_at_id":"PA37440",
+				"_at_type":"PharmGKB"
+			},
+			{
+				"_at_key":"125",
+				"_at_id":"prNOG19467",
+				"_at_type":"eggNOG"
+			},
+			{
+				"_at_key":"126",
+				"_at_id":"HBG050423",
+				"_at_type":"HOVERGEN"
+			},
+			{
+				"_at_key":"127",
+				"_at_id":"P62258",
+				"_at_type":"InParanoid"
+			},
+			{
+				"_at_key":"128",
+				"_at_id":"KESALIM",
+				"_at_type":"OMA"
+			},
+			{
+				"_at_key":"129",
+				"_at_id":"EOG4HHP34",
+				"_at_type":"OrthoDB"
+			},
+			{
+				"_at_key":"130",
+				"_at_id":"P62258",
+				"_at_type":"PhylomeDB"
+			},
+			{
+				"_at_key":"131",
+				"_at_id":"a6b1_a6b4_integrin_pathway",
+				"property":{
+					"_at_value":"a6b1 and a6b4 Integrin signaling",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"132",
+				"_at_id":"pi3kciaktpathway",
+				"property":{
+					"_at_value":"Class I PI3K signaling events mediated by Akt",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"133",
+				"_at_id":"foxopathway",
+				"property":{
+					"_at_value":"FoxO family signaling",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"134",
+				"_at_id":"igf1_pathway",
+				"property":{
+					"_at_value":"IGF1 pathway",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"135",
+				"_at_id":"insulin_glucose_pathway",
+				"property":{
+					"_at_value":"Insulin-mediated glucose transport",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"136",
+				"_at_id":"lis1pathway",
+				"property":{
+					"_at_value":"Lissencephaly gene (LIS1) in neuronal migration and development",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"137",
+				"_at_id":"p38_mk2pathway",
+				"property":{
+					"_at_value":"p38 signaling mediated by MAPKAP kinases",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"138",
+				"_at_id":"p75ntrpathway",
+				"property":{
+					"_at_value":"p75(NTR)-mediated signaling",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"139",
+				"_at_id":"telomerasepathway",
+				"property":{
+					"_at_value":"Regulation of Telomerase",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"140",
+				"_at_id":"nfat_3pathway",
+				"property":{
+					"_at_value":"Role of Calcineurin-dependent NFAT signaling in lymphocytes",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"141",
+				"_at_id":"hdac_classii_pathway",
+				"property":{
+					"_at_value":"Signaling events mediated by HDAC Class II",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"142",
+				"_at_id":"tgfbrpathway",
+				"property":{
+					"_at_value":"TGF-beta receptor signaling",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"143",
+				"_at_id":"pi3kplctrkpathway",
+				"property":{
+					"_at_value":"Trk receptor signaling mediated by PI3K and PLC-gamma",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"144",
+				"_at_id":"REACT_111102",
+				"property":{
+					"_at_value":"Signal Transduction",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Reactome"
+			},
+			{
+				"_at_key":"145",
+				"_at_id":"REACT_152",
+				"property":{
+					"_at_value":"Cell Cycle, Mitotic",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Reactome"
+			},
+			{
+				"_at_key":"146",
+				"_at_id":"29461",
+				"_at_type":"NextBio"
+			},
+			{
+				"_at_key":"147",
+				"_at_id":"P62258",
+				"_at_type":"PMAP-CutDB"
+			},
+			{
+				"_at_key":"148",
+				"_at_id":"P62258",
+				"_at_type":"ArrayExpress"
+			},
+			{
+				"_at_key":"149",
+				"_at_id":"P62258",
+				"_at_type":"Bgee"
+			},
+			{
+				"_at_key":"150",
+				"_at_id":"HS_YWHAE",
+				"_at_type":"CleanEx"
+			},
+			{
+				"_at_key":"151",
+				"_at_id":"P62258",
+				"_at_type":"Genevestigator"
+			},
+			{
+				"_at_key":"152",
+				"_at_id":"ENSG00000108953",
+				"property":{
+					"_at_value":"Homo sapiens",
+					"_at_type":"organism name"
+				},
+				"_at_type":"GermOnline"
+			},
+			{
+				"_at_key":"153",
+				"_at_id":"GO:0005829",
+				"property":[
+					{
+						"_at_value":"C:cytosol",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:Reactome",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"154",
+				"_at_id":"GO:0042470",
+				"property":[
+					{
+						"_at_value":"C:melanosome",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:UniProtKB-SubCell",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"155",
+				"_at_id":"GO:0042826",
+				"property":[
+					{
+						"_at_value":"F:histone deacetylase binding",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IPI:BHF-UCL",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"156",
+				"_at_id":"GO:0050815",
+				"property":[
+					{
+						"_at_value":"F:phosphoserine binding",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IPI:BHF-UCL",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"157",
+				"_at_id":"GO:0006915",
+				"property":[
+					{
+						"_at_value":"P:apoptosis",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:Reactome",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"158",
+				"_at_id":"GO:0000086",
+				"property":[
+					{
+						"_at_value":"P:G2/M transition of mitotic cell cycle",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:Reactome",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"159",
+				"_at_id":"GO:0008624",
+				"property":[
+					{
+						"_at_value":"P:induction of apoptosis by extracellular signals",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:Reactome",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"160",
+				"_at_id":"GO:0044419",
+				"property":[
+					{
+						"_at_value":"P:interspecies interaction between organisms",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:UniProtKB-KW",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"161",
+				"_at_id":"GO:0035556",
+				"property":[
+					{
+						"_at_value":"P:intracellular signal transduction",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:ProtInc",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"162",
+				"_at_id":"GO:0048011",
+				"property":[
+					{
+						"_at_value":"P:nerve growth factor receptor signaling pathway",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:Reactome",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"163",
+				"_at_id":"IPR000308",
+				"property":{
+					"_at_value":"14-3-3",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"164",
+				"_at_id":"IPR023409",
+				"property":{
+					"_at_value":"14-3-3_CS",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"165",
+				"_at_id":"IPR023410",
+				"property":{
+					"_at_value":"14-3-3_domain",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"166",
+				"_at_id":"G3DSA:1.20.190.20",
+				"property":[
+					{
+						"_at_value":"14-3-3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"Gene3D"
+			},
+			{
+				"_at_key":"167",
+				"_at_id":"K06630",
+				"_at_type":"KO"
+			},
+			{
+				"_at_key":"168",
+				"_at_id":"PTHR18860",
+				"property":[
+					{
+						"_at_value":"14-3-3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PANTHER"
+			},
+			{
+				"_at_key":"169",
+				"_at_id":"PF00244",
+				"property":[
+					{
+						"_at_value":"14-3-3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"Pfam"
+			},
+			{
+				"_at_key":"170",
+				"_at_id":"PIRSF000868",
+				"property":[
+					{
+						"_at_value":"14-3-3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PIRSF"
+			},
+			{
+				"_at_key":"171",
+				"_at_id":"PR00305",
+				"property":{
+					"_at_value":"1433ZETA",
+					"_at_type":"entry name"
+				},
+				"_at_type":"PRINTS"
+			},
+			{
+				"_at_key":"172",
+				"_at_id":"SM00101",
+				"property":[
+					{
+						"_at_value":"14_3_3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"SMART"
+			},
+			{
+				"_at_key":"173",
+				"_at_id":"SSF48445",
+				"property":[
+					{
+						"_at_value":"14-3-3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"SUPFAM"
+			},
+			{
+				"_at_key":"174",
+				"_at_id":"PS00796",
+				"property":[
+					{
+						"_at_value":"1433_1",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PROSITE"
+			},
+			{
+				"_at_key":"175",
+				"_at_id":"PS00797",
+				"property":[
+					{
+						"_at_value":"1433_2",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PROSITE"
+			}
+		],
+		"protein":{
+			"recommendedName":{
+				"fullName":{
+					"_text_":"14-3-3 protein epsilon"
+				},
+				"shortName":{
+					"_text_":"14-3-3E"
+				}
+			}
+		},
+		"comment":[
+			{
+				"text":{
+					"_text_":"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner."
+				},
+				"_at_type":"function"
+			},
+			{
+				"text":{
+					"_text_":"Homodimer. Heterodimerizes with YWHAZ. Interacts with NDEL1, RGNEF and TIAM2 (By similarity). Interacts with HCV core protein. Interacts with ABL1 (phosphorylated form); the interaction retains it in the cytoplasm. Weakly interacts with CDKN1B. Interacts with GAB2. Interacts with phosphorylated GRB10.",
+					"_at_evidence":"1 2 3 4 5 6 7"
+				},
+				"_at_type":"subunit"
+			},
+			{
+				"organismsDiffer":{
+					"_text_":"false"
+				},
+				"interactant":[
+					{
+						"_at_intactId":"EBI-356498"
+					},
+					{
+						"_at_intactId":"EBI-4392727",
+						"label":{
+							"_text_":"CBX4"
+						},
+						"id":{
+							"_text_":"O00257-3"
+						}
+					}
+				],
+				"experiments":{
+					"_text_":"2"
+				},
+				"_at_type":"interaction"
+			},
+			{
+				"organismsDiffer":{
+					"_text_":"false"
+				},
+				"interactant":[
+					{
+						"_at_intactId":"EBI-356498"
+					},
+					{
+						"_at_intactId":"EBI-1043945",
+						"label":{
+							"_text_":"CDK14"
+						},
+						"id":{
+							"_text_":"O94921"
+						}
+					}
+				],
+				"experiments":{
+					"_text_":"3"
+				},
+				"_at_type":"interaction"
+			},
+			{
+				"organismsDiffer":{
+					"_text_":"false"
+				},
+				"interactant":[
+					{
+						"_at_intactId":"EBI-356498"
+					},
+					{
+						"_at_intactId":"EBI-960409",
+						"label":{
+							"_text_":"FBXO4"
+						},
+						"id":{
+							"_text_":"Q9UKT5"
+						}
+					}
+				],
+				"experiments":{
+					"_text_":"5"
+				},
+				"_at_type":"interaction"
+			},
+			{
+				"text":{
+					"_text_":"Identified by mass spectrometry in melanosome fractions from stage I to stage IV.",
+					"_at_evidence":"2 8"
+				},
+				"subcellularLocation":[
+					{
+						"location":{
+							"_at_status":"by similarity",
+							"_text_":"Cytoplasm"
+						}
+					},
+					{
+						"location":{
+							"_text_":"Melanosome"
+						}
+					}
+				],
+				"_at_type":"subcellular location"
+			},
+			{
+				"isoform":[
+					{
+						"sequence":{
+							"_at_type":"displayed"
+						},
+						"name":{
+							"_text_":"1"
+						},
+						"id":{
+							"_text_":"P62258-1"
+						}
+					},
+					{
+						"sequence":{
+							"_at_ref":"VSP_040621",
+							"_at_type":"described"
+						},
+						"name":{
+							"_text_":"SV"
+						},
+						"id":{
+							"_text_":"P62258-2"
+						},
+						"note":{
+							"_text_":"Unable to dimerize with YWHAZ."
+						}
+					}
+				],
+				"event":{
+					"_at_type":"alternative splicing"
+				},
+				"_at_type":"alternative products"
+			},
+			{
+				"text":{
+					"_text_":"Belongs to the 14-3-3 family."
+				},
+				"_at_type":"similarity"
+			}
+		],
+		"reference":[
+			{
+				"_at_key":"2",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)"
+				},
+				"citation":{
+					"_at_volume":"92",
+					"_at_name":"Proc. Natl. Acad. Sci. U.S.A.",
+					"_at_date":"1995",
+					"_at_first":"7892",
+					"dbReference":[
+						{
+							"_at_key":"3",
+							"_at_id":"95372385",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"4",
+							"_at_id":"7644510",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"5",
+							"_at_id":"10.1073/pnas.92.17.7892",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Conklin D.S."
+							},
+							{
+								"_at_name":"Galaktionov K."
+							},
+							{
+								"_at_name":"Beach D."
+							}
+						]
+					},
+					"_at_last":"7896",
+					"title":{
+						"_text_":"14-3-3 proteins associate with cdc25 phosphatases."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Liver"
+					}
+				},
+				"_at_key":"6",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)"
+				},
+				"citation":{
+					"_at_volume":"6",
+					"_at_name":"Genome Res.",
+					"_at_date":"1996",
+					"_at_first":"735",
+					"dbReference":[
+						{
+							"_at_key":"7",
+							"_at_id":"97011338",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"8",
+							"_at_id":"8858348",
+							"_at_type":"PubMed"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Chong S.S."
+							},
+							{
+								"_at_name":"Tanigami A."
+							},
+							{
+								"_at_name":"Roschke A.V."
+							},
+							{
+								"_at_name":"Ledbetter D.H."
+							}
+						]
+					},
+					"_at_last":"741",
+					"title":{
+						"_text_":"14-3-3 epsilon has no homology to LIS1 and lies telomeric to it on chromosome 17p13.3 outside the Miller-Dieker syndrome chromosome region."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"9",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)"
+				},
+				"citation":{
+					"_at_volume":"382",
+					"_at_name":"Nature",
+					"_at_date":"1996",
+					"_at_first":"308",
+					"dbReference":[
+						{
+							"_at_key":"10",
+							"_at_id":"96300316",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"11",
+							"_at_id":"8684458",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"12",
+							"_at_id":"10.1038/382308a0",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Jin D.-Y."
+							},
+							{
+								"_at_name":"Lyu M.S."
+							},
+							{
+								"_at_name":"Kozak C.A."
+							},
+							{
+								"_at_name":"Jeang K.-T."
+							}
+						]
+					},
+					"_at_last":"308",
+					"title":{
+						"_text_":"Function of 14-3-3 proteins."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Brain"
+					}
+				},
+				"_at_key":"13",
+				"scope":[
+					{
+						"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SV)"
+					},
+					{
+						"_text_":"ALTERNATIVE SPLICING"
+					}
+				],
+				"citation":{
+					"_at_volume":"396",
+					"_at_name":"Biochem. Biophys. Res. Commun.",
+					"_at_date":"2010",
+					"_at_first":"401",
+					"dbReference":[
+						{
+							"_at_key":"14",
+							"_at_id":"20417184",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"15",
+							"_at_id":"10.1016/j.bbrc.2010.04.104",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Han D."
+							},
+							{
+								"_at_name":"Ye G."
+							},
+							{
+								"_at_name":"Liu T."
+							},
+							{
+								"_at_name":"Chen C."
+							},
+							{
+								"_at_name":"Yang X."
+							},
+							{
+								"_at_name":"Wan B."
+							},
+							{
+								"_at_name":"Pan Y."
+							},
+							{
+								"_at_name":"Yu L."
+							}
+						]
+					},
+					"_at_last":"406",
+					"title":{
+						"_text_":"Functional identification of a novel 14-3-3 epsilon splicing variant suggests dimerization is not necessary for 14-3-3 epsilon to inhibit UV-induced apoptosis."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Heart"
+					}
+				},
+				"_at_key":"16",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)"
+				},
+				"citation":{
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Luk S.C.W."
+							},
+							{
+								"_at_name":"Lee C.Y."
+							},
+							{
+								"_at_name":"Waye M.M.Y."
+							}
+						]
+					},
+					"_at_date":"1995-06",
+					"title":{
+						"_text_":"Sequence determination of human epsilon 14-3-3 protein."
+					},
+					"_at_db":"EMBL/GenBank/DDBJ databases",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"_at_key":"17",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [GENOMIC DNA]"
+				},
+				"citation":{
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Tanigami A."
+							},
+							{
+								"_at_name":"Chong S.S."
+							},
+							{
+								"_at_name":"Ledbetter D.H."
+							}
+						]
+					},
+					"_at_date":"1998-08",
+					"title":{
+						"_text_":"14-3-3 epsilon genomic sequence."
+					},
+					"_at_db":"EMBL/GenBank/DDBJ databases",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"source":{
+					"tissue":[
+						{
+							"_text_":"Caudate nucleus"
+						},
+						{
+							"_text_":"Heart"
+						},
+						{
+							"_text_":"Subthalamic nucleus"
+						}
+					]
+				},
+				"_at_key":"18",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND SV)"
+				},
+				"citation":{
+					"_at_volume":"36",
+					"_at_name":"Nat. Genet.",
+					"_at_date":"2004",
+					"_at_first":"40",
+					"dbReference":[
+						{
+							"_at_key":"19",
+							"_at_id":"14702039",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"20",
+							"_at_id":"10.1038/ng1285",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Ota T."
+							},
+							{
+								"_at_name":"Suzuki Y."
+							},
+							{
+								"_at_name":"Nishikawa T."
+							},
+							{
+								"_at_name":"Otsuki T."
+							},
+							{
+								"_at_name":"Sugiyama T."
+							},
+							{
+								"_at_name":"Irie R."
+							},
+							{
+								"_at_name":"Wakamatsu A."
+							},
+							{
+								"_at_name":"Hayashi K."
+							},
+							{
+								"_at_name":"Sato H."
+							},
+							{
+								"_at_name":"Nagai K."
+							},
+							{
+								"_at_name":"Kimura K."
+							},
+							{
+								"_at_name":"Makita H."
+							},
+							{
+								"_at_name":"Sekine M."
+							},
+							{
+								"_at_name":"Obayashi M."
+							},
+							{
+								"_at_name":"Nishi T."
+							},
+							{
+								"_at_name":"Shibahara T."
+							},
+							{
+								"_at_name":"Tanaka T."
+							},
+							{
+								"_at_name":"Ishii S."
+							},
+							{
+								"_at_name":"Yamamoto J."
+							},
+							{
+								"_at_name":"Saito K."
+							},
+							{
+								"_at_name":"Kawai Y."
+							},
+							{
+								"_at_name":"Isono Y."
+							},
+							{
+								"_at_name":"Nakamura Y."
+							},
+							{
+								"_at_name":"Nagahari K."
+							},
+							{
+								"_at_name":"Murakami K."
+							},
+							{
+								"_at_name":"Yasuda T."
+							},
+							{
+								"_at_name":"Iwayanagi T."
+							},
+							{
+								"_at_name":"Wagatsuma M."
+							},
+							{
+								"_at_name":"Shiratori A."
+							},
+							{
+								"_at_name":"Sudo H."
+							},
+							{
+								"_at_name":"Hosoiri T."
+							},
+							{
+								"_at_name":"Kaku Y."
+							},
+							{
+								"_at_name":"Kodaira H."
+							},
+							{
+								"_at_name":"Kondo H."
+							},
+							{
+								"_at_name":"Sugawara M."
+							},
+							{
+								"_at_name":"Takahashi M."
+							},
+							{
+								"_at_name":"Kanda K."
+							},
+							{
+								"_at_name":"Yokoi T."
+							},
+							{
+								"_at_name":"Furuya T."
+							},
+							{
+								"_at_name":"Kikkawa E."
+							},
+							{
+								"_at_name":"Omura Y."
+							},
+							{
+								"_at_name":"Abe K."
+							},
+							{
+								"_at_name":"Kamihara K."
+							},
+							{
+								"_at_name":"Katsuta N."
+							},
+							{
+								"_at_name":"Sato K."
+							},
+							{
+								"_at_name":"Tanikawa M."
+							},
+							{
+								"_at_name":"Yamazaki M."
+							},
+							{
+								"_at_name":"Ninomiya K."
+							},
+							{
+								"_at_name":"Ishibashi T."
+							},
+							{
+								"_at_name":"Yamashita H."
+							},
+							{
+								"_at_name":"Murakawa K."
+							},
+							{
+								"_at_name":"Fujimori K."
+							},
+							{
+								"_at_name":"Tanai H."
+							},
+							{
+								"_at_name":"Kimata M."
+							},
+							{
+								"_at_name":"Watanabe M."
+							},
+							{
+								"_at_name":"Hiraoka S."
+							},
+							{
+								"_at_name":"Chiba Y."
+							},
+							{
+								"_at_name":"Ishida S."
+							},
+							{
+								"_at_name":"Ono Y."
+							},
+							{
+								"_at_name":"Takiguchi S."
+							},
+							{
+								"_at_name":"Watanabe S."
+							},
+							{
+								"_at_name":"Yosida M."
+							},
+							{
+								"_at_name":"Hotuta T."
+							},
+							{
+								"_at_name":"Kusano J."
+							},
+							{
+								"_at_name":"Kanehori K."
+							},
+							{
+								"_at_name":"Takahashi-Fujii A."
+							},
+							{
+								"_at_name":"Hara H."
+							},
+							{
+								"_at_name":"Tanase T.-O."
+							},
+							{
+								"_at_name":"Nomura Y."
+							},
+							{
+								"_at_name":"Togiya S."
+							},
+							{
+								"_at_name":"Komai F."
+							},
+							{
+								"_at_name":"Hara R."
+							},
+							{
+								"_at_name":"Takeuchi K."
+							},
+							{
+								"_at_name":"Arita M."
+							},
+							{
+								"_at_name":"Imose N."
+							},
+							{
+								"_at_name":"Musashino K."
+							},
+							{
+								"_at_name":"Yuuki H."
+							},
+							{
+								"_at_name":"Oshima A."
+							},
+							{
+								"_at_name":"Sasaki N."
+							},
+							{
+								"_at_name":"Aotsuka S."
+							},
+							{
+								"_at_name":"Yoshikawa Y."
+							},
+							{
+								"_at_name":"Matsunawa H."
+							},
+							{
+								"_at_name":"Ichihara T."
+							},
+							{
+								"_at_name":"Shiohata N."
+							},
+							{
+								"_at_name":"Sano S."
+							},
+							{
+								"_at_name":"Moriya S."
+							},
+							{
+								"_at_name":"Momiyama H."
+							},
+							{
+								"_at_name":"Satoh N."
+							},
+							{
+								"_at_name":"Takami S."
+							},
+							{
+								"_at_name":"Terashima Y."
+							},
+							{
+								"_at_name":"Suzuki O."
+							},
+							{
+								"_at_name":"Nakagawa S."
+							},
+							{
+								"_at_name":"Senoh A."
+							},
+							{
+								"_at_name":"Mizoguchi H."
+							},
+							{
+								"_at_name":"Goto Y."
+							},
+							{
+								"_at_name":"Shimizu F."
+							},
+							{
+								"_at_name":"Wakebe H."
+							},
+							{
+								"_at_name":"Hishigaki H."
+							},
+							{
+								"_at_name":"Watanabe T."
+							},
+							{
+								"_at_name":"Sugiyama A."
+							},
+							{
+								"_at_name":"Takemoto M."
+							},
+							{
+								"_at_name":"Kawakami B."
+							},
+							{
+								"_at_name":"Yamazaki M."
+							},
+							{
+								"_at_name":"Watanabe K."
+							},
+							{
+								"_at_name":"Kumagai A."
+							},
+							{
+								"_at_name":"Itakura S."
+							},
+							{
+								"_at_name":"Fukuzumi Y."
+							},
+							{
+								"_at_name":"Fujimori Y."
+							},
+							{
+								"_at_name":"Komiyama M."
+							},
+							{
+								"_at_name":"Tashiro H."
+							},
+							{
+								"_at_name":"Tanigami A."
+							},
+							{
+								"_at_name":"Fujiwara T."
+							},
+							{
+								"_at_name":"Ono T."
+							},
+							{
+								"_at_name":"Yamada K."
+							},
+							{
+								"_at_name":"Fujii Y."
+							},
+							{
+								"_at_name":"Ozaki K."
+							},
+							{
+								"_at_name":"Hirao M."
+							},
+							{
+								"_at_name":"Ohmori Y."
+							},
+							{
+								"_at_name":"Kawabata A."
+							},
+							{
+								"_at_name":"Hikiji T."
+							},
+							{
+								"_at_name":"Kobatake N."
+							},
+							{
+								"_at_name":"Inagaki H."
+							},
+							{
+								"_at_name":"Ikema Y."
+							},
+							{
+								"_at_name":"Okamoto S."
+							},
+							{
+								"_at_name":"Okitani R."
+							},
+							{
+								"_at_name":"Kawakami T."
+							},
+							{
+								"_at_name":"Noguchi S."
+							},
+							{
+								"_at_name":"Itoh T."
+							},
+							{
+								"_at_name":"Shigeta K."
+							},
+							{
+								"_at_name":"Senba T."
+							},
+							{
+								"_at_name":"Matsumura K."
+							},
+							{
+								"_at_name":"Nakajima Y."
+							},
+							{
+								"_at_name":"Mizuno T."
+							},
+							{
+								"_at_name":"Morinaga M."
+							},
+							{
+								"_at_name":"Sasaki M."
+							},
+							{
+								"_at_name":"Togashi T."
+							},
+							{
+								"_at_name":"Oyama M."
+							},
+							{
+								"_at_name":"Hata H."
+							},
+							{
+								"_at_name":"Watanabe M."
+							},
+							{
+								"_at_name":"Komatsu T."
+							},
+							{
+								"_at_name":"Mizushima-Sugano J."
+							},
+							{
+								"_at_name":"Satoh T."
+							},
+							{
+								"_at_name":"Shirai Y."
+							},
+							{
+								"_at_name":"Takahashi Y."
+							},
+							{
+								"_at_name":"Nakagawa K."
+							},
+							{
+								"_at_name":"Okumura K."
+							},
+							{
+								"_at_name":"Nagase T."
+							},
+							{
+								"_at_name":"Nomura N."
+							},
+							{
+								"_at_name":"Kikuchi H."
+							},
+							{
+								"_at_name":"Masuho Y."
+							},
+							{
+								"_at_name":"Yamashita R."
+							},
+							{
+								"_at_name":"Nakai K."
+							},
+							{
+								"_at_name":"Yada T."
+							},
+							{
+								"_at_name":"Nakamura Y."
+							},
+							{
+								"_at_name":"Ohara O."
+							},
+							{
+								"_at_name":"Isogai T."
+							},
+							{
+								"_at_name":"Sugano S."
+							}
+						]
+					},
+					"_at_last":"45",
+					"title":{
+						"_text_":"Complete sequencing and characterization of 21,243 full-length human cDNAs."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"21",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)"
+				},
+				"citation":{
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Kalnine N."
+							},
+							{
+								"_at_name":"Chen X."
+							},
+							{
+								"_at_name":"Rolfs A."
+							},
+							{
+								"_at_name":"Halleck A."
+							},
+							{
+								"_at_name":"Hines L."
+							},
+							{
+								"_at_name":"Eisenstein S."
+							},
+							{
+								"_at_name":"Koundinya M."
+							},
+							{
+								"_at_name":"Raphael J."
+							},
+							{
+								"_at_name":"Moreira D."
+							},
+							{
+								"_at_name":"Kelley T."
+							},
+							{
+								"_at_name":"LaBaer J."
+							},
+							{
+								"_at_name":"Lin Y."
+							},
+							{
+								"_at_name":"Phelan M."
+							},
+							{
+								"_at_name":"Farmer A."
+							}
+						]
+					},
+					"_at_date":"2003-05",
+					"title":{
+						"_text_":"Cloning of human full-length CDSs in BD Creator(TM) system donor vector."
+					},
+					"_at_db":"EMBL/GenBank/DDBJ databases",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"_at_key":"22",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+				},
+				"citation":{
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Mural R.J."
+							},
+							{
+								"_at_name":"Istrail S."
+							},
+							{
+								"_at_name":"Sutton G.G."
+							},
+							{
+								"_at_name":"Florea L."
+							},
+							{
+								"_at_name":"Halpern A.L."
+							},
+							{
+								"_at_name":"Mobarry C.M."
+							},
+							{
+								"_at_name":"Lippert R."
+							},
+							{
+								"_at_name":"Walenz B."
+							},
+							{
+								"_at_name":"Shatkay H."
+							},
+							{
+								"_at_name":"Dew I."
+							},
+							{
+								"_at_name":"Miller J.R."
+							},
+							{
+								"_at_name":"Flanigan M.J."
+							},
+							{
+								"_at_name":"Edwards N.J."
+							},
+							{
+								"_at_name":"Bolanos R."
+							},
+							{
+								"_at_name":"Fasulo D."
+							},
+							{
+								"_at_name":"Halldorsson B.V."
+							},
+							{
+								"_at_name":"Hannenhalli S."
+							},
+							{
+								"_at_name":"Turner R."
+							},
+							{
+								"_at_name":"Yooseph S."
+							},
+							{
+								"_at_name":"Lu F."
+							},
+							{
+								"_at_name":"Nusskern D.R."
+							},
+							{
+								"_at_name":"Shue B.C."
+							},
+							{
+								"_at_name":"Zheng X.H."
+							},
+							{
+								"_at_name":"Zhong F."
+							},
+							{
+								"_at_name":"Delcher A.L."
+							},
+							{
+								"_at_name":"Huson D.H."
+							},
+							{
+								"_at_name":"Kravitz S.A."
+							},
+							{
+								"_at_name":"Mouchard L."
+							},
+							{
+								"_at_name":"Reinert K."
+							},
+							{
+								"_at_name":"Remington K.A."
+							},
+							{
+								"_at_name":"Clark A.G."
+							},
+							{
+								"_at_name":"Waterman M.S."
+							},
+							{
+								"_at_name":"Eichler E.E."
+							},
+							{
+								"_at_name":"Adams M.D."
+							},
+							{
+								"_at_name":"Hunkapiller M.W."
+							},
+							{
+								"_at_name":"Myers E.W."
+							},
+							{
+								"_at_name":"Venter J.C."
+							}
+						]
+					},
+					"_at_date":"2005-09",
+					"_at_db":"EMBL/GenBank/DDBJ databases",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Placenta"
+					}
+				},
+				"_at_key":"23",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)"
+				},
+				"citation":{
+					"_at_volume":"14",
+					"_at_name":"Genome Res.",
+					"_at_date":"2004",
+					"_at_first":"2121",
+					"dbReference":[
+						{
+							"_at_key":"24",
+							"_at_id":"15489334",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"25",
+							"_at_id":"10.1101/gr.2596504",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"consortium":{
+							"_at_name":"The MGC Project Team"
+						}
+					},
+					"_at_last":"2127",
+					"title":{
+						"_text_":"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC)."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Platelet"
+					}
+				},
+				"_at_key":"26",
+				"scope":{
+					"_text_":"PROTEIN SEQUENCE OF 1-19"
+				},
+				"citation":{
+					"_at_volume":"21",
+					"_at_name":"Nat. Biotechnol.",
+					"_at_date":"2003",
+					"_at_first":"566",
+					"dbReference":[
+						{
+							"_at_key":"27",
+							"_at_id":"22608298",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"28",
+							"_at_id":"12665801",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"29",
+							"_at_id":"10.1038/nbt810",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Gevaert K."
+							},
+							{
+								"_at_name":"Goethals M."
+							},
+							{
+								"_at_name":"Martens L."
+							},
+							{
+								"_at_name":"Van Damme J."
+							},
+							{
+								"_at_name":"Staes A."
+							},
+							{
+								"_at_name":"Thomas G.R."
+							},
+							{
+								"_at_name":"Vandekerckhove J."
+							}
+						]
+					},
+					"_at_last":"569",
+					"title":{
+						"_text_":"Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"B-cell lymphoma"
+					}
+				},
+				"_at_key":"30",
+				"scope":[
+					{
+						"_text_":"PROTEIN SEQUENCE OF 1-19; 30-50 AND 131-170"
+					},
+					{
+						"_text_":"ACETYLATION AT MET-1"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"authorList":{
+						"person":{
+							"_at_name":"Bienvenut W.V."
+						}
+					},
+					"_at_date":"2005-05",
+					"_at_db":"UniProtKB",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Histiocytic lymphoma"
+					}
+				},
+				"_at_key":"31",
+				"scope":{
+					"_text_":"PROTEIN SEQUENCE OF 103-108; 120-123; 131-141 AND 143-153"
+				},
+				"citation":{
+					"_at_volume":"72",
+					"_at_name":"Immunology",
+					"_at_date":"1991",
+					"_at_first":"350",
+					"dbReference":[
+						{
+							"_at_key":"32",
+							"_at_id":"91224664",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"33",
+							"_at_id":"2026444",
+							"_at_type":"PubMed"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Demeter J."
+							},
+							{
+								"_at_name":"Medzihradszky D."
+							},
+							{
+								"_at_name":"Kha H."
+							},
+							{
+								"_at_name":"Goetzl E.J."
+							},
+							{
+								"_at_name":"Turck C.W."
+							}
+						]
+					},
+					"_at_last":"354",
+					"title":{
+						"_text_":"Isolation and partial characterization of the structures of fibroblast activating factor-related proteins from U937 cells."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":[
+						{
+							"_text_":"Brain"
+						},
+						{
+							"_text_":"Cajal-Retzius cell"
+						}
+					]
+				},
+				"_at_key":"34",
+				"scope":[
+					{
+						"_text_":"PROTEIN SEQUENCE OF 131-141 AND 154-190"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Lubec G."
+							},
+							{
+								"_at_name":"Afjehi-Sadat L."
+							}
+						]
+					},
+					"_at_date":"2007-03",
+					"_at_db":"UniProtKB",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"_at_key":"35",
+				"scope":{
+					"_text_":"INTERACTION WITH HCV CORE PROTEIN"
+				},
+				"citation":{
+					"_at_volume":"74",
+					"_at_name":"J. Virol.",
+					"_at_date":"2000",
+					"_at_first":"1736",
+					"dbReference":[
+						{
+							"_at_key":"36",
+							"_at_id":"20111292",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"37",
+							"_at_id":"10644344",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"38",
+							"_at_id":"10.1128/JVI.74.4.1736-1741.2000",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Aoki H."
+							},
+							{
+								"_at_name":"Hayashi J."
+							},
+							{
+								"_at_name":"Moriyama M."
+							},
+							{
+								"_at_name":"Arakawa Y."
+							},
+							{
+								"_at_name":"Hino O."
+							}
+						]
+					},
+					"_at_last":"1741",
+					"title":{
+						"_text_":"Hepatitis C virus core protein interacts with 14-3-3 protein and activates the kinase Raf-1."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"39",
+				"scope":[
+					{
+						"_text_":"INTERACTION WITH CDKN1B"
+					},
+					{
+						"_text_":"SUBCELLULAR LOCATION"
+					}
+				],
+				"citation":{
+					"_at_volume":"277",
+					"_at_name":"J. Biol. Chem.",
+					"_at_date":"2002",
+					"_at_first":"28706",
+					"dbReference":[
+						{
+							"_at_key":"40",
+							"_at_id":"12042314",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"41",
+							"_at_id":"10.1074/jbc.M203668200",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Fujita N."
+							},
+							{
+								"_at_name":"Sato S."
+							},
+							{
+								"_at_name":"Katayama K."
+							},
+							{
+								"_at_name":"Tsuruo T."
+							}
+						]
+					},
+					"_at_last":"28713",
+					"title":{
+						"_text_":"Akt-dependent phosphorylation of p27Kip1 promotes binding to 14-3-3 and cytoplasmic localization."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"42",
+				"scope":{
+					"_text_":"INTERACTION WITH GRB10"
+				},
+				"citation":{
+					"_at_volume":"280",
+					"_at_name":"J. Biol. Chem.",
+					"_at_date":"2005",
+					"_at_first":"16987",
+					"dbReference":[
+						{
+							"_at_key":"43",
+							"_at_id":"15722337",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"44",
+							"_at_id":"10.1074/jbc.M501477200",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Urschel S."
+							},
+							{
+								"_at_name":"Bassermann F."
+							},
+							{
+								"_at_name":"Bai R.Y."
+							},
+							{
+								"_at_name":"Munch S."
+							},
+							{
+								"_at_name":"Peschel C."
+							},
+							{
+								"_at_name":"Duyster J."
+							}
+						]
+					},
+					"_at_last":"16993",
+					"title":{
+						"_text_":"Phosphorylation of grb10 regulates its interaction with 14-3-3."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"45",
+				"scope":[
+					{
+						"_text_":"INTERACTION WITH ABL1"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"7",
+					"_at_name":"Nat. Cell Biol.",
+					"_at_date":"2005",
+					"_at_first":"278",
+					"dbReference":[
+						{
+							"_at_key":"46",
+							"_at_id":"15696159",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"47",
+							"_at_id":"10.1038/ncb1228",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Yoshida K."
+							},
+							{
+								"_at_name":"Yamaguchi T."
+							},
+							{
+								"_at_name":"Natsume T."
+							},
+							{
+								"_at_name":"Kufe D."
+							},
+							{
+								"_at_name":"Miki Y."
+							}
+						]
+					},
+					"_at_last":"285",
+					"title":{
+						"_text_":"JNK phosphorylation of 14-3-3 proteins regulates nuclear targeting of c-Abl in the apoptotic response to DNA damage."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"48",
+				"scope":{
+					"_text_":"INTERACTION WITH YWHAZ"
+				},
+				"citation":{
+					"_at_volume":"580",
+					"_at_name":"FEBS Lett.",
+					"_at_date":"2006",
+					"_at_first":"305",
+					"dbReference":[
+						{
+							"_at_key":"49",
+							"_at_id":"16376338",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"50",
+							"_at_id":"10.1016/j.febslet.2005.12.024",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Gu Y.-M."
+							},
+							{
+								"_at_name":"Jin Y.-H."
+							},
+							{
+								"_at_name":"Choi J.-K."
+							},
+							{
+								"_at_name":"Baek K.-H."
+							},
+							{
+								"_at_name":"Yeo C.-Y."
+							},
+							{
+								"_at_name":"Lee K.-Y."
+							}
+						]
+					},
+					"_at_last":"310",
+					"title":{
+						"_text_":"Protein kinase A phosphorylates and regulates dimerization of 14-3-3 epsilon."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Melanoma"
+					}
+				},
+				"_at_key":"51",
+				"scope":[
+					{
+						"_text_":"SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS]"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"5",
+					"_at_name":"J. Proteome Res.",
+					"_at_date":"2006",
+					"_at_first":"3135",
+					"dbReference":[
+						{
+							"_at_key":"52",
+							"_at_id":"17081065",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"53",
+							"_at_id":"10.1021/pr060363j",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Chi A."
+							},
+							{
+								"_at_name":"Valencia J.C."
+							},
+							{
+								"_at_name":"Hu Z.-Z."
+							},
+							{
+								"_at_name":"Watabe H."
+							},
+							{
+								"_at_name":"Yamaguchi H."
+							},
+							{
+								"_at_name":"Mangini N.J."
+							},
+							{
+								"_at_name":"Huang H."
+							},
+							{
+								"_at_name":"Canfield V.A."
+							},
+							{
+								"_at_name":"Cheng K.C."
+							},
+							{
+								"_at_name":"Yang F."
+							},
+							{
+								"_at_name":"Abe R."
+							},
+							{
+								"_at_name":"Yamagishi S."
+							},
+							{
+								"_at_name":"Shabanowitz J."
+							},
+							{
+								"_at_name":"Hearing V.J."
+							},
+							{
+								"_at_name":"Wu C."
+							},
+							{
+								"_at_name":"Appella E."
+							},
+							{
+								"_at_name":"Hunt D.F."
+							}
+						]
+					},
+					"_at_last":"3144",
+					"title":{
+						"_text_":"Proteomic and bioinformatic characterization of the biogenesis and function of melanosomes."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"54",
+				"scope":{
+					"_text_":"INTERACTION WITH GAB2"
+				},
+				"citation":{
+					"_at_volume":"27",
+					"_at_name":"EMBO J.",
+					"_at_date":"2008",
+					"_at_first":"2305",
+					"dbReference":[
+						{
+							"_at_key":"55",
+							"_at_id":"19172738",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"56",
+							"_at_id":"10.1038/emboj.2008.159",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Brummer T."
+							},
+							{
+								"_at_name":"Larance M."
+							},
+							{
+								"_at_name":"Herrera Abreu M.T."
+							},
+							{
+								"_at_name":"Lyons R.J."
+							},
+							{
+								"_at_name":"Timpson P."
+							},
+							{
+								"_at_name":"Emmerich C.H."
+							},
+							{
+								"_at_name":"Fleuren E.D.G."
+							},
+							{
+								"_at_name":"Lehrbach G.M."
+							},
+							{
+								"_at_name":"Schramek D."
+							},
+							{
+								"_at_name":"Guilhaus M."
+							},
+							{
+								"_at_name":"James D.E."
+							},
+							{
+								"_at_name":"Daly R.J."
+							}
+						]
+					},
+					"_at_last":"2316",
+					"title":{
+						"_text_":"Phosphorylation-dependent binding of 14-3-3 terminates signalling by the Gab2 docking protein."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Liver"
+					}
+				},
+				"_at_key":"57",
+				"scope":[
+					{
+						"_text_":"PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-210"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"8",
+					"_at_name":"Proteomics",
+					"_at_date":"2008",
+					"_at_first":"1346",
+					"dbReference":[
+						{
+							"_at_key":"58",
+							"_at_id":"18318008",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"59",
+							"_at_id":"10.1002/pmic.200700884",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Han G."
+							},
+							{
+								"_at_name":"Ye M."
+							},
+							{
+								"_at_name":"Zhou H."
+							},
+							{
+								"_at_name":"Jiang X."
+							},
+							{
+								"_at_name":"Feng S."
+							},
+							{
+								"_at_name":"Jiang X."
+							},
+							{
+								"_at_name":"Tian R."
+							},
+							{
+								"_at_name":"Wan D."
+							},
+							{
+								"_at_name":"Zou H."
+							},
+							{
+								"_at_name":"Gu J."
+							}
+						]
+					},
+					"_at_last":"1361",
+					"title":{
+						"_text_":"Large-scale phosphoproteome analysis of human liver tissue by enrichment and fractionation of phosphopeptides with strong anion exchange chromatography."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Embryonic kidney"
+					}
+				},
+				"_at_key":"60",
+				"scope":[
+					{
+						"_text_":"ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1"
+					},
+					{
+						"_text_":"PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-38 AND SER-210"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"81",
+					"_at_name":"Anal. Chem.",
+					"_at_date":"2009",
+					"_at_first":"4493",
+					"dbReference":[
+						{
+							"_at_key":"61",
+							"_at_id":"19413330",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"62",
+							"_at_id":"10.1021/ac9004309",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Gauci S."
+							},
+							{
+								"_at_name":"Helbig A.O."
+							},
+							{
+								"_at_name":"Slijper M."
+							},
+							{
+								"_at_name":"Krijgsveld J."
+							},
+							{
+								"_at_name":"Heck A.J."
+							},
+							{
+								"_at_name":"Mohammed S."
+							}
+						]
+					},
+					"_at_last":"4501",
+					"title":{
+						"_text_":"Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"63",
+				"scope":[
+					{
+						"_text_":"PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-210"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"8",
+					"_at_name":"Mol. Cell. Proteomics",
+					"_at_date":"2009",
+					"_at_first":"1751",
+					"dbReference":[
+						{
+							"_at_key":"64",
+							"_at_id":"19369195",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"65",
+							"_at_id":"10.1074/mcp.M800588-MCP200",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Oppermann F.S."
+							},
+							{
+								"_at_name":"Gnad F."
+							},
+							{
+								"_at_name":"Olsen J.V."
+							},
+							{
+								"_at_name":"Hornberger R."
+							},
+							{
+								"_at_name":"Greff Z."
+							},
+							{
+								"_at_name":"Keri G."
+							},
+							{
+								"_at_name":"Mann M."
+							},
+							{
+								"_at_name":"Daub H."
+							}
+						]
+					},
+					"_at_last":"1764",
+					"title":{
+						"_text_":"Large-scale proteomics analysis of the human kinome."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"66",
+				"scope":[
+					{
+						"_text_":"ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-50; LYS-69; LYS-118 AND LYS-123"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"325",
+					"_at_name":"Science",
+					"_at_date":"2009",
+					"_at_first":"834",
+					"dbReference":[
+						{
+							"_at_key":"67",
+							"_at_id":"19608861",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"68",
+							"_at_id":"10.1126/science.1175371",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Choudhary C."
+							},
+							{
+								"_at_name":"Kumar C."
+							},
+							{
+								"_at_name":"Gnad F."
+							},
+							{
+								"_at_name":"Nielsen M.L."
+							},
+							{
+								"_at_name":"Rehman M."
+							},
+							{
+								"_at_name":"Walther T."
+							},
+							{
+								"_at_name":"Olsen J.V."
+							},
+							{
+								"_at_name":"Mann M."
+							}
+						]
+					},
+					"_at_last":"840",
+					"title":{
+						"_text_":"Lysine acetylation targets protein complexes and co-regulates major cellular functions."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"69",
+				"scope":{
+					"_text_":"IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]"
+				},
+				"citation":{
+					"_at_volume":"5",
+					"_at_name":"BMC Syst. Biol.",
+					"_at_date":"2011",
+					"_at_first":"17",
+					"dbReference":[
+						{
+							"_at_key":"70",
+							"_at_id":"21269460",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"71",
+							"_at_id":"10.1186/1752-0509-5-17",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Burkard T.R."
+							},
+							{
+								"_at_name":"Planyavsky M."
+							},
+							{
+								"_at_name":"Kaupe I."
+							},
+							{
+								"_at_name":"Breitwieser F.P."
+							},
+							{
+								"_at_name":"Buerckstuemmer T."
+							},
+							{
+								"_at_name":"Bennett K.L."
+							},
+							{
+								"_at_name":"Superti-Furga G."
+							},
+							{
+								"_at_name":"Colinge J."
+							}
+						]
+					},
+					"_at_last":"17",
+					"title":{
+						"_text_":"Initial characterization of the human central proteome."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"72",
+				"scope":[
+					{
+						"_text_":"X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 1-233"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					},
+					{
+						"_text_":"INTERACTION WITH PHOSPHOSERINE MOTIFS"
+					},
+					{
+						"_text_":"SUBUNIT"
+					}
+				],
+				"citation":{
+					"_at_volume":"103",
+					"_at_name":"Proc. Natl. Acad. Sci. U.S.A.",
+					"_at_date":"2006",
+					"_at_first":"17237",
+					"dbReference":[
+						{
+							"_at_key":"73",
+							"_at_id":"17085597",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"74",
+							"_at_id":"10.1073/pnas.0605779103",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Yang X."
+							},
+							{
+								"_at_name":"Lee W.H."
+							},
+							{
+								"_at_name":"Sobott F."
+							},
+							{
+								"_at_name":"Papagrigoriou E."
+							},
+							{
+								"_at_name":"Robinson C.V."
+							},
+							{
+								"_at_name":"Grossmann J.G."
+							},
+							{
+								"_at_name":"Sundstroem M."
+							},
+							{
+								"_at_name":"Doyle D.A."
+							},
+							{
+								"_at_name":"Elkins J.M."
+							}
+						]
+					},
+					"_at_last":"17242",
+					"title":{
+						"_text_":"Structural basis for protein-protein interactions in the 14-3-3 protein family."
+					},
+					"_at_type":"journal article"
+				}
+			}
+		],
+		"evidence":[
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"10644344",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"1",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"12042314",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"2",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"15722337",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"3",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"15696159",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"4",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"16376338",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"5",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"19172738",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"6",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"17085597",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"7",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"17081065",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"8",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"_at_ref":"30"
+				},
+				"_at_key":"9",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"19413330",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"10",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"19608861",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"11",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"18318008",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"12",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"19369195",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"13",
+				"_at_type":"ECO:0000006"
+			}
+		],
+		"organism":{
+			"lineage":{
+				"taxon":[
+					{
+						"_text_":"Eukaryota"
+					},
+					{
+						"_text_":"Metazoa"
+					},
+					{
+						"_text_":"Chordata"
+					},
+					{
+						"_text_":"Craniata"
+					},
+					{
+						"_text_":"Vertebrata"
+					},
+					{
+						"_text_":"Euteleostomi"
+					},
+					{
+						"_text_":"Mammalia"
+					},
+					{
+						"_text_":"Eutheria"
+					},
+					{
+						"_text_":"Euarchontoglires"
+					},
+					{
+						"_text_":"Primates"
+					},
+					{
+						"_text_":"Haplorrhini"
+					},
+					{
+						"_text_":"Catarrhini"
+					},
+					{
+						"_text_":"Hominidae"
+					},
+					{
+						"_text_":"Homo"
+					}
+				]
+			},
+			"dbReference":{
+				"_at_key":"1",
+				"_at_id":"9606",
+				"_at_type":"NCBI Taxonomy"
+			},
+			"name":[
+				{
+					"_text_":"Homo sapiens",
+					"_at_type":"scientific"
+				},
+				{
+					"_text_":"Human",
+					"_at_type":"common"
+				}
+			]
+		},
+		"_at_dataset":"Swiss-Prot",
+		"_at_modified":"2011-11-16"
+	},
+	"_at_xsi:schemaLocation":"http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd",
+	"copyright":{
+		"_text_":"\nCopyrighted by the UniProt Consortium, see http://www.uniprot.org/terms\nDistributed under the Creative Commons Attribution-NoDerivs License\n"
+	}
+},"_at_encoding":"UTF-8","_at_version":"1.0"}

@@ -1,0 +1,12 @@
+{
+	"target": {
+		"description": "Voltage-dependent L-type calcium channel subunit alpha-1C",
+		"targetType": "PROTEIN",
+		"chemblId": "CHEMBL1940",
+		"preferredName": "Voltage-gated L-type calcium channel alpha-1C subunit",
+		"proteinAccession": "Q13936",
+		"synonyms": "Voltage-dependent L-type calcium channel subunit alpha-1C; Calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle; Voltage-gated calcium channel subunit alpha Cav1.2",
+		"organism": "Homo sapiens",
+		"geneNames": "CACNA1C; CACH2; CACN2; CACNL1A1; CCHL1A1"
+	}
+}

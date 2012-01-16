@@ -1,0 +1,1715 @@
+{"uniprot":{
+	"entry":[
+		{
+			"keyword":[
+				{
+					"$t":"Acetylation",
+					"@id":"KW-0007"
+				},
+				{
+					"$t":"Alternative initiation",
+					"@id":"KW-0024"
+				},
+				{
+					"$t":"Complete proteome",
+					"@id":"KW-0181"
+				},
+				{
+					"$t":"Cytoplasm",
+					"@id":"KW-0963"
+				},
+				{
+					"$t":"Direct protein sequencing",
+					"@id":"KW-0903"
+				},
+				{
+					"$t":"Phosphoprotein",
+					"@id":"KW-0597"
+				},
+				{
+					"$t":"Reference proteome",
+					"@id":"KW-1185"
+				}
+			],
+			"sequence":{
+				"@checksum":"CABA32314D86800D",
+				"@version":"2",
+				"@mass":"28081",
+				"$t":"\nMTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRSS\nWRVISSIEQKTERNEKKQQMGKEYREKIEAELQDICNDVLQLLDKYLIPNATQPESKVFY\nLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFY\nYEILNSPEKACSLAKTAFDEAIAELDTLNEESYKDSTLIMQLLRDNLTLWTSENQGDEGD\nAGEGEN\n",
+				"@length":"246",
+				"@modified":"2007-01-23"
+			},
+			"gene":{
+				"name":{
+					"$t":"YWHAB",
+					"@type":"primary"
+				}
+			},
+			"name":{
+				"$t":"1433B_BOVIN"
+			},
+			"accession":[
+				{
+					"$t":"P68250"
+				},
+				{
+					"$t":"P29358"
+				},
+				{
+					"$t":"Q0VCL1"
+				}
+			],
+			"@dataset":"Swiss-Prot",
+			"feature":[
+				{
+					"@description":"14-3-3 protein beta/alpha",
+					"location":{
+						"begin":{
+							"@position":"1"
+						},
+						"end":{
+							"@position":"246"
+						}
+					},
+					"@id":"PRO_0000367899",
+					"@type":"chain"
+				},
+				{
+					"@description":"Removed; alternate",
+					"location":{
+						"position":{
+							"@position":"1"
+						}
+					},
+					"@evidence":"2",
+					"@type":"initiator methionine"
+				},
+				{
+					"@description":"14-3-3 protein beta/alpha, N-terminally processed",
+					"location":{
+						"begin":{
+							"@position":"2"
+						},
+						"end":{
+							"@position":"246"
+						}
+					},
+					"@id":"PRO_0000000001",
+					"@type":"chain"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Interaction with phosphoserine on interacting protein",
+					"location":{
+						"position":{
+							"@position":"58"
+						}
+					},
+					"@type":"site"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Interaction with phosphoserine on interacting protein",
+					"location":{
+						"position":{
+							"@position":"129"
+						}
+					},
+					"@type":"site"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"N-acetylmethionine; in 14-3-3 protein beta/alpha; alternate",
+					"location":{
+						"position":{
+							"@position":"1"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"N-acetylthreonine; in 14-3-3 protein beta/alpha, N-terminally processed",
+					"location":{
+						"position":{
+							"@position":"2"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Phosphoserine",
+					"location":{
+						"position":{
+							"@position":"6"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"N6-acetyllysine",
+					"location":{
+						"position":{
+							"@position":"70"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"N6-acetyllysine",
+					"location":{
+						"position":{
+							"@position":"117"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Phosphoserine",
+					"location":{
+						"position":{
+							"@position":"186"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@description":"In isoform Short.",
+					"location":{
+						"begin":{
+							"@position":"1"
+						},
+						"end":{
+							"@position":"2"
+						}
+					},
+					"@id":"VSP_018631",
+					"@type":"splice variant"
+				},
+				{
+					"variation":{
+						"$t":"E"
+					},
+					"@description":"In Ref. 1; AAI20113.",
+					"location":{
+						"position":{
+							"@position":"101"
+						}
+					},
+					"original":{
+						"$t":"Q"
+					},
+					"@ref":"2",
+					"@type":"sequence conflict"
+				}
+			],
+			"proteinExistence":{
+				"@type":"evidence at protein level"
+			},
+			"dbReference":[
+				{
+					"@key":"10",
+					"@id":"BC120112",
+					"property":[
+						{
+							"@value":"AAI20113.1",
+							"@type":"protein sequence ID"
+						},
+						{
+							"@value":"mRNA",
+							"@type":"molecule type"
+						}
+					],
+					"@type":"EMBL"
+				},
+				{
+					"@key":"11",
+					"@id":"AF043736",
+					"property":[
+						{
+							"@value":"AAC02090.1",
+							"@type":"protein sequence ID"
+						},
+						{
+							"@value":"mRNA",
+							"@type":"molecule type"
+						}
+					],
+					"@type":"EMBL"
+				},
+				{
+					"@key":"12",
+					"@id":"IPI00760424",
+					"@type":"IPI"
+				},
+				{
+					"@key":"13",
+					"@id":"IPI00829553",
+					"@type":"IPI"
+				},
+				{
+					"@key":"14",
+					"@id":"S13467",
+					"property":{
+						"@value":"S13467",
+						"@type":"entry name"
+					},
+					"@type":"PIR"
+				},
+				{
+					"@key":"15",
+					"@id":"NP_777219.2",
+					"property":{
+						"@value":"NM_174794.2",
+						"@type":"nucleotide sequence ID"
+					},
+					"@type":"RefSeq"
+				},
+				{
+					"@key":"16",
+					"@id":"Bt.5535",
+					"@type":"UniGene"
+				},
+				{
+					"@key":"17",
+					"@id":"P68250",
+					"@type":"ProteinModelPortal"
+				},
+				{
+					"@key":"18",
+					"@id":"P68250",
+					"property":{
+						"@value":"3-233",
+						"@type":"residue range"
+					},
+					"@type":"SMR"
+				},
+				{
+					"@key":"19",
+					"@id":"P68250",
+					"@type":"STRING"
+				},
+				{
+					"@key":"20",
+					"@id":"P68250",
+					"@type":"PRIDE"
+				},
+				{
+					"@key":"21",
+					"@id":"286863",
+					"@type":"GeneID"
+				},
+				{
+					"@key":"22",
+					"@id":"bta:286863",
+					"@type":"KEGG"
+				},
+				{
+					"@key":"23",
+					"@id":"7529",
+					"@type":"CTD"
+				},
+				{
+					"@key":"24",
+					"@id":"maNOG12363",
+					"@type":"eggNOG"
+				},
+				{
+					"@key":"25",
+					"@id":"ENSGT00550000074221",
+					"@type":"GeneTree"
+				},
+				{
+					"@key":"26",
+					"@id":"HBG050423",
+					"@type":"HOVERGEN"
+				},
+				{
+					"@key":"27",
+					"@id":"P68250",
+					"@type":"InParanoid"
+				},
+				{
+					"@key":"28",
+					"@id":"EOG4N30PR",
+					"@type":"OrthoDB"
+				},
+				{
+					"@key":"29",
+					"@id":"P68250",
+					"@type":"PhylomeDB"
+				},
+				{
+					"@key":"30",
+					"@id":"GO:0042470",
+					"property":[
+						{
+							"@value":"C:melanosome",
+							"@type":"term"
+						},
+						{
+							"@value":"IEA:UniProtKB-SubCell",
+							"@type":"evidence"
+						}
+					],
+					"@type":"GO"
+				},
+				{
+					"@key":"31",
+					"@id":"GO:0048471",
+					"property":[
+						{
+							"@value":"C:perinuclear region of cytoplasm",
+							"@type":"term"
+						},
+						{
+							"@value":"ISS:AgBase",
+							"@type":"evidence"
+						}
+					],
+					"@type":"GO"
+				},
+				{
+					"@key":"32",
+					"@id":"GO:0019904",
+					"property":[
+						{
+							"@value":"F:protein domain specific binding",
+							"@type":"term"
+						},
+						{
+							"@value":"ISS:AgBase",
+							"@type":"evidence"
+						}
+					],
+					"@type":"GO"
+				},
+				{
+					"@key":"33",
+					"@id":"GO:0006605",
+					"property":[
+						{
+							"@value":"P:protein targeting",
+							"@type":"term"
+						},
+						{
+							"@value":"ISS:AgBase",
+							"@type":"evidence"
+						}
+					],
+					"@type":"GO"
+				},
+				{
+					"@key":"34",
+					"@id":"IPR000308",
+					"property":{
+						"@value":"14-3-3",
+						"@type":"entry name"
+					},
+					"@type":"InterPro"
+				},
+				{
+					"@key":"35",
+					"@id":"IPR023409",
+					"property":{
+						"@value":"14-3-3_CS",
+						"@type":"entry name"
+					},
+					"@type":"InterPro"
+				},
+				{
+					"@key":"36",
+					"@id":"IPR023410",
+					"property":{
+						"@value":"14-3-3_domain",
+						"@type":"entry name"
+					},
+					"@type":"InterPro"
+				},
+				{
+					"@key":"37",
+					"@id":"G3DSA:1.20.190.20",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"Gene3D"
+				},
+				{
+					"@key":"38",
+					"@id":"PTHR18860",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PANTHER"
+				},
+				{
+					"@key":"39",
+					"@id":"PF00244",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"Pfam"
+				},
+				{
+					"@key":"40",
+					"@id":"PIRSF000868",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PIRSF"
+				},
+				{
+					"@key":"41",
+					"@id":"PR00305",
+					"property":{
+						"@value":"1433ZETA",
+						"@type":"entry name"
+					},
+					"@type":"PRINTS"
+				},
+				{
+					"@key":"42",
+					"@id":"SM00101",
+					"property":[
+						{
+							"@value":"14_3_3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"SMART"
+				},
+				{
+					"@key":"43",
+					"@id":"SSF48445",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"SUPFAM"
+				},
+				{
+					"@key":"44",
+					"@id":"PS00796",
+					"property":[
+						{
+							"@value":"1433_1",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PROSITE"
+				},
+				{
+					"@key":"45",
+					"@id":"PS00797",
+					"property":[
+						{
+							"@value":"1433_2",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PROSITE"
+				}
+			],
+			"protein":{
+				"alternativeName":{
+					"fullName":{
+						"$t":"Protein kinase C inhibitor protein 1"
+					},
+					"shortName":{
+						"$t":"KCIP-1"
+					}
+				},
+				"component":{
+					"recommendedName":{
+						"fullName":{
+							"$t":"14-3-3 protein beta/alpha, N-terminally processed"
+						}
+					}
+				},
+				"recommendedName":{
+					"fullName":{
+						"$t":"14-3-3 protein beta/alpha"
+					}
+				}
+			},
+			"comment":[
+				{
+					"text":{
+						"$t":"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis (By similarity).",
+						"@evidence":"1"
+					},
+					"@type":"function"
+				},
+				{
+					"text":{
+						"$t":"Homodimer. Interacts with SSH1 and TORC2/CRTC2. Interacts with ABL1; the interaction results in cytoplasmic location of ABL1 and inhibition of cABL-mediated apoptosis. Interacts with ROR2 (dimer); the interaction results in phosphorylation of YWHAB on tyrosine residues. Interacts with YAP1 (phosphorylated form). Interacts with SAMSN1 (By similarity)."
+					},
+					"@type":"subunit"
+				},
+				{
+					"subcellularLocation":[
+						{
+							"location":{
+								"$t":"Cytoplasm"
+							}
+						},
+						{
+							"location":{
+								"@status":"by similarity",
+								"$t":"Melanosome"
+							}
+						}
+					],
+					"@type":"subcellular location"
+				},
+				{
+					"text":{
+						"$t":"It is uncertain whether isoform Short is produced by alternative initiation or another biological event."
+					},
+					"isoform":[
+						{
+							"sequence":{
+								"@type":"displayed"
+							},
+							"name":{
+								"$t":"Long"
+							},
+							"id":{
+								"$t":"P68250-1"
+							}
+						},
+						{
+							"sequence":{
+								"@ref":"VSP_018631",
+								"@type":"described"
+							},
+							"name":{
+								"$t":"Short"
+							},
+							"id":{
+								"$t":"P68250-2"
+							},
+							"note":{
+								"$t":"N-acetylmethionine at position 1 (By similarity)."
+							}
+						}
+					],
+					"event":{
+						"@type":"alternative initiation"
+					},
+					"@type":"alternative products"
+				},
+				{
+					"text":{
+						"$t":"The alpha, brain-specific form differs from the beta form in being phosphorylated (By similarity)."
+					},
+					"@type":"PTM"
+				},
+				{
+					"text":{
+						"$t":"Belongs to the 14-3-3 family."
+					},
+					"@type":"similarity"
+				}
+			],
+			"reference":[
+				{
+					"source":{
+						"strain":{
+							"$t":"Hereford"
+						},
+						"tissue":{
+							"$t":"Fetal pons"
+						}
+					},
+					"@key":"2",
+					"scope":{
+						"$t":"NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM LONG)"
+					},
+					"citation":{
+						"@date":"2006-08",
+						"authorList":{
+							"consortium":{
+								"@name":"NIH - Mammalian Gene Collection (MGC) project"
+							}
+						},
+						"@db":"EMBL/GenBank/DDBJ databases",
+						"@type":"submission"
+					}
+				},
+				{
+					"@key":"3",
+					"scope":{
+						"$t":"PROTEIN SEQUENCE OF 2-246"
+					},
+					"citation":{
+						"@date":"1991",
+						"@last":"132",
+						"@name":"J. Mol. Biol.",
+						"dbReference":[
+							{
+								"@key":"4",
+								"@id":"91108808",
+								"@type":"MEDLINE"
+							},
+							{
+								"@key":"5",
+								"@id":"1671102",
+								"@type":"PubMed"
+							},
+							{
+								"@key":"6",
+								"@id":"10.1016/0022-2836(91)90616-E",
+								"@type":"DOI"
+							}
+						],
+						"@first":"125",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Isobe T."
+								},
+								{
+									"@name":"Ichimura T."
+								},
+								{
+									"@name":"Sunaya T."
+								},
+								{
+									"@name":"Okuyama T."
+								},
+								{
+									"@name":"Takahashi N."
+								},
+								{
+									"@name":"Kuwano R."
+								},
+								{
+									"@name":"Takahashi Y."
+								}
+							]
+						},
+						"title":{
+							"$t":"Distinct forms of the protein kinase-dependent activator of tyrosine and tryptophan hydroxylases."
+						},
+						"@type":"journal article",
+						"@volume":"217"
+					}
+				},
+				{
+					"@key":"7",
+					"scope":{
+						"$t":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHORT)"
+					},
+					"citation":{
+						"@date":"1998-01",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Jones J.M."
+								},
+								{
+									"@name":"Niikura T."
+								},
+								{
+									"@name":"Pinke R.M."
+								},
+								{
+									"@name":"Guo W."
+								},
+								{
+									"@name":"Molday L."
+								},
+								{
+									"@name":"Leykam J."
+								},
+								{
+									"@name":"McConnell D.G."
+								}
+							]
+						},
+						"title":{
+							"$t":"Expression of 14-3-3 proteins in bovine retinal photoreceptors."
+						},
+						"@db":"EMBL/GenBank/DDBJ databases",
+						"@type":"submission"
+					}
+				},
+				{
+					"@key":"8",
+					"scope":{
+						"$t":"FUNCTION"
+					},
+					"citation":{
+						"@date":"1994",
+						"@last":"1916",
+						"@name":"J. Neurochem.",
+						"dbReference":{
+							"@key":"9",
+							"@id":"7931346",
+							"@type":"PubMed"
+						},
+						"@first":"1908",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Tanji M."
+								},
+								{
+									"@name":"Horwitz R."
+								},
+								{
+									"@name":"Rosenfeld G."
+								},
+								{
+									"@name":"Waymire J.C."
+								}
+							]
+						},
+						"title":{
+							"$t":"Activation of protein kinase C by purified bovine brain 14-3-3: comparison with tyrosine hydroxylase activation."
+						},
+						"@type":"journal article",
+						"@volume":"63"
+					}
+				}
+			],
+			"@version":"58",
+			"evidence":[
+				{
+					"source":{
+						"dbReference":{
+							"@id":"7931346",
+							"@type":"PubMed"
+						}
+					},
+					"@key":"1",
+					"@type":"ECO:0000006"
+				},
+				{
+					"source":{
+						"dbReference":{
+							"@id":"1671102",
+							"@type":"PubMed"
+						}
+					},
+					"@key":"2",
+					"@type":"ECO:0000006"
+				}
+			],
+			"organism":{
+				"lineage":{
+					"taxon":[
+						{
+							"$t":"Eukaryota"
+						},
+						{
+							"$t":"Metazoa"
+						},
+						{
+							"$t":"Chordata"
+						},
+						{
+							"$t":"Craniata"
+						},
+						{
+							"$t":"Vertebrata"
+						},
+						{
+							"$t":"Euteleostomi"
+						},
+						{
+							"$t":"Mammalia"
+						},
+						{
+							"$t":"Eutheria"
+						},
+						{
+							"$t":"Laurasiatheria"
+						},
+						{
+							"$t":"Cetartiodactyla"
+						},
+						{
+							"$t":"Ruminantia"
+						},
+						{
+							"$t":"Pecora"
+						},
+						{
+							"$t":"Bovidae"
+						},
+						{
+							"$t":"Bovinae"
+						},
+						{
+							"$t":"Bos"
+						}
+					]
+				},
+				"dbReference":{
+					"@key":"1",
+					"@id":"9913",
+					"@type":"NCBI Taxonomy"
+				},
+				"name":[
+					{
+						"$t":"Bos taurus",
+						"@type":"scientific"
+					},
+					{
+						"$t":"Bovine",
+						"@type":"common"
+					}
+				]
+			},
+			"@created":"2004-10-25",
+			"@modified":"2011-09-21"
+		},
+		{
+			"keyword":[
+				{
+					"$t":"Acetylation",
+					"@id":"KW-0007"
+				},
+				{
+					"$t":"Alternative initiation",
+					"@id":"KW-0024"
+				},
+				{
+					"$t":"Cytoplasm",
+					"@id":"KW-0963"
+				},
+				{
+					"$t":"Direct protein sequencing",
+					"@id":"KW-0903"
+				},
+				{
+					"$t":"Phosphoprotein",
+					"@id":"KW-0597"
+				}
+			],
+			"sequence":{
+				"@fragment":"multiple",
+				"@checksum":"923914FE5226E608",
+				"@version":"2",
+				"@mass":"22054",
+				"$t":"\nMTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRSS\nWRVISSIEQKTERNEKKQQMGKEYKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEI\nSKKEMQPTHPIRLGLALNFSVFYYEILNSPEAIAELDTLNEESYKDSTLIMQLLRDNLTL\nWTSENQGDEGDAG\n",
+				"@length":"193",
+				"@modified":"2007-01-23"
+			},
+			"gene":{
+				"name":{
+					"$t":"YWHAB",
+					"@type":"primary"
+				}
+			},
+			"name":{
+				"$t":"1433B_SHEEP"
+			},
+			"accession":[
+				{
+					"$t":"P68251"
+				},
+				{
+					"$t":"P29358"
+				}
+			],
+			"@dataset":"Swiss-Prot",
+			"feature":[
+				{
+					"@description":"14-3-3 protein beta/alpha",
+					"location":{
+						"begin":{
+							"@position":"1"
+						},
+						"end":{
+							"@position":"193"
+						}
+					},
+					"@id":"PRO_0000367905",
+					"@type":"chain"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Removed; alternate",
+					"location":{
+						"position":{
+							"@position":"1"
+						}
+					},
+					"@type":"initiator methionine"
+				},
+				{
+					"@description":"14-3-3 protein beta/alpha, N-terminally processed",
+					"location":{
+						"begin":{
+							"@position":"2"
+						},
+						"end":{
+							"@position":"193"
+						}
+					},
+					"@id":"PRO_0000000009",
+					"@type":"chain"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Interaction with phosphoserine on interacting protein",
+					"location":{
+						"position":{
+							"@position":"58"
+						}
+					},
+					"@type":"site"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Interaction with phosphoserine on interacting protein",
+					"location":{
+						"position":{
+							"@position":"92"
+						}
+					},
+					"@type":"site"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"N-acetylmethionine; in 14-3-3 protein beta/alpha; alternate",
+					"location":{
+						"position":{
+							"@position":"1"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@description":"N-acetylthreonine; in 14-3-3 protein beta/alpha, N-terminally processed",
+					"location":{
+						"position":{
+							"@position":"2"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"Phosphoserine",
+					"location":{
+						"position":{
+							"@position":"6"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@status":"by similarity",
+					"@description":"N6-acetyllysine",
+					"location":{
+						"position":{
+							"@position":"70"
+						}
+					},
+					"@type":"modified residue"
+				},
+				{
+					"@description":"Phosphoserine",
+					"location":{
+						"position":{
+							"@position":"149"
+						}
+					},
+					"@evidence":"1",
+					"@type":"modified residue"
+				},
+				{
+					"@description":"In isoform Short.",
+					"location":{
+						"begin":{
+							"@position":"1"
+						},
+						"end":{
+							"@position":"2"
+						}
+					},
+					"@id":"VSP_018636",
+					"@type":"splice variant"
+				},
+				{
+					"location":{
+						"begin":{
+							"@position":"84"
+						},
+						"end":{
+							"@position":"85"
+						}
+					},
+					"@type":"non-consecutive residues"
+				},
+				{
+					"location":{
+						"begin":{
+							"@position":"150"
+						},
+						"end":{
+							"@position":"151"
+						}
+					},
+					"@type":"non-consecutive residues"
+				},
+				{
+					"location":{
+						"position":{
+							"@position":"193"
+						}
+					},
+					"@type":"non-terminal residue"
+				}
+			],
+			"proteinExistence":{
+				"@type":"evidence at protein level"
+			},
+			"dbReference":[
+				{
+					"@key":"15",
+					"@id":"P68251",
+					"@type":"ProteinModelPortal"
+				},
+				{
+					"@key":"16",
+					"@id":"P68251",
+					"property":{
+						"@value":"3-184",
+						"@type":"residue range"
+					},
+					"@type":"SMR"
+				},
+				{
+					"@key":"17",
+					"@id":"HBG050423",
+					"@type":"HOVERGEN"
+				},
+				{
+					"@key":"18",
+					"@id":"GO:0042470",
+					"property":[
+						{
+							"@value":"C:melanosome",
+							"@type":"term"
+						},
+						{
+							"@value":"IEA:UniProtKB-SubCell",
+							"@type":"evidence"
+						}
+					],
+					"@type":"GO"
+				},
+				{
+					"@key":"19",
+					"@id":"GO:0019904",
+					"property":[
+						{
+							"@value":"F:protein domain specific binding",
+							"@type":"term"
+						},
+						{
+							"@value":"IEA:InterPro",
+							"@type":"evidence"
+						}
+					],
+					"@type":"GO"
+				},
+				{
+					"@key":"20",
+					"@id":"IPR000308",
+					"property":{
+						"@value":"14-3-3",
+						"@type":"entry name"
+					},
+					"@type":"InterPro"
+				},
+				{
+					"@key":"21",
+					"@id":"IPR023409",
+					"property":{
+						"@value":"14-3-3_CS",
+						"@type":"entry name"
+					},
+					"@type":"InterPro"
+				},
+				{
+					"@key":"22",
+					"@id":"IPR023410",
+					"property":{
+						"@value":"14-3-3_domain",
+						"@type":"entry name"
+					},
+					"@type":"InterPro"
+				},
+				{
+					"@key":"23",
+					"@id":"G3DSA:1.20.190.20",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"2",
+							"@type":"match status"
+						}
+					],
+					"@type":"Gene3D"
+				},
+				{
+					"@key":"24",
+					"@id":"PTHR18860",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PANTHER"
+				},
+				{
+					"@key":"25",
+					"@id":"PF00244",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"2",
+							"@type":"match status"
+						}
+					],
+					"@type":"Pfam"
+				},
+				{
+					"@key":"26",
+					"@id":"SM00101",
+					"property":[
+						{
+							"@value":"14_3_3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"SMART"
+				},
+				{
+					"@key":"27",
+					"@id":"SSF48445",
+					"property":[
+						{
+							"@value":"14-3-3",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"SUPFAM"
+				},
+				{
+					"@key":"28",
+					"@id":"PS00796",
+					"property":[
+						{
+							"@value":"1433_1",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PROSITE"
+				},
+				{
+					"@key":"29",
+					"@id":"PS00797",
+					"property":[
+						{
+							"@value":"1433_2",
+							"@type":"entry name"
+						},
+						{
+							"@value":"1",
+							"@type":"match status"
+						}
+					],
+					"@type":"PROSITE"
+				}
+			],
+			"protein":{
+				"alternativeName":{
+					"fullName":{
+						"$t":"Protein kinase C inhibitor protein 1"
+					},
+					"shortName":{
+						"$t":"KCIP-1"
+					}
+				},
+				"component":{
+					"recommendedName":{
+						"fullName":{
+							"$t":"14-3-3 protein beta/alpha, N-terminally processed"
+						}
+					}
+				},
+				"recommendedName":{
+					"fullName":{
+						"$t":"14-3-3 protein beta/alpha"
+					}
+				}
+			},
+			"comment":[
+				{
+					"text":{
+						"$t":"Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis (By similarity)."
+					},
+					"@type":"function"
+				},
+				{
+					"text":{
+						"$t":"Homodimer. Interacts with SSH1 and TORC2/CRTC2. Interacts with ABL1 (phosphorylated form); the interaction results in cytoplasmic location of ABL1 and inhibition of cABL-mediated apoptosis. Interacts with ROR2 (dimer); the interaction results in phosphorylation of YWHAB on tyrosine residues. Interacts with GAB2 and YAP1 (phosphorylated form). Interacts with SAMSN1 (By similarity)."
+					},
+					"@type":"subunit"
+				},
+				{
+					"subcellularLocation":[
+						{
+							"location":{
+								"$t":"Cytoplasm"
+							}
+						},
+						{
+							"location":{
+								"@status":"by similarity",
+								"$t":"Melanosome"
+							}
+						}
+					],
+					"@type":"subcellular location"
+				},
+				{
+					"text":{
+						"$t":"It is uncertain whether isoform Short is produced by alternative initiation or another biological event."
+					},
+					"isoform":[
+						{
+							"sequence":{
+								"@type":"displayed"
+							},
+							"name":{
+								"$t":"Long"
+							},
+							"id":{
+								"$t":"P68251-1"
+							}
+						},
+						{
+							"sequence":{
+								"@ref":"VSP_018636",
+								"@type":"described"
+							},
+							"name":{
+								"$t":"Short"
+							},
+							"id":{
+								"$t":"P68251-2"
+							},
+							"note":{
+								"$t":"Contains N-acetylmethionine at position 1."
+							}
+						}
+					],
+					"event":{
+						"@type":"alternative initiation"
+					},
+					"@type":"alternative products"
+				},
+				{
+					"text":{
+						"$t":"Form alpha differs from form beta in being phosphorylated.",
+						"@evidence":"1"
+					},
+					"@type":"PTM"
+				},
+				{
+					"text":{
+						"$t":"Belongs to the 14-3-3 family."
+					},
+					"@type":"similarity"
+				}
+			],
+			"reference":[
+				{
+					"source":{
+						"tissue":{
+							"$t":"Brain"
+						}
+					},
+					"@key":"2",
+					"scope":{
+						"$t":"PROTEIN SEQUENCE OF 3-193"
+					},
+					"citation":{
+						"@date":"1992",
+						"@last":"461",
+						"@name":"Eur. J. Biochem.",
+						"dbReference":[
+							{
+								"@key":"3",
+								"@id":"92283271",
+								"@type":"MEDLINE"
+							},
+							{
+								"@key":"4",
+								"@id":"1317796",
+								"@type":"PubMed"
+							},
+							{
+								"@key":"5",
+								"@id":"10.1111/j.1432-1033.1992.tb16946.x",
+								"@type":"DOI"
+							}
+						],
+						"@first":"453",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Toker A."
+								},
+								{
+									"@name":"Sellers L.A."
+								},
+								{
+									"@name":"Amess B."
+								},
+								{
+									"@name":"Patel Y."
+								},
+								{
+									"@name":"Harris A."
+								},
+								{
+									"@name":"Aitken A."
+								}
+							]
+						},
+						"title":{
+							"$t":"Multiple isoforms of a protein kinase C inhibitor (KCIP-1/14-3-3) from sheep brain. Amino acid sequence of phosphorylated forms."
+						},
+						"@type":"journal article",
+						"@volume":"206"
+					}
+				},
+				{
+					"source":{
+						"tissue":{
+							"$t":"Brain"
+						}
+					},
+					"@key":"6",
+					"scope":{
+						"$t":"PROTEIN SEQUENCE OF 3-24 (ISOFORM LONG)"
+					},
+					"citation":{
+						"@date":"1990",
+						"@last":"429",
+						"@name":"Eur. J. Biochem.",
+						"dbReference":[
+							{
+								"@key":"7",
+								"@id":"90345949",
+								"@type":"MEDLINE"
+							},
+							{
+								"@key":"8",
+								"@id":"2143472",
+								"@type":"PubMed"
+							},
+							{
+								"@key":"9",
+								"@id":"10.1111/j.1432-1033.1990.tb19138.x",
+								"@type":"DOI"
+							}
+						],
+						"@first":"421",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Toker A."
+								},
+								{
+									"@name":"Ellis C.A."
+								},
+								{
+									"@name":"Sellers L.A."
+								},
+								{
+									"@name":"Aitken A."
+								}
+							]
+						},
+						"title":{
+							"$t":"Protein kinase C inhibitor proteins. Purification from sheep brain and sequence similarity to lipocortins and 14-3-3 protein."
+						},
+						"@type":"journal article",
+						"@volume":"191"
+					}
+				},
+				{
+					"@key":"10",
+					"scope":[
+						{
+							"$t":"PHOSPHORYLATION AT SER-149"
+						},
+						{
+							"$t":"MASS SPECTROMETRY"
+						}
+					],
+					"citation":{
+						"@date":"1995",
+						"@last":"5709",
+						"@name":"J. Biol. Chem.",
+						"dbReference":[
+							{
+								"@key":"11",
+								"@id":"95197587",
+								"@type":"MEDLINE"
+							},
+							{
+								"@key":"12",
+								"@id":"7890696",
+								"@type":"PubMed"
+							},
+							{
+								"@key":"13",
+								"@id":"10.1074/jbc.270.11.5706",
+								"@type":"DOI"
+							}
+						],
+						"@first":"5706",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Aitken A."
+								},
+								{
+									"@name":"Howell S."
+								},
+								{
+									"@name":"Jones D."
+								},
+								{
+									"@name":"Madrazo J."
+								},
+								{
+									"@name":"Patel Y."
+								}
+							]
+						},
+						"title":{
+							"$t":"14-3-3 alpha and delta are the phosphorylated forms of raf-activating 14-3-3 beta and zeta. In vivo stoichiometric phosphorylation in brain at a Ser-Pro-Glu-Lys motif."
+						},
+						"@type":"journal article",
+						"@volume":"270"
+					}
+				},
+				{
+					"@key":"14",
+					"scope":[
+						{
+							"$t":"ACETYLATION OF N-TERMINUS"
+						},
+						{
+							"$t":"MASS SPECTROMETRY"
+						}
+					],
+					"citation":{
+						"@date":"1994",
+						"@last":"465",
+						"@name":"J. Protein Chem.",
+						"@first":"463",
+						"authorList":{
+							"person":[
+								{
+									"@name":"Aitken A."
+								},
+								{
+									"@name":"Patel Y."
+								},
+								{
+									"@name":"Martin H."
+								},
+								{
+									"@name":"Jones D."
+								},
+								{
+									"@name":"Robinson K."
+								},
+								{
+									"@name":"Madrazo J."
+								},
+								{
+									"@name":"Howell S."
+								}
+							]
+						},
+						"title":{
+							"$t":"Electrospray mass spectroscopy analysis with online trapping of posttranslationally modified mammalian and avian brain 14-3-3 isoforms."
+						},
+						"@type":"journal article",
+						"@volume":"13"
+					}
+				}
+			],
+			"@version":"47",
+			"evidence":{
+				"source":{
+					"dbReference":{
+						"@id":"7890696",
+						"@type":"PubMed"
+					}
+				},
+				"@key":"1",
+				"@type":"ECO:0000006"
+			},
+			"organism":{
+				"lineage":{
+					"taxon":[
+						{
+							"$t":"Eukaryota"
+						},
+						{
+							"$t":"Metazoa"
+						},
+						{
+							"$t":"Chordata"
+						},
+						{
+							"$t":"Craniata"
+						},
+						{
+							"$t":"Vertebrata"
+						},
+						{
+							"$t":"Euteleostomi"
+						},
+						{
+							"$t":"Mammalia"
+						},
+						{
+							"$t":"Eutheria"
+						},
+						{
+							"$t":"Laurasiatheria"
+						},
+						{
+							"$t":"Cetartiodactyla"
+						},
+						{
+							"$t":"Ruminantia"
+						},
+						{
+							"$t":"Pecora"
+						},
+						{
+							"$t":"Bovidae"
+						},
+						{
+							"$t":"Caprinae"
+						},
+						{
+							"$t":"Ovis"
+						}
+					]
+				},
+				"dbReference":{
+					"@key":"1",
+					"@id":"9940",
+					"@type":"NCBI Taxonomy"
+				},
+				"name":[
+					{
+						"$t":"Ovis aries",
+						"@type":"scientific"
+					},
+					{
+						"$t":"Sheep",
+						"@type":"common"
+					}
+				]
+			},
+			"@created":"2004-10-25",
+			"@modified":"2011-06-28"
+		}
+	],
+	"copyright":{
+		"$t":"\nCopyrighted by the UniProt Consortium, see http://www.uniprot.org/terms\nDistributed under the Creative Commons Attribution-NoDerivs License\n"
+	},
+	"@xsi:schemaLocation":"http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd"
+},"@encoding":"UTF-8","@version":"1.0"}

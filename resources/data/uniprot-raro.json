@@ -1,0 +1,3481 @@
+{"uniprot":{
+	"entry":{
+		"keyword":[
+			{
+				"_text_":"Alternative splicing",
+				"_at_id":"KW-0025"
+			},
+			{
+				"_text_":"Cell membrane",
+				"_at_id":"KW-1003"
+			},
+			{
+				"_text_":"Complete proteome",
+				"_at_id":"KW-0181"
+			},
+			{
+				"_text_":"Direct protein sequencing",
+				"_at_id":"KW-0903"
+			},
+			{
+				"_text_":"Disulfide bond",
+				"_at_id":"KW-1015"
+			},
+			{
+				"_text_":"Glycoprotein",
+				"_at_id":"KW-0325"
+			},
+			{
+				"_text_":"Immunoglobulin domain",
+				"_at_id":"KW-0393"
+			},
+			{
+				"_text_":"Membrane",
+				"_at_id":"KW-0472"
+			},
+			{
+				"_text_":"Obesity",
+				"_at_id":"KW-0550"
+			},
+			{
+				"_text_":"Phosphoprotein",
+				"_at_id":"KW-0597"
+			},
+			{
+				"_text_":"Polymorphism",
+				"_at_id":"KW-0621"
+			},
+			{
+				"_text_":"Receptor",
+				"_at_id":"KW-0675"
+			},
+			{
+				"_text_":"Reference proteome",
+				"_at_id":"KW-1185"
+			},
+			{
+				"_text_":"Repeat",
+				"_at_id":"KW-0677"
+			},
+			{
+				"_text_":"Secreted",
+				"_at_id":"KW-0964"
+			},
+			{
+				"_text_":"Signal",
+				"_at_id":"KW-0732"
+			},
+			{
+				"_text_":"Transmembrane",
+				"_at_id":"KW-0812"
+			},
+			{
+				"_text_":"Transmembrane helix",
+				"_at_id":"KW-1133"
+			}
+		],
+		"sequence":{
+			"_text_":"\nMICQKFCVVLLHWEFIYVITAFNLSYPITPWRFKLSCMPPNSTYDYFLLPAGLSKNTSNS\nNGHYETAVEPKFNSSGTHFSNLSKTTFHCCFRSEQDRNCSLCADNIEGKTFVSTVNSLVF\nQQIDANWNIQCWLKGDLKLFICYVESLFKNLFRNYNYKVHLLYVLPEVLEDSPLVPQKGS\nFQMVHCNCSVHECCECLVPVPTAKLNDTLLMCLKITSGGVIFQSPLMSVQPINMVKPDPP\nLGLHMEITDDGNLKISWSSPPLVPFPLQYQVKYSENSTTVIREADKIVSATSLLVDSILP\nGSSYEVQVRGKRLDGPGIWSDWSTPRVFTTQDVIYFPPKILTSVGSNVSFHCIYKKENKI\nVPSKEIVWWMNLAEKIPQSQYDVVSDHVSKVTFFNLNETKPRGKFTYDAVYCCNEHECHH\nRYAELYVIDVNINISCETDGYLTKMTCRWSTSTIQSLAESTLQLRYHRSSLYCSDIPSIH\nPISEPKDCYLQSDGFYECIFQPIFLLSGYTMWIRINHSLGSLDSPPTCVLPDSVVKPLPP\nSSVKAEITINIGLLKISWEKPVFPENNLQFQIRYGLSGKEVQWKMYEVYDAKSKSVSLPV\nPDLCAVYAVQVRCKRLDGLGYWSNWSNPAYTVVMDIKVPMRGPEFWRIINGDTMKKEKNV\nTLLWKPLMKNDSLCSVQRYVINHHTSCNGTWSEDVGNHTKFTFLWTEQAHTVTVLAINSI\nGASVANFNLTFSWPMSKVNIVQSLSAYPLNSSCVIVSWILSPSDYKLMYFIIEWKNLNED\nGEIKWLRISSSVKKYYIHDHFIPIEKYQFSLYPIFMEGVGKPKIINSFTQDDIEKHQSDA\nGLYVIVPVIISSSILLLGTLLISHQRMKKLFWEDVPNPKNCSWAQGLNFQKPETFEHLFI\nKHTASVTCGPLLLEPETISEDISVDTSWKNKDEMMPTTVVSLLSTTDLEKGSVCISDQFN\nSVNFSEAEGTEVTYEDESQRQPFVKYATLISNSKPSETGEEQGLINSSVTKCFSSKNSPL\nKDSFSNSSWEIEAQAFFILSDQHPNIISPHLTFSEGLDELLKLEGNFPEENNDKKSIYYL\nGVTSIKKRESGVLLTDKSRVSCPFPAPCLFTDIRVLQDSCSHFVENNINLGTSSKKTFAS\nYMPQFQTCSTQTHKIMENKMCDLTV\n",
+			"_at_precursor":"true",
+			"_at_mass":"132494",
+			"_at_length":"1165",
+			"_at_version":"2",
+			"_at_modified":"2006-10-17",
+			"_at_checksum":"CAA03BEAF2602D0A"
+		},
+		"gene":{
+			"name":[
+				{
+					"_text_":"LEPR",
+					"_at_type":"primary"
+				},
+				{
+					"_text_":"DB",
+					"_at_type":"synonym"
+				},
+				{
+					"_text_":"OBR",
+					"_at_type":"synonym"
+				}
+			]
+		},
+		"name":{
+			"_text_":"LEPR_HUMAN"
+		},
+		"_at_created":"1996-02-01",
+		"accession":[
+			{
+				"_text_":"P48357"
+			},
+			{
+				"_text_":"Q13592"
+			},
+			{
+				"_text_":"Q13593"
+			},
+			{
+				"_text_":"Q13594"
+			},
+			{
+				"_text_":"Q92919"
+			},
+			{
+				"_text_":"Q92920"
+			},
+			{
+				"_text_":"Q92921"
+			}
+		],
+		"_at_version":"131",
+		"feature":[
+			{
+				"location":{
+					"begin":{
+						"_at_position":"1"
+					},
+					"end":{
+						"_at_position":"21"
+					}
+				},
+				"_at_type":"signal peptide"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"22"
+					},
+					"end":{
+						"_at_position":"1165"
+					}
+				},
+				"_at_description":"Leptin receptor",
+				"_at_id":"PRO_0000010904",
+				"_at_type":"chain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"22"
+					},
+					"end":{
+						"_at_position":"839"
+					}
+				},
+				"_at_status":"potential",
+				"_at_description":"Extracellular",
+				"_at_type":"topological domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"840"
+					},
+					"end":{
+						"_at_position":"862"
+					}
+				},
+				"_at_status":"potential",
+				"_at_description":"Helical;",
+				"_at_type":"transmembrane region"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"863"
+					},
+					"end":{
+						"_at_position":"1165"
+					}
+				},
+				"_at_status":"potential",
+				"_at_description":"Cytoplasmic",
+				"_at_type":"topological domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"237"
+					},
+					"end":{
+						"_at_position":"330"
+					}
+				},
+				"_at_description":"Fibronectin type-III 1",
+				"_at_type":"domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"331"
+					},
+					"end":{
+						"_at_position":"429"
+					}
+				},
+				"_at_description":"Ig-like",
+				"_at_type":"domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"537"
+					},
+					"end":{
+						"_at_position":"631"
+					}
+				},
+				"_at_description":"Fibronectin type-III 2",
+				"_at_type":"domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"639"
+					},
+					"end":{
+						"_at_position":"732"
+					}
+				},
+				"_at_description":"Fibronectin type-III 3",
+				"_at_type":"domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"734"
+					},
+					"end":{
+						"_at_position":"829"
+					}
+				},
+				"_at_description":"Fibronectin type-III 4",
+				"_at_type":"domain"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"893"
+					},
+					"end":{
+						"_at_position":"898"
+					}
+				},
+				"_at_status":"by similarity",
+				"_at_description":"Required for JAK2 activation",
+				"_at_type":"region of interest"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"622"
+					},
+					"end":{
+						"_at_position":"626"
+					}
+				},
+				"_at_description":"WSXWS motif",
+				"_at_type":"short sequence motif"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"871"
+					},
+					"end":{
+						"_at_position":"879"
+					}
+				},
+				"_at_description":"Box 1 motif",
+				"_at_type":"short sequence motif"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"986"
+					}
+				},
+				"_at_status":"by similarity",
+				"_at_description":"Phosphotyrosine; by JAK2",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"1141"
+					}
+				},
+				"_at_status":"by similarity",
+				"_at_description":"Phosphotyrosine; by JAK2",
+				"_at_type":"modified residue"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"23"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"41"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"56"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"73"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"81"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"98"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"187"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"206"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"276"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1 2 3",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"347"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"397"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1 3",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"516"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1 2",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"624"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"659"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"688"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"697"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"728"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"750"
+					}
+				},
+				"_at_description":"N-linked (GlcNAc...)",
+				"_at_evidence":"1",
+				"_at_type":"glycosylation site"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"37"
+					},
+					"end":{
+						"_at_position":"90"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"89"
+					},
+					"end":{
+						"_at_position":"99"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"131"
+					},
+					"end":{
+						"_at_position":"142"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"186"
+					},
+					"end":{
+						"_at_position":"196"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"188"
+					},
+					"end":{
+						"_at_position":"193"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"352"
+					},
+					"end":{
+						"_at_position":"412"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"413"
+					},
+					"end":{
+						"_at_position":"418"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"473"
+					},
+					"end":{
+						"_at_position":"528"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"488"
+					},
+					"end":{
+						"_at_position":"498"
+					}
+				},
+				"_at_evidence":"1",
+				"_at_type":"disulfide bond"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"840"
+					},
+					"end":{
+						"_at_position":"1165"
+					}
+				},
+				"_at_description":"In isoform E.",
+				"_at_id":"VSP_001688",
+				"_at_type":"splice variant"
+			},
+			{
+				"variation":{
+					"_text_":"MLEGSMFVKSHHHSLISSTQGHKHCGRPQGPLHRKTRDLCSLVYLLTLPPLLSYDPAKSPSVRNTQE"
+				},
+				"location":{
+					"begin":{
+						"_at_position":"892"
+					},
+					"end":{
+						"_at_position":"958"
+					}
+				},
+				"original":{
+					"_text_":"PETFEHLFIKHTASVTCGPLLLEPETISEDISVDTSWKNKDEMMPTTVVSLLSTTDLEKGSVCISDQ"
+				},
+				"_at_description":"In isoform C.",
+				"_at_id":"VSP_001691",
+				"_at_type":"splice variant"
+			},
+			{
+				"variation":{
+					"_text_":"KMPGTKELLGGGWLT"
+				},
+				"location":{
+					"begin":{
+						"_at_position":"892"
+					},
+					"end":{
+						"_at_position":"906"
+					}
+				},
+				"original":{
+					"_text_":"PETFEHLFIKHTASV"
+				},
+				"_at_description":"In isoform D.",
+				"_at_id":"VSP_001693",
+				"_at_type":"splice variant"
+			},
+			{
+				"variation":{
+					"_text_":"RTDIL"
+				},
+				"location":{
+					"begin":{
+						"_at_position":"892"
+					},
+					"end":{
+						"_at_position":"896"
+					}
+				},
+				"original":{
+					"_text_":"PETFE"
+				},
+				"_at_description":"In isoform A.",
+				"_at_id":"VSP_001689",
+				"_at_type":"splice variant"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"897"
+					},
+					"end":{
+						"_at_position":"1165"
+					}
+				},
+				"_at_description":"In isoform A.",
+				"_at_id":"VSP_001690",
+				"_at_type":"splice variant"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"907"
+					},
+					"end":{
+						"_at_position":"1165"
+					}
+				},
+				"_at_description":"In isoform D.",
+				"_at_id":"VSP_001694",
+				"_at_type":"splice variant"
+			},
+			{
+				"location":{
+					"begin":{
+						"_at_position":"959"
+					},
+					"end":{
+						"_at_position":"1165"
+					}
+				},
+				"_at_description":"In isoform C.",
+				"_at_id":"VSP_001692",
+				"_at_type":"splice variant"
+			},
+			{
+				"variation":{
+					"_text_":"R"
+				},
+				"location":{
+					"position":{
+						"_at_position":"109"
+					}
+				},
+				"original":{
+					"_text_":"K"
+				},
+				"_at_description":"In dbSNP:rs1137100.",
+				"_at_evidence":"4 5 6 7 8 9 10",
+				"_at_id":"VAR_002703",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"G"
+				},
+				"location":{
+					"position":{
+						"_at_position":"124"
+					}
+				},
+				"original":{
+					"_text_":"D"
+				},
+				"_at_description":"In dbSNP:rs35573508.",
+				"_at_id":"VAR_049167",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"R"
+				},
+				"location":{
+					"position":{
+						"_at_position":"204"
+					}
+				},
+				"original":{
+					"_text_":"K"
+				},
+				"_at_evidence":"6",
+				"_at_id":"VAR_002704",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"R"
+				},
+				"location":{
+					"position":{
+						"_at_position":"223"
+					}
+				},
+				"original":{
+					"_text_":"Q"
+				},
+				"_at_description":"In dbSNP:rs1137101.",
+				"_at_evidence":"4 5 6 7 8 9 10 11",
+				"_at_id":"VAR_002705",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"V"
+				},
+				"location":{
+					"position":{
+						"_at_position":"503"
+					}
+				},
+				"original":{
+					"_text_":"I"
+				},
+				"_at_description":"In dbSNP:rs13306526.",
+				"_at_id":"VAR_028201",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"N"
+				},
+				"location":{
+					"position":{
+						"_at_position":"656"
+					}
+				},
+				"original":{
+					"_text_":"K"
+				},
+				"_at_description":"In dbSNP:rs1805094 and dbSNP:rs8179183.",
+				"_at_evidence":"6 7 8 9",
+				"_at_id":"VAR_002706",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"T"
+				},
+				"location":{
+					"position":{
+						"_at_position":"675"
+					}
+				},
+				"original":{
+					"_text_":"S"
+				},
+				"_at_evidence":"9",
+				"_at_id":"VAR_002707",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"M"
+				},
+				"location":{
+					"position":{
+						"_at_position":"699"
+					}
+				},
+				"original":{
+					"_text_":"T"
+				},
+				"_at_description":"In dbSNP:rs34499590.",
+				"_at_id":"VAR_049168",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"F"
+				},
+				"location":{
+					"position":{
+						"_at_position":"986"
+					}
+				},
+				"original":{
+					"_text_":"Y"
+				},
+				"_at_description":"Greatly reduced PTPN11 binding; no PTPN11 phosphorylation; no effect on STAT3 phosphorylation.",
+				"_at_evidence":"12",
+				"_at_type":"mutagenesis site"
+			},
+			{
+				"variation":{
+					"_text_":"FF"
+				},
+				"location":{
+					"begin":{
+						"_at_position":"1078"
+					},
+					"end":{
+						"_at_position":"1079"
+					}
+				},
+				"original":{
+					"_text_":"YY"
+				},
+				"_at_description":"No effect on PTPN11 nor STAT3 phosphorylation.",
+				"_at_type":"mutagenesis site"
+			},
+			{
+				"variation":{
+					"_text_":"F"
+				},
+				"location":{
+					"position":{
+						"_at_position":"1141"
+					}
+				},
+				"original":{
+					"_text_":"Y"
+				},
+				"_at_description":"No effect on PTPN11 phosphorylation; no STAT3 phosphorylation.",
+				"_at_evidence":"12",
+				"_at_type":"mutagenesis site"
+			},
+			{
+				"variation":{
+					"_text_":"A"
+				},
+				"location":{
+					"position":{
+						"_at_position":"85"
+					}
+				},
+				"original":{
+					"_text_":"T"
+				},
+				"_at_description":"In Ref. 3; AAC50509/AAC50510/AAC50511.",
+				"_at_ref":"10",
+				"_at_type":"sequence conflict"
+			},
+			{
+				"variation":{
+					"_text_":"A"
+				},
+				"location":{
+					"position":{
+						"_at_position":"976"
+					}
+				},
+				"original":{
+					"_text_":"D"
+				},
+				"_at_description":"In Ref. 1; AAA93015 and 4; AAB09673.",
+				"_at_ref":"2 14",
+				"_at_type":"sequence conflict"
+			}
+		],
+		"proteinExistence":{
+			"_at_type":"evidence at protein level"
+		},
+		"dbReference":[
+			{
+				"_at_key":"60",
+				"_at_id":"U43168",
+				"property":[
+					{
+						"_at_value":"AAA93015.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"61",
+				"_at_id":"U66495",
+				"property":[
+					{
+						"_at_value":"AAB07495.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"62",
+				"_at_id":"U66496",
+				"property":[
+					{
+						"_at_value":"AAB07496.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"63",
+				"_at_id":"U66497",
+				"property":[
+					{
+						"_at_value":"AAB07497.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"64",
+				"_at_id":"U52912",
+				"property":[
+					{
+						"_at_value":"AAC50509.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"65",
+				"_at_id":"U52913",
+				"property":[
+					{
+						"_at_value":"AAC50510.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"66",
+				"_at_id":"U52914",
+				"property":[
+					{
+						"_at_value":"AAC50511.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"67",
+				"_at_id":"U59263",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"68",
+				"_at_id":"U59248",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"69",
+				"_at_id":"U59249",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"70",
+				"_at_id":"U59250",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"71",
+				"_at_id":"U59252",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"72",
+				"_at_id":"U59253",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"73",
+				"_at_id":"U59254",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"74",
+				"_at_id":"U59255",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"75",
+				"_at_id":"U59256",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"76",
+				"_at_id":"U59257",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"77",
+				"_at_id":"U59258",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"78",
+				"_at_id":"U59259",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"79",
+				"_at_id":"U59260",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"80",
+				"_at_id":"U59261",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"81",
+				"_at_id":"U59262",
+				"property":[
+					{
+						"_at_value":"AAB09673.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"JOINED",
+						"_at_type":"status"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"82",
+				"_at_id":"U50748",
+				"property":[
+					{
+						"_at_value":"AAC23650.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"83",
+				"_at_id":"IPI00009243",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"84",
+				"_at_id":"IPI00219708",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"85",
+				"_at_id":"IPI00219709",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"86",
+				"_at_id":"IPI00219710",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"87",
+				"_at_id":"IPI00219711",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"88",
+				"_at_id":"NP_001003679.1",
+				"property":{
+					"_at_value":"NM_001003679.3",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"89",
+				"_at_id":"NP_001003680.1",
+				"property":{
+					"_at_value":"NM_001003680.3",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"90",
+				"_at_id":"NP_001185616.1",
+				"property":{
+					"_at_value":"NM_001198687.1",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"91",
+				"_at_id":"NP_001185617.1",
+				"property":{
+					"_at_value":"NM_001198688.1",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"92",
+				"_at_id":"NP_001185618.1",
+				"property":{
+					"_at_value":"NM_001198689.1",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"93",
+				"_at_id":"NP_002294.2",
+				"property":{
+					"_at_value":"NM_002303.5",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"94",
+				"_at_id":"Hs.23581",
+				"_at_type":"UniGene"
+			},
+			{
+				"_at_key":"95",
+				"_at_id":"Hs.723178",
+				"_at_type":"UniGene"
+			},
+			{
+				"_at_key":"96",
+				"_at_id":"P48357",
+				"_at_type":"ProteinModelPortal"
+			},
+			{
+				"_at_key":"97",
+				"_at_id":"P48357",
+				"property":{
+					"_at_value":"188-329, 426-832",
+					"_at_type":"residue range"
+				},
+				"_at_type":"SMR"
+			},
+			{
+				"_at_key":"98",
+				"_at_id":"DIP-6117N",
+				"_at_type":"DIP"
+			},
+			{
+				"_at_key":"99",
+				"_at_id":"P48357",
+				"property":{
+					"_at_value":"6",
+					"_at_type":"interactions"
+				},
+				"_at_type":"IntAct"
+			},
+			{
+				"_at_key":"100",
+				"_at_id":"MINT-1387953",
+				"_at_type":"MINT"
+			},
+			{
+				"_at_key":"101",
+				"_at_id":"P48357",
+				"_at_type":"STRING"
+			},
+			{
+				"_at_key":"102",
+				"_at_id":"P48357",
+				"_at_type":"PhosphoSite"
+			},
+			{
+				"_at_key":"103",
+				"_at_id":"P48357",
+				"_at_type":"PRIDE"
+			},
+			{
+				"_at_key":"104",
+				"_at_id":"ENST00000349533",
+				"property":[
+					{
+						"_at_value":"ENSP00000330393",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"ENSG00000116678",
+						"_at_type":"gene ID"
+					}
+				],
+				"_at_type":"Ensembl"
+			},
+			{
+				"_at_key":"105",
+				"_at_id":"3953",
+				"_at_type":"GeneID"
+			},
+			{
+				"_at_key":"106",
+				"_at_id":"hsa:3953",
+				"_at_type":"KEGG"
+			},
+			{
+				"_at_key":"107",
+				"_at_id":"uc001dcg.1",
+				"property":{
+					"_at_value":"human",
+					"_at_type":"organism name"
+				},
+				"_at_type":"UCSC"
+			},
+			{
+				"_at_key":"108",
+				"_at_id":"uc001dch.1",
+				"property":{
+					"_at_value":"human",
+					"_at_type":"organism name"
+				},
+				"_at_type":"UCSC"
+			},
+			{
+				"_at_key":"109",
+				"_at_id":"uc001dci.1",
+				"property":{
+					"_at_value":"human",
+					"_at_type":"organism name"
+				},
+				"_at_type":"UCSC"
+			},
+			{
+				"_at_key":"110",
+				"_at_id":"3953",
+				"_at_type":"CTD"
+			},
+			{
+				"_at_key":"111",
+				"_at_id":"GC01P063995",
+				"_at_type":"GeneCards"
+			},
+			{
+				"_at_key":"112",
+				"_at_id":"HGNC:6554",
+				"property":{
+					"_at_value":"LEPR",
+					"_at_type":"gene designation"
+				},
+				"_at_type":"HGNC"
+			},
+			{
+				"_at_key":"113",
+				"_at_id":"HPA030899",
+				"_at_type":"HPA"
+			},
+			{
+				"_at_key":"114",
+				"_at_id":"601007",
+				"property":{
+					"_at_value":"gene",
+					"_at_type":"type"
+				},
+				"_at_type":"MIM"
+			},
+			{
+				"_at_key":"115",
+				"_at_id":"NX_P48357",
+				"_at_type":"neXtProt"
+			},
+			{
+				"_at_key":"116",
+				"_at_id":"179494",
+				"property":{
+					"_at_value":"Obesity due to leptin receptor gene deficiency",
+					"_at_type":"disease"
+				},
+				"_at_type":"Orphanet"
+			},
+			{
+				"_at_key":"117",
+				"_at_id":"PA229",
+				"_at_type":"PharmGKB"
+			},
+			{
+				"_at_key":"118",
+				"_at_id":"HBG000140",
+				"_at_type":"HOVERGEN"
+			},
+			{
+				"_at_key":"119",
+				"_at_id":"P48357",
+				"_at_type":"InParanoid"
+			},
+			{
+				"_at_key":"120",
+				"_at_id":"IKWLRIP",
+				"_at_type":"OMA"
+			},
+			{
+				"_at_key":"121",
+				"_at_id":"EOG469QT5",
+				"_at_type":"OrthoDB"
+			},
+			{
+				"_at_key":"122",
+				"_at_id":"P48357",
+				"_at_type":"PhylomeDB"
+			},
+			{
+				"_at_key":"123",
+				"_at_id":"ptp1bpathway",
+				"property":{
+					"_at_value":"Signaling events mediated by PTP1B",
+					"_at_type":"pathway name"
+				},
+				"_at_type":"Pathway_Interaction_DB"
+			},
+			{
+				"_at_key":"124",
+				"_at_id":"15505",
+				"_at_type":"NextBio"
+			},
+			{
+				"_at_key":"125",
+				"_at_id":"P48357",
+				"_at_type":"ArrayExpress"
+			},
+			{
+				"_at_key":"126",
+				"_at_id":"P48357",
+				"_at_type":"Bgee"
+			},
+			{
+				"_at_key":"127",
+				"_at_id":"HS_LEPR",
+				"_at_type":"CleanEx"
+			},
+			{
+				"_at_key":"128",
+				"_at_id":"P48357",
+				"_at_type":"Genevestigator"
+			},
+			{
+				"_at_key":"129",
+				"_at_id":"ENSG00000116678",
+				"property":{
+					"_at_value":"Homo sapiens",
+					"_at_type":"organism name"
+				},
+				"_at_type":"GermOnline"
+			},
+			{
+				"_at_key":"130",
+				"_at_id":"GO:0005576",
+				"property":[
+					{
+						"_at_value":"C:extracellular region",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:UniProtKB-SubCell",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"131",
+				"_at_id":"GO:0016021",
+				"property":[
+					{
+						"_at_value":"C:integral to membrane",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:UniProtKB-KW",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"132",
+				"_at_id":"GO:0005886",
+				"property":[
+					{
+						"_at_value":"C:plasma membrane",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:UniProtKB-SubCell",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"133",
+				"_at_id":"GO:0004896",
+				"property":[
+					{
+						"_at_value":"F:cytokine receptor activity",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:InterPro",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"134",
+				"_at_id":"GO:0006112",
+				"property":[
+					{
+						"_at_value":"P:energy reserve metabolic process",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:ProtInc",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"135",
+				"_at_id":"GO:0007275",
+				"property":[
+					{
+						"_at_value":"P:multicellular organismal development",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"TAS:ProtInc",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"136",
+				"_at_id":"IPR003961",
+				"property":{
+					"_at_value":"Fibronectin_type3",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"137",
+				"_at_id":"IPR003529",
+				"property":{
+					"_at_value":"Hematopoietin_rcpt_Gp130_CS",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"138",
+				"_at_id":"IPR003531",
+				"property":{
+					"_at_value":"Hempt_rcpt_S_F1_CS",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"139",
+				"_at_id":"IPR007110",
+				"property":{
+					"_at_value":"Ig-like",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"140",
+				"_at_id":"IPR013783",
+				"property":{
+					"_at_value":"Ig-like_fold",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"141",
+				"_at_id":"IPR010457",
+				"property":{
+					"_at_value":"IgC2-like_lig-bd",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"142",
+				"_at_id":"IPR015752",
+				"property":{
+					"_at_value":"Lep_receptor",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"143",
+				"_at_id":"G3DSA:2.60.40.10",
+				"property":[
+					{
+						"_at_value":"Ig-like_fold",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"5",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"Gene3D"
+			},
+			{
+				"_at_key":"144",
+				"_at_id":"K05062",
+				"_at_type":"KO"
+			},
+			{
+				"_at_key":"145",
+				"_at_id":"PTHR23036:SF11",
+				"property":[
+					{
+						"_at_value":"Lep_receptor",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PANTHER"
+			},
+			{
+				"_at_key":"146",
+				"_at_id":"PF06328",
+				"property":[
+					{
+						"_at_value":"Lep_receptor_Ig",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"Pfam"
+			},
+			{
+				"_at_key":"147",
+				"_at_id":"SM00060",
+				"property":[
+					{
+						"_at_value":"FN3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"4",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"SMART"
+			},
+			{
+				"_at_key":"148",
+				"_at_id":"SSF49265",
+				"property":[
+					{
+						"_at_value":"FN_III-like",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"4",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"SUPFAM"
+			},
+			{
+				"_at_key":"149",
+				"_at_id":"PS50853",
+				"property":[
+					{
+						"_at_value":"FN3",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"4",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PROSITE"
+			},
+			{
+				"_at_key":"150",
+				"_at_id":"PS01353",
+				"property":[
+					{
+						"_at_value":"HEMATOPO_REC_L_F2",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PROSITE"
+			},
+			{
+				"_at_key":"151",
+				"_at_id":"PS50835",
+				"property":[
+					{
+						"_at_value":"IG_LIKE",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PROSITE"
+			}
+		],
+		"protein":{
+			"alternativeName":[
+				{
+					"fullName":{
+						"_text_":"HuB219"
+					}
+				},
+				{
+					"fullName":{
+						"_text_":"OB receptor"
+					},
+					"shortName":{
+						"_text_":"OB-R"
+					}
+				}
+			],
+			"recommendedName":{
+				"fullName":{
+					"_text_":"Leptin receptor"
+				},
+				"shortName":{
+					"_text_":"LEP-R"
+				}
+			},
+			"cdAntigenName":{
+				"_text_":"CD295"
+			}
+		},
+		"comment":[
+			{
+				"text":{
+					"_text_":"Receptor for obesity factor (leptin). On ligand binding, mediates signaling through JAK2/STAT3. Involved in the regulation of fat metabolism and, in a hematopoietic pathway, required for normal lymphopoiesis. May play a role in reproduction. Can also mediate the ERK/FOS signaling pathway (By similarity)."
+				},
+				"_at_type":"function"
+			},
+			{
+				"text":{
+					"_text_":"On leptin stimulation, homodimerizes. The phosphorylated receptor binds a number of SH2 domain-containing proteins such as STAT3, PTPN11, and SOCS3 (By similarity). Interaction with SOCS3 inhibits LRb signaling (By similarity)."
+				},
+				"_at_type":"subunit"
+			},
+			{
+				"organismsDiffer":{
+					"_text_":"false"
+				},
+				"interactant":[
+					{
+						"_at_intactId":"EBI-518596"
+					},
+					{
+						"_at_intactId":"EBI-401755",
+						"label":{
+							"_text_":"GRB2"
+						},
+						"id":{
+							"_text_":"P62993"
+						}
+					}
+				],
+				"experiments":{
+					"_text_":"3"
+				},
+				"_at_type":"interaction"
+			},
+			{
+				"subcellularLocation":{
+					"location":{
+						"_text_":"Cell membrane"
+					},
+					"topology":{
+						"_text_":"Single-pass type I membrane protein"
+					}
+				},
+				"_at_type":"subcellular location"
+			},
+			{
+				"subcellularLocation":{
+					"location":{
+						"_at_status":"probable",
+						"_text_":"Secreted"
+					}
+				},
+				"molecule":{
+					"_text_":"Isoform E"
+				},
+				"_at_type":"subcellular location"
+			},
+			{
+				"isoform":[
+					{
+						"sequence":{
+							"_at_type":"displayed"
+						},
+						"name":[
+							{
+								"_text_":"B"
+							},
+							{
+								"_text_":"13.2"
+							},
+							{
+								"_text_":"OBRb"
+							}
+						],
+						"id":{
+							"_text_":"P48357-1"
+						}
+					},
+					{
+						"sequence":{
+							"_at_ref":"VSP_001689 VSP_001690",
+							"_at_type":"described"
+						},
+						"name":[
+							{
+								"_text_":"A"
+							},
+							{
+								"_text_":"6.4"
+							},
+							{
+								"_text_":"HuB219.3"
+							}
+						],
+						"id":{
+							"_text_":"P48357-2"
+						}
+					},
+					{
+						"sequence":{
+							"_at_ref":"VSP_001691 VSP_001692",
+							"_at_type":"described"
+						},
+						"name":[
+							{
+								"_text_":"C"
+							},
+							{
+								"_text_":"12.1"
+							},
+							{
+								"_text_":"OBRa"
+							}
+						],
+						"id":{
+							"_text_":"P48357-3"
+						}
+					},
+					{
+						"sequence":{
+							"_at_ref":"VSP_001693 VSP_001694",
+							"_at_type":"described"
+						},
+						"name":[
+							{
+								"_text_":"D"
+							},
+							{
+								"_text_":"HuB219.2"
+							}
+						],
+						"id":{
+							"_text_":"P48357-4"
+						}
+					},
+					{
+						"sequence":{
+							"_at_ref":"VSP_001688",
+							"_at_type":"described"
+						},
+						"name":{
+							"_text_":"E"
+						},
+						"id":{
+							"_text_":"P48357-5"
+						}
+					}
+				],
+				"event":{
+					"_at_type":"alternative splicing"
+				},
+				"_at_type":"alternative products"
+			},
+			{
+				"text":{
+					"_text_":"Isoform A is expressed in fetal liver and in hematopoietic tissues and choroid plexus. In adults highest expression in heart, liver, small intestine, prostate and ovary. Low level in lung and kidney. Isoform B is highly expressed in hypothalamus."
+				},
+				"_at_type":"tissue specificity"
+			},
+			{
+				"text":{
+					"_text_":"The cytoplasmic domain may be essential for intracellular signal transduction by activation of JAK tyrosine kinase and STATs."
+				},
+				"_at_type":"domain"
+			},
+			{
+				"text":{
+					"_text_":"The WSXWS motif appears to be necessary for proper protein folding and thereby efficient intracellular transport and cell-surface receptor binding."
+				},
+				"_at_type":"domain"
+			},
+			{
+				"text":{
+					"_text_":"The box 1 motif is required for JAK interaction and/or activation."
+				},
+				"_at_type":"domain"
+			},
+			{
+				"text":{
+					"_text_":"On ligand binding, phosphorylated on two conserved C-terminal tyrosine residues (isoform B only) by JAK2. Tyr-986 is required for complete binding and activation of PTPN11, ERK/FOS activation and, for interaction with SOCS3 (By similarity). Phosphorylation on Tyr-1141 is required for STAT3 binding/activation."
+				},
+				"_at_type":"PTM"
+			},
+			{
+				"text":{
+					"_text_":"Belongs to the type I cytokine receptor family. Type 2 subfamily."
+				},
+				"_at_type":"similarity"
+			},
+			{
+				"text":{
+					"_text_":"Contains 4 fibronectin type-III domains."
+				},
+				"_at_type":"similarity"
+			},
+			{
+				"text":{
+					"_text_":"Contains 1 Ig-like (immunoglobulin-like) domain."
+				},
+				"_at_type":"similarity"
+			}
+		],
+		"reference":[
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Brain"
+					}
+				},
+				"_at_key":"2",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS B AND E)"
+				},
+				"citation":{
+					"_at_volume":"83",
+					"_at_name":"Cell",
+					"_at_date":"1995",
+					"_at_first":"1263",
+					"dbReference":[
+						{
+							"_at_key":"3",
+							"_at_id":"96128129",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"4",
+							"_at_id":"8548812",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"5",
+							"_at_id":"10.1016/0092-8674(95)90151-5",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Tartaglia L.A."
+							},
+							{
+								"_at_name":"Dembski M."
+							},
+							{
+								"_at_name":"Weng X."
+							},
+							{
+								"_at_name":"Deng N."
+							},
+							{
+								"_at_name":"Culpepper J."
+							},
+							{
+								"_at_name":"Devos R."
+							},
+							{
+								"_at_name":"Richards G.J."
+							},
+							{
+								"_at_name":"Campfield L.A."
+							},
+							{
+								"_at_name":"Clark F.T."
+							},
+							{
+								"_at_name":"Deeds J."
+							},
+							{
+								"_at_name":"Muir C."
+							},
+							{
+								"_at_name":"Sanker S."
+							},
+							{
+								"_at_name":"Moriarty A."
+							},
+							{
+								"_at_name":"Moore K.J."
+							},
+							{
+								"_at_name":"Smutko J.S."
+							},
+							{
+								"_at_name":"Mays G.G."
+							},
+							{
+								"_at_name":"Woolf E.A."
+							},
+							{
+								"_at_name":"Monroe C.A."
+							},
+							{
+								"_at_name":"Tepper R.I."
+							}
+						]
+					},
+					"_at_last":"1271",
+					"title":{
+						"_text_":"Identification and expression cloning of a leptin receptor, OB-R."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Fetal liver"
+					}
+				},
+				"_at_key":"6",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS A; B AND C)"
+				},
+				"citation":{
+					"_at_volume":"6",
+					"_at_name":"Curr. Biol.",
+					"_at_date":"1996",
+					"_at_first":"1170",
+					"dbReference":[
+						{
+							"_at_key":"7",
+							"_at_id":"96398968",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"8",
+							"_at_id":"8805376",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"9",
+							"_at_id":"10.1016/S0960-9822(02)70684-2",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Bennett B.D."
+							},
+							{
+								"_at_name":"Solar G.P."
+							},
+							{
+								"_at_name":"Yuan J.Q."
+							},
+							{
+								"_at_name":"Mathias J."
+							},
+							{
+								"_at_name":"Thomas G.R."
+							},
+							{
+								"_at_name":"Matthews W."
+							}
+						]
+					},
+					"_at_last":"1180",
+					"title":{
+						"_text_":"A role for leptin and its cognate receptor in hematopoiesis."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Fetal liver"
+					}
+				},
+				"_at_key":"10",
+				"scope":[
+					{
+						"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS A; C AND D)"
+					},
+					{
+						"_text_":"VARIANTS ARG-109 AND ARG-223"
+					}
+				],
+				"citation":{
+					"_at_volume":"2",
+					"_at_name":"Nat. Med.",
+					"_at_date":"1996",
+					"_at_first":"585",
+					"dbReference":[
+						{
+							"_at_key":"11",
+							"_at_id":"96206286",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"12",
+							"_at_id":"8616721",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"13",
+							"_at_id":"10.1038/nm0596-585",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Cioffi J.A."
+							},
+							{
+								"_at_name":"Shafer A.W."
+							},
+							{
+								"_at_name":"Zupancic T.J."
+							},
+							{
+								"_at_name":"Smith-Gbur J."
+							},
+							{
+								"_at_name":"Mikhail A."
+							},
+							{
+								"_at_name":"Platika D."
+							},
+							{
+								"_at_name":"Snodgrass H.R."
+							}
+						]
+					},
+					"_at_last":"589",
+					"title":{
+						"_text_":"Novel B219/OB receptor isoforms: possible role of leptin in hematopoiesis and reproduction."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"14",
+				"scope":[
+					{
+						"_text_":"NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM B)"
+					},
+					{
+						"_text_":"VARIANTS ARG-109 AND ARG-223"
+					}
+				],
+				"citation":{
+					"_at_volume":"6",
+					"_at_name":"Hum. Mol. Genet.",
+					"_at_date":"1997",
+					"_at_first":"675",
+					"dbReference":[
+						{
+							"_at_key":"15",
+							"_at_id":"97301763",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"16",
+							"_at_id":"9158141",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"17",
+							"_at_id":"10.1093/hmg/6.5.675",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Thompson D.B."
+							},
+							{
+								"_at_name":"Ravussin E."
+							},
+							{
+								"_at_name":"Bennett P.H."
+							},
+							{
+								"_at_name":"Bogardus C."
+							}
+						]
+					},
+					"_at_last":"679",
+					"title":{
+						"_text_":"Structure and sequence variation at the human leptin receptor gene in lean and obese Pima Indians."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"18",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM A)"
+				},
+				"citation":{
+					"_at_volume":"18",
+					"_at_name":"J. Mol. Endocrinol.",
+					"_at_date":"1997",
+					"_at_first":"77",
+					"dbReference":[
+						{
+							"_at_key":"19",
+							"_at_id":"97215244",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"20",
+							"_at_id":"9061609",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"21",
+							"_at_id":"10.1677/jme.0.0180077",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Luoh S.-M."
+							},
+							{
+								"_at_name":"Di Marco F."
+							},
+							{
+								"_at_name":"Levin N."
+							},
+							{
+								"_at_name":"Armanini M."
+							},
+							{
+								"_at_name":"Xie M.H."
+							},
+							{
+								"_at_name":"Nelson C."
+							},
+							{
+								"_at_name":"Bennett G.L."
+							},
+							{
+								"_at_name":"Williams M."
+							},
+							{
+								"_at_name":"Spencer S.A."
+							},
+							{
+								"_at_name":"Gurney A."
+							},
+							{
+								"_at_name":"de Sauvage F.J."
+							}
+						]
+					},
+					"_at_last":"85",
+					"title":{
+						"_text_":"Cloning and characterization of a human leptin receptor using a biologically active leptin immunoadhesin."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"22",
+				"scope":{
+					"_text_":"ALTERNATIVE SPLICING DUE TO AN ENDOGENOUS RETROVIRUS"
+				},
+				"citation":{
+					"_at_volume":"48",
+					"_at_name":"J. Mol. Evol.",
+					"_at_date":"1999",
+					"_at_first":"248",
+					"dbReference":[
+						{
+							"_at_key":"23",
+							"_at_id":"99128223",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"24",
+							"_at_id":"9929394",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"25",
+							"_at_id":"10.1007/PL00013153",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Kapitonov V.V."
+							},
+							{
+								"_at_name":"Jurka J."
+							}
+						]
+					},
+					"_at_last":"251",
+					"title":{
+						"_text_":"The long terminal repeat of an endogenous retrovirus induces alternative splicing and encodes an additional carboxy-terminal sequence in the human leptin receptor."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"26",
+				"scope":[
+					{
+						"_text_":"INTERACTION WITH PTPN11"
+					},
+					{
+						"_text_":"MUTAGENESIS OF TYR-986; 1078-TYR-TYR-1079 AND TYR-1141"
+					}
+				],
+				"citation":{
+					"_at_volume":"95",
+					"_at_name":"Proc. Natl. Acad. Sci. U.S.A.",
+					"_at_date":"1998",
+					"_at_first":"6061",
+					"dbReference":[
+						{
+							"_at_key":"27",
+							"_at_id":"9600917",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"28",
+							"_at_id":"10.1073/pnas.95.11.6061",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Carpenter L.R."
+							},
+							{
+								"_at_name":"Farruggella T.J."
+							},
+							{
+								"_at_name":"Symes A."
+							},
+							{
+								"_at_name":"Karow M.L."
+							},
+							{
+								"_at_name":"Yancopoulos G.D."
+							},
+							{
+								"_at_name":"Stahl N."
+							}
+						]
+					},
+					"_at_last":"6066",
+					"title":{
+						"_text_":"Enhancing leptin response by preventing SH2-containing phosphatase 2 interaction with Ob receptor."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"29",
+				"scope":[
+					{
+						"_text_":"GLYCOSYLATION AT ASN-23; ASN-41; ASN-56; ASN-73; ASN-81; ASN-98; ASN-187; ASN-206; ASN-276; ASN-347; ASN-397; ASN-516; ASN-624; ASN-659; ASN-688; ASN-697; ASN-728 AND ASN-750"
+					},
+					{
+						"_text_":"DISULFIDE BONDS"
+					},
+					{
+						"_text_":"PARTIAL PROTEIN SEQUENCE"
+					}
+				],
+				"citation":{
+					"_at_volume":"273",
+					"_at_name":"J. Biol. Chem.",
+					"_at_date":"1998",
+					"_at_first":"28691",
+					"dbReference":[
+						{
+							"_at_key":"30",
+							"_at_id":"99003211",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"31",
+							"_at_id":"9786864",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"32",
+							"_at_id":"10.1074/jbc.273.44.28691",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Haniu M."
+							},
+							{
+								"_at_name":"Arakawa T."
+							},
+							{
+								"_at_name":"Bures E.J."
+							},
+							{
+								"_at_name":"Young Y."
+							},
+							{
+								"_at_name":"Hui J.O."
+							},
+							{
+								"_at_name":"Rohde M.F."
+							},
+							{
+								"_at_name":"Welcher A.A."
+							},
+							{
+								"_at_name":"Horan T."
+							}
+						]
+					},
+					"_at_last":"28699",
+					"title":{
+						"_text_":"Human leptin receptor. Determination of disulfide structure and N-glycosylation sites of the extracellular domain."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Plasma"
+					}
+				},
+				"_at_key":"33",
+				"scope":[
+					{
+						"_text_":"GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-276 AND ASN-516"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"4",
+					"_at_name":"J. Proteome Res.",
+					"_at_date":"2005",
+					"_at_first":"2070",
+					"dbReference":[
+						{
+							"_at_key":"34",
+							"_at_id":"16335952",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"35",
+							"_at_id":"10.1021/pr0502065",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Liu T."
+							},
+							{
+								"_at_name":"Qian W.-J."
+							},
+							{
+								"_at_name":"Gritsenko M.A."
+							},
+							{
+								"_at_name":"Camp D.G. II"
+							},
+							{
+								"_at_name":"Monroe M.E."
+							},
+							{
+								"_at_name":"Moore R.J."
+							},
+							{
+								"_at_name":"Smith R.D."
+							}
+						]
+					},
+					"_at_last":"2080",
+					"title":{
+						"_text_":"Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Liver"
+					}
+				},
+				"_at_key":"36",
+				"scope":[
+					{
+						"_text_":"GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-276 AND ASN-397"
+					},
+					{
+						"_text_":"MASS SPECTROMETRY"
+					}
+				],
+				"citation":{
+					"_at_volume":"8",
+					"_at_name":"J. Proteome Res.",
+					"_at_date":"2009",
+					"_at_first":"651",
+					"dbReference":[
+						{
+							"_at_key":"37",
+							"_at_id":"19159218",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"38",
+							"_at_id":"10.1021/pr8008012",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Chen R."
+							},
+							{
+								"_at_name":"Jiang X."
+							},
+							{
+								"_at_name":"Sun D."
+							},
+							{
+								"_at_name":"Han G."
+							},
+							{
+								"_at_name":"Wang F."
+							},
+							{
+								"_at_name":"Ye M."
+							},
+							{
+								"_at_name":"Wang L."
+							},
+							{
+								"_at_name":"Zou H."
+							}
+						]
+					},
+					"_at_last":"661",
+					"title":{
+						"_text_":"Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"39",
+				"scope":{
+					"_text_":"VARIANT ARG-223"
+				},
+				"citation":{
+					"_at_volume":"45",
+					"_at_name":"Diabetes",
+					"_at_date":"1996",
+					"_at_first":"992",
+					"dbReference":[
+						{
+							"_at_key":"40",
+							"_at_id":"96270489",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"41",
+							"_at_id":"8666155",
+							"_at_type":"PubMed"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Considine R.V."
+							},
+							{
+								"_at_name":"Considine E.L."
+							},
+							{
+								"_at_name":"Williams C.J."
+							},
+							{
+								"_at_name":"Hyde T.M."
+							},
+							{
+								"_at_name":"Caro J.F."
+							}
+						]
+					},
+					"_at_last":"994",
+					"title":{
+						"_text_":"The hypothalamic leptin receptor in humans: identification of incidental sequence polymorphisms and absence of the db/db mouse and fa/fa rat mutations."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"42",
+				"scope":{
+					"_text_":"VARIANTS ARG-109; ARG-204; ARG-223 AND ASN-656"
+				},
+				"citation":{
+					"_at_volume":"233",
+					"_at_name":"Biochem. Biophys. Res. Commun.",
+					"_at_date":"1997",
+					"_at_first":"248",
+					"dbReference":[
+						{
+							"_at_key":"43",
+							"_at_id":"97289527",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"44",
+							"_at_id":"9144432",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"45",
+							"_at_id":"10.1006/bbrc.1997.6430",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Echwald S.M."
+							},
+							{
+								"_at_name":"Soerensen T.D."
+							},
+							{
+								"_at_name":"Soerensen T.I."
+							},
+							{
+								"_at_name":"Tybjaerg-Hansen A."
+							},
+							{
+								"_at_name":"Andersen T."
+							},
+							{
+								"_at_name":"Chung W.K."
+							},
+							{
+								"_at_name":"Leibel R.L."
+							},
+							{
+								"_at_name":"Pedersen O."
+							}
+						]
+					},
+					"_at_last":"252",
+					"title":{
+						"_text_":"Amino acid variants in the human leptin receptor: lack of association to juvenile onset obesity."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"46",
+				"scope":{
+					"_text_":"VARIANTS ARG-109; ARG-223 AND ASN-656"
+				},
+				"citation":{
+					"_at_volume":"46",
+					"_at_name":"Diabetes",
+					"_at_date":"1997",
+					"_at_first":"1509",
+					"dbReference":[
+						{
+							"_at_key":"47",
+							"_at_id":"97431549",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"48",
+							"_at_id":"9287054",
+							"_at_type":"PubMed"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Chung W.K."
+							},
+							{
+								"_at_name":"Power-Kehoe L."
+							},
+							{
+								"_at_name":"Chua M."
+							},
+							{
+								"_at_name":"Chu F."
+							},
+							{
+								"_at_name":"Aronne L."
+							},
+							{
+								"_at_name":"Huma Z."
+							},
+							{
+								"_at_name":"Sothern M."
+							},
+							{
+								"_at_name":"Udall J.N."
+							},
+							{
+								"_at_name":"Kahle B."
+							},
+							{
+								"_at_name":"Leibel R.L."
+							}
+						]
+					},
+					"_at_last":"1511",
+					"title":{
+						"_text_":"Exonic and intronic sequence variation in the human leptin receptor gene (LEPR)."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"49",
+				"scope":{
+					"_text_":"VARIANTS ARG-109; ARG-223 AND ASN-656"
+				},
+				"citation":{
+					"_at_volume":"6",
+					"_at_name":"Hum. Mol. Genet.",
+					"_at_date":"1997",
+					"_at_first":"869",
+					"dbReference":[
+						{
+							"_at_key":"50",
+							"_at_id":"97318795",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"51",
+							"_at_id":"9175732",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"52",
+							"_at_id":"10.1093/hmg/6.6.869",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Gotoda T."
+							},
+							{
+								"_at_name":"Manning B.S."
+							},
+							{
+								"_at_name":"Goldstone A.P."
+							},
+							{
+								"_at_name":"Imrie H."
+							},
+							{
+								"_at_name":"Evans A.L."
+							},
+							{
+								"_at_name":"Strosberg A.D."
+							},
+							{
+								"_at_name":"McKeigue P.M."
+							},
+							{
+								"_at_name":"Scott J."
+							},
+							{
+								"_at_name":"Aitman T.J."
+							}
+						]
+					},
+					"_at_last":"876",
+					"title":{
+						"_text_":"Leptin receptor gene variation and obesity: lack of association in a white British male population."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"53",
+				"scope":{
+					"_text_":"VARIANTS ARG-109; ARG-223; ASN-656 AND THR-675"
+				},
+				"citation":{
+					"_at_volume":"103",
+					"_at_name":"Hum. Genet.",
+					"_at_date":"1998",
+					"_at_first":"540",
+					"dbReference":[
+						{
+							"_at_key":"54",
+							"_at_id":"99075638",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"55",
+							"_at_id":"9860295",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"56",
+							"_at_id":"10.1007/s004390050867",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Roth H."
+							},
+							{
+								"_at_name":"Korn T."
+							},
+							{
+								"_at_name":"Rosenkranz K."
+							},
+							{
+								"_at_name":"Hinney A."
+							},
+							{
+								"_at_name":"Ziegler A."
+							},
+							{
+								"_at_name":"Kunz J."
+							},
+							{
+								"_at_name":"Siegfried W."
+							},
+							{
+								"_at_name":"Mayer H."
+							},
+							{
+								"_at_name":"Hebebrand J."
+							},
+							{
+								"_at_name":"Grzeschik K.-H."
+							}
+						]
+					},
+					"_at_last":"546",
+					"title":{
+						"_text_":"Transmission disequilibrium and sequence variants at the leptin receptor gene in extremely obese German children and adolescents."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"57",
+				"scope":{
+					"_text_":"VARIANTS [LARGE SCALE ANALYSIS] ARG-109 AND ARG-223"
+				},
+				"citation":{
+					"_at_volume":"456",
+					"_at_name":"Nature",
+					"_at_date":"2008",
+					"_at_first":"66",
+					"dbReference":[
+						{
+							"_at_key":"58",
+							"_at_id":"18987736",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"59",
+							"_at_id":"10.1038/nature07485",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Ley T.J."
+							},
+							{
+								"_at_name":"Mardis E.R."
+							},
+							{
+								"_at_name":"Ding L."
+							},
+							{
+								"_at_name":"Fulton B."
+							},
+							{
+								"_at_name":"McLellan M.D."
+							},
+							{
+								"_at_name":"Chen K."
+							},
+							{
+								"_at_name":"Dooling D."
+							},
+							{
+								"_at_name":"Dunford-Shore B.H."
+							},
+							{
+								"_at_name":"McGrath S."
+							},
+							{
+								"_at_name":"Hickenbotham M."
+							},
+							{
+								"_at_name":"Cook L."
+							},
+							{
+								"_at_name":"Abbott R."
+							},
+							{
+								"_at_name":"Larson D.E."
+							},
+							{
+								"_at_name":"Koboldt D.C."
+							},
+							{
+								"_at_name":"Pohl C."
+							},
+							{
+								"_at_name":"Smith S."
+							},
+							{
+								"_at_name":"Hawkins A."
+							},
+							{
+								"_at_name":"Abbott S."
+							},
+							{
+								"_at_name":"Locke D."
+							},
+							{
+								"_at_name":"Hillier L.W."
+							},
+							{
+								"_at_name":"Miner T."
+							},
+							{
+								"_at_name":"Fulton L."
+							},
+							{
+								"_at_name":"Magrini V."
+							},
+							{
+								"_at_name":"Wylie T."
+							},
+							{
+								"_at_name":"Glasscock J."
+							},
+							{
+								"_at_name":"Conyers J."
+							},
+							{
+								"_at_name":"Sander N."
+							},
+							{
+								"_at_name":"Shi X."
+							},
+							{
+								"_at_name":"Osborne J.R."
+							},
+							{
+								"_at_name":"Minx P."
+							},
+							{
+								"_at_name":"Gordon D."
+							},
+							{
+								"_at_name":"Chinwalla A."
+							},
+							{
+								"_at_name":"Zhao Y."
+							},
+							{
+								"_at_name":"Ries R.E."
+							},
+							{
+								"_at_name":"Payton J.E."
+							},
+							{
+								"_at_name":"Westervelt P."
+							},
+							{
+								"_at_name":"Tomasson M.H."
+							},
+							{
+								"_at_name":"Watson M."
+							},
+							{
+								"_at_name":"Baty J."
+							},
+							{
+								"_at_name":"Ivanovich J."
+							},
+							{
+								"_at_name":"Heath S."
+							},
+							{
+								"_at_name":"Shannon W.D."
+							},
+							{
+								"_at_name":"Nagarajan R."
+							},
+							{
+								"_at_name":"Walter M.J."
+							},
+							{
+								"_at_name":"Link D.C."
+							},
+							{
+								"_at_name":"Graubert T.A."
+							},
+							{
+								"_at_name":"DiPersio J.F."
+							},
+							{
+								"_at_name":"Wilson R.K."
+							}
+						]
+					},
+					"_at_last":"72",
+					"title":{
+						"_text_":"DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome."
+					},
+					"_at_type":"journal article"
+				}
+			}
+		],
+		"evidence":[
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9786864",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"1",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"16335952",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"2",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"19159218",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"3",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"8616721",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"4",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9158141",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"5",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9144432",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"6",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9287054",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"7",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9175732",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"8",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9860295",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"9",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"18987736",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"10",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"8666155",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"11",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"9600917",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"12",
+				"_at_type":"ECO:0000006"
+			}
+		],
+		"organism":{
+			"lineage":{
+				"taxon":[
+					{
+						"_text_":"Eukaryota"
+					},
+					{
+						"_text_":"Metazoa"
+					},
+					{
+						"_text_":"Chordata"
+					},
+					{
+						"_text_":"Craniata"
+					},
+					{
+						"_text_":"Vertebrata"
+					},
+					{
+						"_text_":"Euteleostomi"
+					},
+					{
+						"_text_":"Mammalia"
+					},
+					{
+						"_text_":"Eutheria"
+					},
+					{
+						"_text_":"Euarchontoglires"
+					},
+					{
+						"_text_":"Primates"
+					},
+					{
+						"_text_":"Haplorrhini"
+					},
+					{
+						"_text_":"Catarrhini"
+					},
+					{
+						"_text_":"Hominidae"
+					},
+					{
+						"_text_":"Homo"
+					}
+				]
+			},
+			"dbReference":{
+				"_at_key":"1",
+				"_at_id":"9606",
+				"_at_type":"NCBI Taxonomy"
+			},
+			"name":[
+				{
+					"_text_":"Homo sapiens",
+					"_at_type":"scientific"
+				},
+				{
+					"_text_":"Human",
+					"_at_type":"common"
+				}
+			]
+		},
+		"_at_dataset":"Swiss-Prot",
+		"_at_modified":"2011-11-16"
+	},
+	"_at_xsi:schemaLocation":"http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd",
+	"copyright":{
+		"_text_":"\nCopyrighted by the UniProt Consortium, see http://www.uniprot.org/terms\nDistributed under the Creative Commons Attribution-NoDerivs License\n"
+	}
+},"_at_encoding":"UTF-8","_at_version":"1.0"}

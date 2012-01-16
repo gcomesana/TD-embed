@@ -1,0 +1,20 @@
+
+
+$str = 'bob is a good person. mary is a good person. who is the best? are you a good person? bob is the best?';
+    function repeated($str)
+    {
+        $str=trim($str);  
+        $str=ereg_replace('[[:space:]]+', ' ',$str);  
+        $words=explode(' ',$str);  
+        foreach($words as $w)  
+        {  
+        $wordstats[($w)]++;  
+        }  
+        foreach($wordstats as $k=>$v)  
+        {  
+            if($v>=2)  
+            {  
+                print "$k"." , ";  
+            }  
+        }  
+    }

@@ -1,0 +1,335 @@
+{
+    "experiments": {
+        "version": 1.2,
+        "revision": 100915,
+        "total": 83,
+        "total-samples": 5256,
+        "total-assays": 4518,
+        "experiment": [
+            {
+                "species": "Mus musculus",
+                "rawdatafiles": {
+                    "available": true
+                },
+                "fgemdatafiles": {
+                    "available": true
+                },
+                "sampleattribute": [
+                    {
+                        "category": "CellLine",
+                        "value": [
+                            "B3-FLAG-Rad21",
+                            "VL3-FLAG-Rad21"
+                        ]
+                    },
+                    {
+                        "category": "CellType",
+                        "value": [
+                            "pre-B cell",
+                            "thymocyte"
+                        ]
+                    },
+                    {
+                        "category": "Organism",
+                        "value": "Mus musculus"
+                    }
+                ],
+                "experimentalfactor": [
+                    {
+                        "name": "CellLine",
+                        "value": [
+                            "B3-FLAG-Rad21",
+                            "VL3-FLAG-Rad21"
+                        ]
+                    },
+                    {
+                        "name": "CellType",
+                        "value": [
+                            "pre-B cell",
+                            "thymocyte"
+                        ]
+                    },
+                    {
+                        "name": "Immunoprecipitate",
+                        "value": [
+                            "anti-CTCF antibody",
+                            "anti-FLAG antibody"
+                        ]
+                    }
+                ],
+                "miamescores": {
+                    "reportersequencescore": 1,
+                    "protocolscore": 0,
+                    "factorvaluescore": 1,
+                    "derivedbioassaydatascore": 1,
+                    "measuredbioassaydatascore": 1,
+                    "overallscore": 4
+                },
+                "id": 81347,
+                "accession": "E-TABM-401",
+                "name": "Chromatin immunoprecipitation of mouse B3 pre-B cells and VL3 thymocytes to identify cohesin and CTCF binding sites",
+                "experimenttype": "ChIP-chip by array",
+                "releasedate": "2008-01-31",
+                "lastupdatedate": "2011-10-12",
+                "samples": 6,
+                "assays": 6,
+                "arraydesign": [
+                    {
+                        "id": 11795,
+                        "accession": "A-MEXP-967",
+                        "name": "LymDev NimbleGen M.musculus Chip 2007-03-14_mm5",
+                        "count": 3,
+                        "legacy_id": 1573672887
+                    },
+                    {
+                        "id": 12637,
+                        "accession": "A-MEXP-966",
+                        "name": "LymDev NimbleGen M.musculus Chip 2006-02-06_mm5",
+                        "count": 3,
+                        "legacy_id": 1573672699
+                    }
+                ],
+                "bioassaydatagroup": [
+                    {
+                        "id": null,
+                        "name": "rawData",
+                        "bioassaydatacubes": 6,
+                        "arraydesignprovider": null,
+                        "dataformat": "rawData",
+                        "bioassays": 6,
+                        "isderived": 0
+                    },
+                    {
+                        "id": null,
+                        "name": "processedData",
+                        "bioassaydatacubes": 6,
+                        "arraydesignprovider": null,
+                        "dataformat": "processedData",
+                        "bioassays": 6,
+                        "isderived": 0
+                    },
+                    {
+                        "id": null,
+                        "name": "scan",
+                        "bioassaydatacubes": 6,
+                        "arraydesignprovider": null,
+                        "dataformat": "scan",
+                        "bioassays": 6,
+                        "isderived": 0
+                    }
+                ],
+                "bibliography": {
+                    "authors": "Vania Parelho, Suzana Hadjur, Mikhail Spivakov, Marion Leleu, Stephan Sauer,Heather C Gregson, Adam Jarmuz, Claudia Canzonetta, Zoe Webster, Tatyana Nesterova, Bradley S Cobb, Amanda G Fisher and Matthias Merkenschlager",
+                    "title": "Cohesins functionally associate with CTCF on mammalian chromosome arms"
+                },
+                "provider": {
+                    "contact": "Mikhail Spivakov &. Marion Leleu",
+                    "role": "submitter",
+                    "email": "mikhail.spivakov@csc.mrc.ac.uk; mleleu@csc.mrc.ac.uk"
+                },
+                "experimentdesign": [
+                    "binding site identification",
+                    "in vitro",
+                    "individual genetic characteristics"
+                ],
+                "description": {
+                    "id": null,
+                    "text": "Identification of cohesin (Rad21) and CTCF binding sites in ~2% of the mouse genome in B3 pre-B cells stably expressing FLAG-tagged Rad21 using anti-FLAG (Sigma F3165) and anti-CTCF (Upstate 07729) antibodies"
+                },
+                "protocol": [
+                    {
+                        "id": 223509,
+                        "accession": "P-TABM-2259"
+                    },
+                    {
+                        "id": 223506,
+                        "accession": "P-TABM-2267"
+                    },
+                    {
+                        "id": 223505,
+                        "accession": "P-TABM-2265"
+                    },
+                    {
+                        "id": 223503,
+                        "accession": "P-TABM-2266"
+                    },
+                    {
+                        "id": 223507,
+                        "accession": "P-TABM-2263"
+                    },
+                    {
+                        "id": 223511,
+                        "accession": "P-TABM-2264"
+                    },
+                    {
+                        "id": 223510,
+                        "accession": "P-TABM-2261"
+                    },
+                    {
+                        "id": 223504,
+                        "accession": "P-TABM-2262"
+                    },
+                    {
+                        "id": 223508,
+                        "accession": "P-TABM-2260"
+                    }
+                ]
+            },
+            {
+                "species": "Homo sapiens",
+                "rawdatafiles": {
+                    "available": true
+                },
+                "fgemdatafiles": {
+                    "available": true
+                },
+                "sampleattribute": [
+                    {
+                        "category": "DevelopmentalStage",
+                        "value": "adult"
+                    },
+                    {
+                        "category": "DiseaseState",
+                        "value": "hypopituitarism"
+                    },
+                    {
+                        "category": "Individual",
+                        "value": [
+                            "CC",
+                            "CW",
+                            "FB",
+                            "JM"
+                        ]
+                    },
+                    {
+                        "category": "Organism",
+                        "value": "Homo sapiens"
+                    },
+                    {
+                        "category": "OrganismPart",
+                        "value": "muscle"
+                    },
+                    {
+                        "category": "Sex",
+                        "value": "male"
+                    }
+                ],
+                "experimentalfactor": [
+                    {
+                        "name": "Compound",
+                        "value": "growth hormone"
+                    },
+                    {
+                        "name": "Individual",
+                        "value": [
+                            "CC",
+                            "CW",
+                            "FB",
+                            "JM"
+                        ]
+                    },
+                    {
+                        "name": "Time",
+                        "value": [
+                            "0 weeks",
+                            "2 weeks"
+                        ]
+                    }
+                ],
+                "miamescores": {
+                    "reportersequencescore": 1,
+                    "protocolscore": 0,
+                    "factorvaluescore": 1,
+                    "derivedbioassaydatascore": 1,
+                    "measuredbioassaydatascore": 1,
+                    "overallscore": 4
+                },
+                "id": 30963,
+                "accession": "E-TABM-206",
+                "name": "Transcription profiling of muscle from hypopituitary men before and after growth hormone treatment to investigate the effect of growth hormone on metabolic processes in muscle",
+                "experimenttype": "transcription profiling by array",
+                "releasedate": "2008-01-31",
+                "submissiondate": "2007-01-15",
+                "lastupdatedate": "2011-06-10",
+                "samples": 8,
+                "assays": 8,
+                "arraydesign": {
+                    "id": 11043,
+                    "accession": "A-AFFY-33",
+                    "name": "Affymetrix GeneChip Human Genome HG-U133A [HG-U133A]",
+                    "count": 8,
+                    "legacy_id": 302382080
+                },
+                "bioassaydatagroup": [
+                    {
+                        "id": null,
+                        "name": "rawData",
+                        "bioassaydatacubes": 8,
+                        "arraydesignprovider": null,
+                        "dataformat": "rawData",
+                        "bioassays": 8,
+                        "isderived": 0
+                    },
+                    {
+                        "id": null,
+                        "name": "scan",
+                        "bioassaydatacubes": 8,
+                        "arraydesignprovider": null,
+                        "dataformat": "scan",
+                        "bioassays": 8,
+                        "isderived": 0
+                    },
+                    {
+                        "id": null,
+                        "name": "processedDataMatrix",
+                        "bioassaydatacubes": 1,
+                        "arraydesignprovider": null,
+                        "dataformat": "processedDataMatrix",
+                        "bioassays": 1,
+                        "isderived": 1
+                    }
+                ],
+                "provider": {
+                    "contact": "Ken Ho",
+                    "role": "submitter",
+                    "email": "k.ho@garvan.org.au"
+                },
+                "experimentdesign": [
+                    "co-expression",
+                    "dose response",
+                    "in vivo"
+                ],
+                "description": {
+                    "id": null,
+                    "text": "Muscle is a target of growth hormone (GH) action and a major contributor to whole body metabolism. Little is known about how GH regulates metabolic process in muscle or the extent to which muscle contributes to changes in whole body substrate metabolism during GH treatment. To identify GH-responsive genes that regulate substrate metabolism in muscle, we studied six hypopituitary men who underwent whole body metabolic measurement and muscle biopsies before and after two weeks of GH treatment (0.5mg/day). Transcript profiles of four subjects were analysed using Affymetrix GeneChips. Serum insulin-like growth factor I (IGF-I), procollagens I and III were measured by RIA. GH increased serum IGF-I, procollagens I and III, enhanced whole body lipid oxidation, reduced carbohydrate oxidation, and stimulated protein synthesis. It induced gene expression of IGF-I and collagens in muscle. GH reduced expression of several enzymes regulating lipid oxidation and energy production. It reduced calpain 3, increased ribosomal protein L38 expression, and displayed mixed effects on genes encoding myofibrillar proteins. It increased expression of circadian gene CLOCK, and reduced that of PERIOD. In summary, GH exerted concordant effects on muscle expression and blood levels of IGF-I and collagens. It induced changes in genes regulating protein metabolism in parallel with a whole body anabolic effect. The discordance between muscle gene expression profiles and metabolic responses suggests that muscle is unlikely to contribute to GH-induced stimulation of whole body energy and lipid metabolism. GH may regulate circadian function in muscle by modulating circadian gene expression with possible metabolic consequences."
+                },
+                "protocol": [
+                    {
+                        "id": 62,
+                        "accession": "Affymetrix:Protocol:Hybridization-Unknown"
+                    },
+                    {
+                        "id": 91082,
+                        "accession": "P-TABM-1189"
+                    },
+                    {
+                        "id": 91081,
+                        "accession": "P-TABM-1193"
+                    },
+                    {
+                        "id": 91080,
+                        "accession": "P-TABM-1190"
+                    },
+                    {
+                        "id": 91083,
+                        "accession": "P-TABM-1191"
+                    },
+                    {
+                        "id": 51,
+                        "accession": "P-AFFY-6"
+                    }
+                ]
+            }
+        ]
+    }
+}

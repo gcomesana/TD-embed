@@ -1,0 +1,630 @@
+{
+    "items": [
+        {
+            "entry": "P11171",
+            "names": [
+                "Protein 4.1",
+                "P4.1",
+                "4.1R",
+                "Band 4.1",
+                "EPB4.1"
+            ],
+            "pubmed": [
+                3467321,
+                3223413,
+                3375238,
+                2022644,
+                16710414,
+                15489334,
+                3194408,
+                2171679,
+                3531202,
+                2808371,
+                1647028,
+                7937897,
+                10692436,
+                11003675,
+                11432737,
+                12427749,
+                15525677,
+                17287340,
+                18220336,
+                18669648,
+                19690332,
+                21269460,
+                11017195
+            ],
+            "genes": [
+                "EPB41",
+                "E41P"
+            ]
+        },
+        {
+            "entry": "Q86V21",
+            "names": [
+                "Acetoacetyl-CoA synthetase",
+                "EC 6.2.1.16",
+                "Acyl-CoA synthetase family member 1",
+                "Protein sur-5 homolog"
+            ],
+            "pubmed": [
+                12623130,
+                14702039,
+                15489334,
+                9671465,
+                17974005,
+                17762044,
+                21269460
+            ],
+            "genes": [
+                "AACS",
+                "ACSF1"
+            ]
+        },
+        {
+            "entry": "P33897",
+            "names": [
+                "ATP-binding cassette sub-family D member 1",
+                "Adrenoleukodystrophy protein",
+                "ALDP"
+            ],
+            "pubmed": [
+                8441467,
+                15772651,
+                15489334,
+                10551832,
+                11248239,
+                8507690,
+                10777694,
+                10704444,
+                9195223,
+                11748843,
+                19007248,
+                18691976,
+                18669648,
+                7904210,
+                7849723,
+                8040304,
+                7825602,
+                7717396,
+                7581394,
+                8651290,
+                8566952,
+                9452087,
+                10480364,
+                10369742,
+                10737980,
+                10980539,
+                11438993,
+                11810273,
+                11992258,
+                15643618
+            ],
+            "genes": [
+                "ABCD1",
+                "ALD"
+            ]
+        },
+        {
+            "entry": "Q9UBJ2",
+            "names": [
+                "ATP-binding cassette sub-family D member 2",
+                "Adrenoleukodystrophy-like 1",
+                "Adrenoleukodystrophy-related protein",
+                "hALDR"
+            ],
+            "pubmed": [
+                8577752,
+                9345306,
+                10329405,
+                14702039,
+                15489334,
+                10551832,
+                10777694,
+                10704444,
+                18772397
+            ],
+            "genes": [
+                "ABCD2",
+                "ALD1",
+                "ALDL1",
+                "ALDR",
+                "ALDRP"
+            ]
+        },
+        {
+            "entry": "P28288",
+            "names": [
+                "ATP-binding cassette sub-family D member 3",
+                "70 kDa peroxisomal membrane protein",
+                "PMP70"
+            ],
+            "pubmed": [
+                1301993,
+                1536884,
+                9521874,
+                16710414,
+                15489334,
+                10551832,
+                10777694,
+                10704444,
+                11248239,
+                18187866,
+                19608861,
+                21269460
+            ],
+            "genes": [
+                "ABCD3",
+                "PMP70",
+                "PXMP1"
+            ]
+        },
+        {
+            "entry": "O14678",
+            "names": [
+                "ATP-binding cassette sub-family D member 4",
+                "PMP70-related protein",
+                "P70R",
+                "Peroxisomal membrane protein 1-like",
+                "PXMP1-L",
+                "Peroxisomal membrane protein 69",
+                "PMP69"
+            ],
+            "pubmed": [
+                9266848,
+                9599016,
+                9302272,
+                15489334,
+                12111378
+            ],
+            "genes": [
+                "ABCD4",
+                "PXMP1L"
+            ]
+        },
+        {
+            "entry": "Q8TB40",
+            "names": [
+                "Abhydrolase domain-containing protein 4",
+                "EC 3.1.1.-",
+                "Alpha/beta-hydrolase 4",
+                "Lyso-N-acylphosphatidylethanolamine lipase"
+            ],
+            "pubmed": [
+                14702039,
+                15489334
+            ],
+            "genes": [
+                "ABHD4"
+            ]
+        },
+        {
+            "entry": "Q8WTS1",
+            "names": [
+                "1-acylglycerol-3-phosphate O-acyltransferase ABHD5",
+                "EC 2.3.1.51",
+                "Abhydrolase domain-containing protein 5",
+                "Lipid droplet-binding protein CGI-58"
+            ],
+            "pubmed": [
+                11590543,
+                10810093,
+                14702039,
+                16641997,
+                15489334,
+                16679289,
+                18832586,
+                18606822,
+                15967942,
+                17495960
+            ],
+            "genes": [
+                "ABHD5",
+                "NCIE2",
+                "CGI-58"
+            ]
+        },
+        {
+            "entry": "Q13085",
+            "names": [
+                "Acetyl-CoA carboxylase 1",
+                "ACC1",
+                "EC 6.4.1.2",
+                "ACC-alpha",
+                "EC 6.3.4.14"
+            ],
+            "pubmed": [
+                7732023,
+                12810950,
+                15333468,
+                15489334,
+                14643797,
+                15607423,
+                12360400,
+                15302935,
+                17081983,
+                16326698,
+                16698035,
+                17287340,
+                18187866,
+                6114432,
+                18220336,
+                18691976,
+                18669648,
+                19413330,
+                19369195,
+                19690332,
+                19608861,
+                20952656,
+                21269460,
+                16959974
+            ],
+            "genes": [
+                "ACACA",
+                "ACAC",
+                "ACC1",
+                "ACCA"
+            ]
+        },
+        {
+            "entry": "Q9UKU7",
+            "names": [
+                "Isobutyryl-CoA dehydrogenase, mitochondrial",
+                "EC 1.3.99.-",
+                "Activator-recruited cofactor 42 kDa component",
+                "ARC42",
+                "Acyl-CoA dehydrogenase family member 8",
+                "ACAD-8"
+            ],
+            "pubmed": [
+                10524212,
+                11013134,
+                14702039,
+                15489334,
+                10235267,
+                14752098,
+                12359132,
+                15505379,
+                16857760
+            ],
+            "genes": [
+                "ACAD8",
+                "ARC42",
+                "IBD"
+            ]
+        },
+        {
+            "entry": "Q9H845",
+            "names": [
+                "Acyl-CoA dehydrogenase family member 9, mitochondrial",
+                "ACAD-9",
+                "EC 1.3.99.-"
+            ],
+            "pubmed": [
+                12359260,
+                14702039,
+                15489334,
+                17564966,
+                19608861,
+                21269460
+            ],
+            "genes": [
+                "ACAD9"
+            ]
+        },
+        {
+            "entry": "P28330",
+            "names": [
+                "Long-chain specific acyl-CoA dehydrogenase, mitochondrial",
+                "LCAD",
+                "EC 1.3.99.13"
+            ],
+            "pubmed": [
+                1774065,
+                14702039,
+                15815621,
+                15489334
+            ],
+            "genes": [
+                "ACADL"
+            ]
+        },
+        {
+            "entry": "P11310",
+            "names": [
+                "Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",
+                "MCAD",
+                "EC 1.3.99.3"
+            ],
+            "pubmed": [
+                3035565,
+                1731887,
+                14702039,
+                16710414,
+                15489334,
+                2393404,
+                19608861,
+                21269460,
+                8823176,
+                15159392,
+                15975918,
+                1363805,
+                2394825,
+                2251268,
+                1684086,
+                1902818,
+                1671131,
+                8198141,
+                7603790,
+                7929823,
+                9158144,
+                9882619,
+                10767181,
+                11349232,
+                11409868,
+                11486912,
+                16959974
+            ],
+            "genes": [
+                "ACADM"
+            ]
+        },
+        {
+            "entry": "P16219",
+            "names": [
+                "Short-chain specific acyl-CoA dehydrogenase, mitochondrial",
+                "SCAD",
+                "EC 1.3.8.1",
+                "Butyryl-CoA dehydrogenase"
+            ],
+            "pubmed": [
+                2565344,
+                9383286,
+                15489334,
+                1286669,
+                21269460,
+                1692038,
+                9499414,
+                11134486
+            ],
+            "genes": [
+                "ACADS"
+            ]
+        },
+        {
+            "entry": "P49748",
+            "names": [
+                "Very long-chain specific acyl-CoA dehydrogenase, mitochondrial",
+                "VLCAD",
+                "EC 1.3.99.-"
+            ],
+            "pubmed": [
+                7668252,
+                8845838,
+                8554625,
+                15489334,
+                7769092,
+                9973285,
+                19608861,
+                21269460,
+                18227065,
+                8554073,
+                9546340,
+                10077518
+            ],
+            "genes": [
+                "ACADVL",
+                "VLCAD"
+            ]
+        },
+        {
+            "entry": "Q8NC06",
+            "names": [
+                "Acyl-CoA-binding domain-containing protein 4"
+            ],
+            "pubmed": [
+                15221005,
+                14702039,
+                15489334
+            ],
+            "genes": [
+                "ACBD4",
+                "HMFT0700"
+            ]
+        },
+        {
+            "entry": "Q5T8D3",
+            "names": [
+                "Acyl-CoA-binding domain-containing protein 5"
+            ],
+            "pubmed": [
+                14702039,
+                15164054,
+                15489334,
+                17974005,
+                17081983,
+                19007248,
+                18187866,
+                18691976,
+                18669648,
+                18318008,
+                19690332
+            ],
+            "genes": [
+                "ACBD5",
+                "KIAA1996"
+            ]
+        },
+        {
+            "entry": "Q9BR61",
+            "names": [
+                "Acyl-CoA-binding domain-containing protein 6"
+            ],
+            "pubmed": [
+                16710414,
+                15489334,
+                18268358,
+                21269460
+            ],
+            "genes": [
+                "ACBD6"
+            ]
+        },
+        {
+            "entry": "Q8N6N7",
+            "names": [
+                "Acyl-CoA-binding domain-containing protein 7"
+            ],
+            "pubmed": [
+                14702039,
+                15164054,
+                15489334,
+                19413330
+            ],
+            "genes": [
+                "ACBD7"
+            ]
+        },
+        {
+            "entry": "Q96GR2",
+            "names": [
+                "Long-chain-fatty-acid--CoA ligase ACSBG1",
+                "EC 6.2.1.3",
+                "Acyl-CoA synthetase bubblegum family member 1",
+                "hBG1",
+                "hsBG",
+                "hsBGM",
+                "Lipidosin"
+            ],
+            "pubmed": [
+                10954726,
+                9734811,
+                12168954,
+                14702039,
+                16572171,
+                15489334,
+                12975357,
+                18083107
+            ],
+            "genes": [
+                "ACSBG1",
+                "BGM",
+                "KIAA0631",
+                "LPD"
+            ]
+        },
+        {
+            "entry": "Q5FVE4",
+            "names": [
+                "Long-chain-fatty-acid--CoA ligase ACSBG2",
+                "EC 6.2.1.3",
+                "Acyl-CoA synthetase bubblegum family member 2",
+                "Bubblegum-related protein",
+                "PRTD-NY3"
+            ],
+            "pubmed": [
+                15685348,
+                16762313,
+                11230166,
+                12975309,
+                14702039,
+                15489334,
+                16371355
+            ],
+            "genes": [
+                "ACSBG2",
+                "BGR",
+                "UNQ2443/PRO5005"
+            ]
+        },
+        {
+            "entry": "P07108",
+            "names": [
+                "Acyl-CoA-binding protein",
+                "ACBP",
+                "Diazepam-binding inhibitor",
+                "DBI",
+                "Endozepine",
+                "EP"
+            ],
+            "pubmed": [
+                3020548,
+                2881742,
+                16055366,
+                15815621,
+                15489334,
+                3525533,
+                12665801,
+                1292782,
+                7534063,
+                18083107,
+                19608861,
+                21269460,
+                17044054
+            ],
+            "genes": [
+                "DBI"
+            ]
+        },
+        {
+            "entry": "Q6JQN1",
+            "names": [
+                "Acyl-CoA dehydrogenase family member 10",
+                "ACAD-10",
+                "EC 1.3.99.-"
+            ],
+            "pubmed": [
+                15560374,
+                14702039,
+                15489334
+            ],
+            "genes": [
+                "ACAD10"
+            ]
+        },
+        {
+            "entry": "Q709F0",
+            "names": [
+                "Acyl-CoA dehydrogenase family member 11",
+                "ACAD-11",
+                "EC 1.3.99.-"
+            ],
+            "pubmed": [
+                17974005,
+                14702039,
+                15489334,
+                19369195,
+                21269460
+            ],
+            "genes": [
+                "ACAD11"
+            ]
+        },
+        {
+            "entry": "P45954",
+            "names": [
+                "Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",
+                "SBCAD",
+                "EC 1.3.99.-",
+                "2-methyl branched chain acyl-CoA dehydrogenase",
+                "2-MEBCAD",
+                "2-methylbutyryl-coenzyme A dehydrogenase",
+                "2-methylbutyryl-CoA dehydrogenase"
+            ],
+            "pubmed": [
+                7698750,
+                11013134,
+                15489334,
+                17974005,
+                19608861,
+                21269460,
+                10832746,
+                16317551
+            ],
+            "genes": [
+                "ACADSB"
+            ]
+        }
+    ],
+    "totalCount": 25
+}

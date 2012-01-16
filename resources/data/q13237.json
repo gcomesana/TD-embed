@@ -1,0 +1,12 @@
+{
+	"target": {
+		"description": "cGMP-dependent protein kinase 2",
+		"targetType": "PROTEIN",
+		"chemblId": "CHEMBL2896",
+		"preferredName": "cGMP-dependent protein kinase 2",
+		"proteinAccession": "Q13237",
+		"synonyms": "cGMP-dependent protein kinase 2; cGMP-dependent protein kinase II; cGK 2; cGK2; cGKII",
+		"organism": "Homo sapiens",
+		"geneNames": "PRKG2; PRKGR2"
+	}
+}

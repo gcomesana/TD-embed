@@ -1,0 +1,1669 @@
+{"uniprot":{
+	"entry":{
+		"keyword":[
+			{
+				"_text_":"Complete proteome",
+				"_at_id":"KW-0181"
+			},
+			{
+				"_text_":"Polymorphism",
+				"_at_id":"KW-0621"
+			},
+			{
+				"_text_":"Pyridoxal phosphate",
+				"_at_id":"KW-0663"
+			},
+			{
+				"_text_":"Reference proteome",
+				"_at_id":"KW-1185"
+			}
+		],
+		"sequence":{
+			"_text_":"\nMFTLPQKDFRAPTTCLGPTCMQDLGSSHGEDLEGECSRKLDQKLPELRGVGDPAMISSDT\nSYLSSRGRMIKWFWDSAEEGYRTYHMDEYDEDKNPSGIINLGTSENKLCFDLLSWRLSQR\nDMQRVEPSLLQYADWRGHLFLREEVAKFLSFYCKSPVPLRPENVVVLNGGASLFSALATV\nLCEAGEAFLIPTPYYGAITQHVCLYGNIRLAYVYLDSEVTGLDTRPFQLTVEKLEMALRE\nAHSEGVKVKGLILISPQNPLGDVYSPEELQEYLVFAKRHRLHVIVDEVYMLSVFEKSVGY\nRSVLSLERLPDPQRTHVMWATSKDFGMSGLRFGTLYTENQDVATAVASLCRYHGLSGLVQ\nYQMAQLLRDRDWINQVYLPENHARLKAAHTYVSEELRALGIPFLSRGAGFFIWVDLRKYL\nPKGTFEEEMLLWRRFLDNKVLLSFGKAFECKEPGWFRFVFSDQVHRLCLGMQRVQQVLAG\nKSQVAEDPRPSQSQEPSDQRR\n",
+			"_at_mass":"57324",
+			"_at_length":"501",
+			"_at_version":"1",
+			"_at_modified":"2001-12-01",
+			"_at_checksum":"62C99045F0BF8D5E"
+		},
+		"gene":{
+			"name":[
+				{
+					"_text_":"ACCS",
+					"_at_type":"primary"
+				},
+				{
+					"_text_":"PHACS",
+					"_at_type":"synonym"
+				}
+			]
+		},
+		"name":{
+			"_text_":"1A1L1_HUMAN"
+		},
+		"_at_created":"2008-02-05",
+		"accession":[
+			{
+				"_text_":"Q96QU6"
+			},
+			{
+				"_text_":"Q8WUL4"
+			},
+			{
+				"_text_":"Q96LX5"
+			}
+		],
+		"_at_version":"70",
+		"feature":[
+			{
+				"location":{
+					"begin":{
+						"_at_position":"1"
+					},
+					"end":{
+						"_at_position":"501"
+					}
+				},
+				"_at_description":"1-aminocyclopropane-1-carboxylate synthase-like protein 1",
+				"_at_id":"PRO_0000318071",
+				"_at_type":"chain"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"105"
+					}
+				},
+				"_at_status":"by similarity",
+				"_at_description":"Substrate",
+				"_at_type":"binding site"
+			},
+			{
+				"location":{
+					"position":{
+						"_at_position":"323"
+					}
+				},
+				"_at_status":"by similarity",
+				"_at_description":"N6-(pyridoxal phosphate)lysine",
+				"_at_type":"modified residue"
+			},
+			{
+				"variation":{
+					"_text_":"N"
+				},
+				"location":{
+					"position":{
+						"_at_position":"59"
+					}
+				},
+				"original":{
+					"_text_":"D"
+				},
+				"_at_description":"In dbSNP:rs33952257.",
+				"_at_id":"VAR_048227",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"E"
+				},
+				"location":{
+					"position":{
+						"_at_position":"134"
+					}
+				},
+				"original":{
+					"_text_":"D"
+				},
+				"_at_description":"In dbSNP:rs2018795.",
+				"_at_id":"VAR_048228",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"E"
+				},
+				"location":{
+					"position":{
+						"_at_position":"221"
+					}
+				},
+				"original":{
+					"_text_":"G"
+				},
+				"_at_description":"In a breast cancer sample; somatic mutation; dbSNP:rs35514614.",
+				"_at_evidence":"2",
+				"_at_id":"VAR_038685",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"L"
+				},
+				"location":{
+					"position":{
+						"_at_position":"393"
+					}
+				},
+				"original":{
+					"_text_":"S"
+				},
+				"_at_description":"In a breast cancer sample; somatic mutation.",
+				"_at_evidence":"2",
+				"_at_id":"VAR_038686",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"L"
+				},
+				"location":{
+					"position":{
+						"_at_position":"421"
+					}
+				},
+				"original":{
+					"_text_":"P"
+				},
+				"_at_description":"In dbSNP:rs3107275.",
+				"_at_evidence":"3",
+				"_at_id":"VAR_038687",
+				"_at_type":"sequence variant"
+			},
+			{
+				"variation":{
+					"_text_":"S"
+				},
+				"location":{
+					"position":{
+						"_at_position":"94"
+					}
+				},
+				"original":{
+					"_text_":"N"
+				},
+				"_at_description":"In Ref. 2; BAB71541.",
+				"_at_ref":"6",
+				"_at_type":"sequence conflict"
+			},
+			{
+				"variation":{
+					"_text_":"L"
+				},
+				"location":{
+					"position":{
+						"_at_position":"410"
+					}
+				},
+				"original":{
+					"_text_":"F"
+				},
+				"_at_description":"In Ref. 2; BAB71541.",
+				"_at_ref":"6",
+				"_at_type":"sequence conflict"
+			}
+		],
+		"proteinExistence":{
+			"_at_type":"evidence at transcript level"
+		},
+		"dbReference":[
+			{
+				"_at_key":"16",
+				"_at_id":"AY026508",
+				"property":[
+					{
+						"_at_value":"AAK11482.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"17",
+				"_at_id":"AK057649",
+				"property":[
+					{
+						"_at_value":"BAB71541.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"18",
+				"_at_id":"CH471064",
+				"property":[
+					{
+						"_at_value":"EAW68072.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"Genomic_DNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"19",
+				"_at_id":"BC020197",
+				"property":[
+					{
+						"_at_value":"AAH20197.1",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"mRNA",
+						"_at_type":"molecule type"
+					}
+				],
+				"_at_type":"EMBL"
+			},
+			{
+				"_at_key":"20",
+				"_at_id":"IPI00411817",
+				"_at_type":"IPI"
+			},
+			{
+				"_at_key":"21",
+				"_at_id":"NP_001120691.1",
+				"property":{
+					"_at_value":"NM_001127219.1",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"22",
+				"_at_id":"NP_115981.1",
+				"property":{
+					"_at_value":"NM_032592.3",
+					"_at_type":"nucleotide sequence ID"
+				},
+				"_at_type":"RefSeq"
+			},
+			{
+				"_at_key":"23",
+				"_at_id":"Hs.126706",
+				"_at_type":"UniGene"
+			},
+			{
+				"_at_key":"24",
+				"_at_id":"P37821",
+				"property":{
+					"_at_value":"1M4N",
+					"_at_type":"PDB accession"
+				},
+				"_at_type":"HSSP"
+			},
+			{
+				"_at_key":"25",
+				"_at_id":"Q96QU6",
+				"_at_type":"ProteinModelPortal"
+			},
+			{
+				"_at_key":"26",
+				"_at_id":"Q96QU6",
+				"property":{
+					"_at_value":"75-482",
+					"_at_type":"residue range"
+				},
+				"_at_type":"SMR"
+			},
+			{
+				"_at_key":"27",
+				"_at_id":"Q96QU6",
+				"property":{
+					"_at_value":"1",
+					"_at_type":"interactions"
+				},
+				"_at_type":"IntAct"
+			},
+			{
+				"_at_key":"28",
+				"_at_id":"MINT-1470212",
+				"_at_type":"MINT"
+			},
+			{
+				"_at_key":"29",
+				"_at_id":"Q96QU6",
+				"_at_type":"STRING"
+			},
+			{
+				"_at_key":"30",
+				"_at_id":"Q96QU6",
+				"_at_type":"PRIDE"
+			},
+			{
+				"_at_key":"31",
+				"_at_id":"ENST00000263776",
+				"property":[
+					{
+						"_at_value":"ENSP00000263776",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"ENSG00000110455",
+						"_at_type":"gene ID"
+					}
+				],
+				"_at_type":"Ensembl"
+			},
+			{
+				"_at_key":"32",
+				"_at_id":"ENST00000448099",
+				"property":[
+					{
+						"_at_value":"ENSP00000402569",
+						"_at_type":"protein sequence ID"
+					},
+					{
+						"_at_value":"ENSG00000110455",
+						"_at_type":"gene ID"
+					}
+				],
+				"_at_type":"Ensembl"
+			},
+			{
+				"_at_key":"33",
+				"_at_id":"84680",
+				"_at_type":"GeneID"
+			},
+			{
+				"_at_key":"34",
+				"_at_id":"hsa:84680",
+				"_at_type":"KEGG"
+			},
+			{
+				"_at_key":"35",
+				"_at_id":"uc001mxx.2",
+				"property":{
+					"_at_value":"human",
+					"_at_type":"organism name"
+				},
+				"_at_type":"UCSC"
+			},
+			{
+				"_at_key":"36",
+				"_at_id":"84680",
+				"_at_type":"CTD"
+			},
+			{
+				"_at_key":"37",
+				"_at_id":"GC11P043796",
+				"_at_type":"GeneCards"
+			},
+			{
+				"_at_key":"38",
+				"_at_id":"HIX0201626",
+				"_at_type":"H-InvDB"
+			},
+			{
+				"_at_key":"39",
+				"_at_id":"HGNC:23989",
+				"property":{
+					"_at_value":"ACCS",
+					"_at_type":"gene designation"
+				},
+				"_at_type":"HGNC"
+			},
+			{
+				"_at_key":"40",
+				"_at_id":"HPA018873",
+				"_at_type":"HPA"
+			},
+			{
+				"_at_key":"41",
+				"_at_id":"HPA021654",
+				"_at_type":"HPA"
+			},
+			{
+				"_at_key":"42",
+				"_at_id":"608405",
+				"property":{
+					"_at_value":"gene",
+					"_at_type":"type"
+				},
+				"_at_type":"MIM"
+			},
+			{
+				"_at_key":"43",
+				"_at_id":"NX_Q96QU6",
+				"_at_type":"neXtProt"
+			},
+			{
+				"_at_key":"44",
+				"_at_id":"PA162375284",
+				"_at_type":"PharmGKB"
+			},
+			{
+				"_at_key":"45",
+				"_at_id":"prNOG15498",
+				"_at_type":"eggNOG"
+			},
+			{
+				"_at_key":"46",
+				"_at_id":"ENSGT00390000005703",
+				"_at_type":"GeneTree"
+			},
+			{
+				"_at_key":"47",
+				"_at_id":"HBG713659",
+				"_at_type":"HOGENOM"
+			},
+			{
+				"_at_key":"48",
+				"_at_id":"HBG055243",
+				"_at_type":"HOVERGEN"
+			},
+			{
+				"_at_key":"49",
+				"_at_id":"Q96QU6",
+				"_at_type":"InParanoid"
+			},
+			{
+				"_at_key":"50",
+				"_at_id":"CEAGEAF",
+				"_at_type":"OMA"
+			},
+			{
+				"_at_key":"51",
+				"_at_id":"EOG4P8FJ0",
+				"_at_type":"OrthoDB"
+			},
+			{
+				"_at_key":"52",
+				"_at_id":"Q96QU6",
+				"_at_type":"PhylomeDB"
+			},
+			{
+				"_at_key":"53",
+				"_at_id":"74721",
+				"_at_type":"NextBio"
+			},
+			{
+				"_at_key":"54",
+				"_at_id":"Q96QU6",
+				"_at_type":"ArrayExpress"
+			},
+			{
+				"_at_key":"55",
+				"_at_id":"Q96QU6",
+				"_at_type":"Bgee"
+			},
+			{
+				"_at_key":"56",
+				"_at_id":"HS_ACCS",
+				"_at_type":"CleanEx"
+			},
+			{
+				"_at_key":"57",
+				"_at_id":"Q96QU6",
+				"_at_type":"Genevestigator"
+			},
+			{
+				"_at_key":"58",
+				"_at_id":"GO:0016847",
+				"property":[
+					{
+						"_at_value":"F:1-aminocyclopropane-1-carboxylate synthase activity",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:InterPro",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"59",
+				"_at_id":"GO:0042803",
+				"property":[
+					{
+						"_at_value":"F:protein homodimerization activity",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"NAS:UniProtKB",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"60",
+				"_at_id":"GO:0030170",
+				"property":[
+					{
+						"_at_value":"F:pyridoxal phosphate binding",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"NAS:UniProtKB",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"61",
+				"_at_id":"GO:0016769",
+				"property":[
+					{
+						"_at_value":"F:transferase activity, transferring nitrogenous groups",
+						"_at_type":"term"
+					},
+					{
+						"_at_value":"IEA:InterPro",
+						"_at_type":"evidence"
+					}
+				],
+				"_at_type":"GO"
+			},
+			{
+				"_at_key":"62",
+				"_at_id":"IPR001176",
+				"property":{
+					"_at_value":"ACC_synthase",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"63",
+				"_at_id":"IPR004839",
+				"property":{
+					"_at_value":"Aminotransferase_I/II",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"64",
+				"_at_id":"IPR015424",
+				"property":{
+					"_at_value":"PyrdxlP-dep_Trfase_major_dom",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"65",
+				"_at_id":"IPR015422",
+				"property":{
+					"_at_value":"PyrdxlP-dep_Trfase_major_sub2",
+					"_at_type":"entry name"
+				},
+				"_at_type":"InterPro"
+			},
+			{
+				"_at_key":"66",
+				"_at_id":"G3DSA:3.90.1150.10",
+				"property":[
+					{
+						"_at_value":"PyrdxlP-dep_Trfase_major_sub2",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"2",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"Gene3D"
+			},
+			{
+				"_at_key":"67",
+				"_at_id":"PF00155",
+				"property":[
+					{
+						"_at_value":"Aminotran_1_2",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"Pfam"
+			},
+			{
+				"_at_key":"68",
+				"_at_id":"PR00753",
+				"property":{
+					"_at_value":"ACCSYNTHASE",
+					"_at_type":"entry name"
+				},
+				"_at_type":"PRINTS"
+			},
+			{
+				"_at_key":"69",
+				"_at_id":"SSF53383",
+				"property":[
+					{
+						"_at_value":"PyrdxlP-dep_Trfase_major",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"1",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"SUPFAM"
+			},
+			{
+				"_at_key":"70",
+				"_at_id":"PS00105",
+				"property":[
+					{
+						"_at_value":"AA_TRANSFER_CLASS_1",
+						"_at_type":"entry name"
+					},
+					{
+						"_at_value":"FALSE_NEG",
+						"_at_type":"match status"
+					}
+				],
+				"_at_type":"PROSITE"
+			}
+		],
+		"protein":{
+			"recommendedName":{
+				"fullName":{
+					"_text_":"1-aminocyclopropane-1-carboxylate synthase-like protein 1"
+				},
+				"shortName":{
+					"_text_":"ACC synthase-like protein 1"
+				}
+			}
+		},
+		"comment":[
+			{
+				"text":{
+					"_text_":"Does not catalyze the synthesis of 1-aminocyclopropane-1-carboxylate but is capable of catalyzing the deamination of L-vinylglycine.",
+					"_at_evidence":"1"
+				},
+				"_at_type":"function"
+			},
+			{
+				"text":{
+					"_text_":"Belongs to the class-I pyridoxal-phosphate-dependent aminotransferase family."
+				},
+				"_at_type":"similarity"
+			},
+			{
+				"text":{
+					"_text_":"Similar to plant 1-aminocyclopropane-1-carboxylate synthases but lacks a number of residues which are necessary for activity.",
+					"_at_evidence":"1"
+				},
+				"_at_type":"caution"
+			}
+		],
+		"reference":[
+			{
+				"_at_key":"2",
+				"scope":[
+					{
+						"_text_":"NUCLEOTIDE SEQUENCE [MRNA]"
+					},
+					{
+						"_text_":"FUNCTION"
+					}
+				],
+				"citation":{
+					"_at_volume":"272",
+					"_at_name":"Gene",
+					"_at_date":"2001",
+					"_at_first":"75",
+					"dbReference":[
+						{
+							"_at_key":"3",
+							"_at_id":"21363427",
+							"_at_type":"MEDLINE"
+						},
+						{
+							"_at_key":"4",
+							"_at_id":"11470512",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"5",
+							"_at_id":"10.1016/S0378-1119(01)00533-9",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Koch K.A."
+							},
+							{
+								"_at_name":"Capitani G."
+							},
+							{
+								"_at_name":"Gruetter M.G."
+							},
+							{
+								"_at_name":"Kirsch J.F."
+							}
+						]
+					},
+					"_at_last":"84",
+					"title":{
+						"_text_":"The human cDNA for a homologue of the plant enzyme 1-aminocyclopropane-1-carboxylate synthase encodes a protein lacking that activity."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Trachea"
+					}
+				},
+				"_at_key":"6",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+				},
+				"citation":{
+					"_at_volume":"36",
+					"_at_name":"Nat. Genet.",
+					"_at_date":"2004",
+					"_at_first":"40",
+					"dbReference":[
+						{
+							"_at_key":"7",
+							"_at_id":"14702039",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"8",
+							"_at_id":"10.1038/ng1285",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Ota T."
+							},
+							{
+								"_at_name":"Suzuki Y."
+							},
+							{
+								"_at_name":"Nishikawa T."
+							},
+							{
+								"_at_name":"Otsuki T."
+							},
+							{
+								"_at_name":"Sugiyama T."
+							},
+							{
+								"_at_name":"Irie R."
+							},
+							{
+								"_at_name":"Wakamatsu A."
+							},
+							{
+								"_at_name":"Hayashi K."
+							},
+							{
+								"_at_name":"Sato H."
+							},
+							{
+								"_at_name":"Nagai K."
+							},
+							{
+								"_at_name":"Kimura K."
+							},
+							{
+								"_at_name":"Makita H."
+							},
+							{
+								"_at_name":"Sekine M."
+							},
+							{
+								"_at_name":"Obayashi M."
+							},
+							{
+								"_at_name":"Nishi T."
+							},
+							{
+								"_at_name":"Shibahara T."
+							},
+							{
+								"_at_name":"Tanaka T."
+							},
+							{
+								"_at_name":"Ishii S."
+							},
+							{
+								"_at_name":"Yamamoto J."
+							},
+							{
+								"_at_name":"Saito K."
+							},
+							{
+								"_at_name":"Kawai Y."
+							},
+							{
+								"_at_name":"Isono Y."
+							},
+							{
+								"_at_name":"Nakamura Y."
+							},
+							{
+								"_at_name":"Nagahari K."
+							},
+							{
+								"_at_name":"Murakami K."
+							},
+							{
+								"_at_name":"Yasuda T."
+							},
+							{
+								"_at_name":"Iwayanagi T."
+							},
+							{
+								"_at_name":"Wagatsuma M."
+							},
+							{
+								"_at_name":"Shiratori A."
+							},
+							{
+								"_at_name":"Sudo H."
+							},
+							{
+								"_at_name":"Hosoiri T."
+							},
+							{
+								"_at_name":"Kaku Y."
+							},
+							{
+								"_at_name":"Kodaira H."
+							},
+							{
+								"_at_name":"Kondo H."
+							},
+							{
+								"_at_name":"Sugawara M."
+							},
+							{
+								"_at_name":"Takahashi M."
+							},
+							{
+								"_at_name":"Kanda K."
+							},
+							{
+								"_at_name":"Yokoi T."
+							},
+							{
+								"_at_name":"Furuya T."
+							},
+							{
+								"_at_name":"Kikkawa E."
+							},
+							{
+								"_at_name":"Omura Y."
+							},
+							{
+								"_at_name":"Abe K."
+							},
+							{
+								"_at_name":"Kamihara K."
+							},
+							{
+								"_at_name":"Katsuta N."
+							},
+							{
+								"_at_name":"Sato K."
+							},
+							{
+								"_at_name":"Tanikawa M."
+							},
+							{
+								"_at_name":"Yamazaki M."
+							},
+							{
+								"_at_name":"Ninomiya K."
+							},
+							{
+								"_at_name":"Ishibashi T."
+							},
+							{
+								"_at_name":"Yamashita H."
+							},
+							{
+								"_at_name":"Murakawa K."
+							},
+							{
+								"_at_name":"Fujimori K."
+							},
+							{
+								"_at_name":"Tanai H."
+							},
+							{
+								"_at_name":"Kimata M."
+							},
+							{
+								"_at_name":"Watanabe M."
+							},
+							{
+								"_at_name":"Hiraoka S."
+							},
+							{
+								"_at_name":"Chiba Y."
+							},
+							{
+								"_at_name":"Ishida S."
+							},
+							{
+								"_at_name":"Ono Y."
+							},
+							{
+								"_at_name":"Takiguchi S."
+							},
+							{
+								"_at_name":"Watanabe S."
+							},
+							{
+								"_at_name":"Yosida M."
+							},
+							{
+								"_at_name":"Hotuta T."
+							},
+							{
+								"_at_name":"Kusano J."
+							},
+							{
+								"_at_name":"Kanehori K."
+							},
+							{
+								"_at_name":"Takahashi-Fujii A."
+							},
+							{
+								"_at_name":"Hara H."
+							},
+							{
+								"_at_name":"Tanase T.-O."
+							},
+							{
+								"_at_name":"Nomura Y."
+							},
+							{
+								"_at_name":"Togiya S."
+							},
+							{
+								"_at_name":"Komai F."
+							},
+							{
+								"_at_name":"Hara R."
+							},
+							{
+								"_at_name":"Takeuchi K."
+							},
+							{
+								"_at_name":"Arita M."
+							},
+							{
+								"_at_name":"Imose N."
+							},
+							{
+								"_at_name":"Musashino K."
+							},
+							{
+								"_at_name":"Yuuki H."
+							},
+							{
+								"_at_name":"Oshima A."
+							},
+							{
+								"_at_name":"Sasaki N."
+							},
+							{
+								"_at_name":"Aotsuka S."
+							},
+							{
+								"_at_name":"Yoshikawa Y."
+							},
+							{
+								"_at_name":"Matsunawa H."
+							},
+							{
+								"_at_name":"Ichihara T."
+							},
+							{
+								"_at_name":"Shiohata N."
+							},
+							{
+								"_at_name":"Sano S."
+							},
+							{
+								"_at_name":"Moriya S."
+							},
+							{
+								"_at_name":"Momiyama H."
+							},
+							{
+								"_at_name":"Satoh N."
+							},
+							{
+								"_at_name":"Takami S."
+							},
+							{
+								"_at_name":"Terashima Y."
+							},
+							{
+								"_at_name":"Suzuki O."
+							},
+							{
+								"_at_name":"Nakagawa S."
+							},
+							{
+								"_at_name":"Senoh A."
+							},
+							{
+								"_at_name":"Mizoguchi H."
+							},
+							{
+								"_at_name":"Goto Y."
+							},
+							{
+								"_at_name":"Shimizu F."
+							},
+							{
+								"_at_name":"Wakebe H."
+							},
+							{
+								"_at_name":"Hishigaki H."
+							},
+							{
+								"_at_name":"Watanabe T."
+							},
+							{
+								"_at_name":"Sugiyama A."
+							},
+							{
+								"_at_name":"Takemoto M."
+							},
+							{
+								"_at_name":"Kawakami B."
+							},
+							{
+								"_at_name":"Yamazaki M."
+							},
+							{
+								"_at_name":"Watanabe K."
+							},
+							{
+								"_at_name":"Kumagai A."
+							},
+							{
+								"_at_name":"Itakura S."
+							},
+							{
+								"_at_name":"Fukuzumi Y."
+							},
+							{
+								"_at_name":"Fujimori Y."
+							},
+							{
+								"_at_name":"Komiyama M."
+							},
+							{
+								"_at_name":"Tashiro H."
+							},
+							{
+								"_at_name":"Tanigami A."
+							},
+							{
+								"_at_name":"Fujiwara T."
+							},
+							{
+								"_at_name":"Ono T."
+							},
+							{
+								"_at_name":"Yamada K."
+							},
+							{
+								"_at_name":"Fujii Y."
+							},
+							{
+								"_at_name":"Ozaki K."
+							},
+							{
+								"_at_name":"Hirao M."
+							},
+							{
+								"_at_name":"Ohmori Y."
+							},
+							{
+								"_at_name":"Kawabata A."
+							},
+							{
+								"_at_name":"Hikiji T."
+							},
+							{
+								"_at_name":"Kobatake N."
+							},
+							{
+								"_at_name":"Inagaki H."
+							},
+							{
+								"_at_name":"Ikema Y."
+							},
+							{
+								"_at_name":"Okamoto S."
+							},
+							{
+								"_at_name":"Okitani R."
+							},
+							{
+								"_at_name":"Kawakami T."
+							},
+							{
+								"_at_name":"Noguchi S."
+							},
+							{
+								"_at_name":"Itoh T."
+							},
+							{
+								"_at_name":"Shigeta K."
+							},
+							{
+								"_at_name":"Senba T."
+							},
+							{
+								"_at_name":"Matsumura K."
+							},
+							{
+								"_at_name":"Nakajima Y."
+							},
+							{
+								"_at_name":"Mizuno T."
+							},
+							{
+								"_at_name":"Morinaga M."
+							},
+							{
+								"_at_name":"Sasaki M."
+							},
+							{
+								"_at_name":"Togashi T."
+							},
+							{
+								"_at_name":"Oyama M."
+							},
+							{
+								"_at_name":"Hata H."
+							},
+							{
+								"_at_name":"Watanabe M."
+							},
+							{
+								"_at_name":"Komatsu T."
+							},
+							{
+								"_at_name":"Mizushima-Sugano J."
+							},
+							{
+								"_at_name":"Satoh T."
+							},
+							{
+								"_at_name":"Shirai Y."
+							},
+							{
+								"_at_name":"Takahashi Y."
+							},
+							{
+								"_at_name":"Nakagawa K."
+							},
+							{
+								"_at_name":"Okumura K."
+							},
+							{
+								"_at_name":"Nagase T."
+							},
+							{
+								"_at_name":"Nomura N."
+							},
+							{
+								"_at_name":"Kikuchi H."
+							},
+							{
+								"_at_name":"Masuho Y."
+							},
+							{
+								"_at_name":"Yamashita R."
+							},
+							{
+								"_at_name":"Nakai K."
+							},
+							{
+								"_at_name":"Yada T."
+							},
+							{
+								"_at_name":"Nakamura Y."
+							},
+							{
+								"_at_name":"Ohara O."
+							},
+							{
+								"_at_name":"Isogai T."
+							},
+							{
+								"_at_name":"Sugano S."
+							}
+						]
+					},
+					"_at_last":"45",
+					"title":{
+						"_text_":"Complete sequencing and characterization of 21,243 full-length human cDNAs."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"9",
+				"scope":{
+					"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+				},
+				"citation":{
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Mural R.J."
+							},
+							{
+								"_at_name":"Istrail S."
+							},
+							{
+								"_at_name":"Sutton G.G."
+							},
+							{
+								"_at_name":"Florea L."
+							},
+							{
+								"_at_name":"Halpern A.L."
+							},
+							{
+								"_at_name":"Mobarry C.M."
+							},
+							{
+								"_at_name":"Lippert R."
+							},
+							{
+								"_at_name":"Walenz B."
+							},
+							{
+								"_at_name":"Shatkay H."
+							},
+							{
+								"_at_name":"Dew I."
+							},
+							{
+								"_at_name":"Miller J.R."
+							},
+							{
+								"_at_name":"Flanigan M.J."
+							},
+							{
+								"_at_name":"Edwards N.J."
+							},
+							{
+								"_at_name":"Bolanos R."
+							},
+							{
+								"_at_name":"Fasulo D."
+							},
+							{
+								"_at_name":"Halldorsson B.V."
+							},
+							{
+								"_at_name":"Hannenhalli S."
+							},
+							{
+								"_at_name":"Turner R."
+							},
+							{
+								"_at_name":"Yooseph S."
+							},
+							{
+								"_at_name":"Lu F."
+							},
+							{
+								"_at_name":"Nusskern D.R."
+							},
+							{
+								"_at_name":"Shue B.C."
+							},
+							{
+								"_at_name":"Zheng X.H."
+							},
+							{
+								"_at_name":"Zhong F."
+							},
+							{
+								"_at_name":"Delcher A.L."
+							},
+							{
+								"_at_name":"Huson D.H."
+							},
+							{
+								"_at_name":"Kravitz S.A."
+							},
+							{
+								"_at_name":"Mouchard L."
+							},
+							{
+								"_at_name":"Reinert K."
+							},
+							{
+								"_at_name":"Remington K.A."
+							},
+							{
+								"_at_name":"Clark A.G."
+							},
+							{
+								"_at_name":"Waterman M.S."
+							},
+							{
+								"_at_name":"Eichler E.E."
+							},
+							{
+								"_at_name":"Adams M.D."
+							},
+							{
+								"_at_name":"Hunkapiller M.W."
+							},
+							{
+								"_at_name":"Myers E.W."
+							},
+							{
+								"_at_name":"Venter J.C."
+							}
+						]
+					},
+					"_at_date":"2005-09",
+					"_at_db":"EMBL/GenBank/DDBJ databases",
+					"_at_type":"submission"
+				}
+			},
+			{
+				"source":{
+					"tissue":{
+						"_text_":"Uterus"
+					}
+				},
+				"_at_key":"10",
+				"scope":[
+					{
+						"_text_":"NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+					},
+					{
+						"_text_":"VARIANT LEU-421"
+					}
+				],
+				"citation":{
+					"_at_volume":"14",
+					"_at_name":"Genome Res.",
+					"_at_date":"2004",
+					"_at_first":"2121",
+					"dbReference":[
+						{
+							"_at_key":"11",
+							"_at_id":"15489334",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"12",
+							"_at_id":"10.1101/gr.2596504",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"consortium":{
+							"_at_name":"The MGC Project Team"
+						}
+					},
+					"_at_last":"2127",
+					"title":{
+						"_text_":"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC)."
+					},
+					"_at_type":"journal article"
+				}
+			},
+			{
+				"_at_key":"13",
+				"scope":{
+					"_text_":"VARIANTS [LARGE SCALE ANALYSIS] GLU-221 AND LEU-393"
+				},
+				"citation":{
+					"_at_volume":"314",
+					"_at_name":"Science",
+					"_at_date":"2006",
+					"_at_first":"268",
+					"dbReference":[
+						{
+							"_at_key":"14",
+							"_at_id":"16959974",
+							"_at_type":"PubMed"
+						},
+						{
+							"_at_key":"15",
+							"_at_id":"10.1126/science.1133427",
+							"_at_type":"DOI"
+						}
+					],
+					"authorList":{
+						"person":[
+							{
+								"_at_name":"Sjoeblom T."
+							},
+							{
+								"_at_name":"Jones S."
+							},
+							{
+								"_at_name":"Wood L.D."
+							},
+							{
+								"_at_name":"Parsons D.W."
+							},
+							{
+								"_at_name":"Lin J."
+							},
+							{
+								"_at_name":"Barber T.D."
+							},
+							{
+								"_at_name":"Mandelker D."
+							},
+							{
+								"_at_name":"Leary R.J."
+							},
+							{
+								"_at_name":"Ptak J."
+							},
+							{
+								"_at_name":"Silliman N."
+							},
+							{
+								"_at_name":"Szabo S."
+							},
+							{
+								"_at_name":"Buckhaults P."
+							},
+							{
+								"_at_name":"Farrell C."
+							},
+							{
+								"_at_name":"Meeh P."
+							},
+							{
+								"_at_name":"Markowitz S.D."
+							},
+							{
+								"_at_name":"Willis J."
+							},
+							{
+								"_at_name":"Dawson D."
+							},
+							{
+								"_at_name":"Willson J.K.V."
+							},
+							{
+								"_at_name":"Gazdar A.F."
+							},
+							{
+								"_at_name":"Hartigan J."
+							},
+							{
+								"_at_name":"Wu L."
+							},
+							{
+								"_at_name":"Liu C."
+							},
+							{
+								"_at_name":"Parmigiani G."
+							},
+							{
+								"_at_name":"Park B.H."
+							},
+							{
+								"_at_name":"Bachman K.E."
+							},
+							{
+								"_at_name":"Papadopoulos N."
+							},
+							{
+								"_at_name":"Vogelstein B."
+							},
+							{
+								"_at_name":"Kinzler K.W."
+							},
+							{
+								"_at_name":"Velculescu V.E."
+							}
+						]
+					},
+					"_at_last":"274",
+					"title":{
+						"_text_":"The consensus coding sequences of human breast and colorectal cancers."
+					},
+					"_at_type":"journal article"
+				}
+			}
+		],
+		"evidence":[
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"11470512",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"1",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"16959974",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"2",
+				"_at_type":"ECO:0000006"
+			},
+			{
+				"source":{
+					"dbReference":{
+						"_at_id":"15489334",
+						"_at_type":"PubMed"
+					}
+				},
+				"_at_key":"3",
+				"_at_type":"ECO:0000006"
+			}
+		],
+		"organism":{
+			"lineage":{
+				"taxon":[
+					{
+						"_text_":"Eukaryota"
+					},
+					{
+						"_text_":"Metazoa"
+					},
+					{
+						"_text_":"Chordata"
+					},
+					{
+						"_text_":"Craniata"
+					},
+					{
+						"_text_":"Vertebrata"
+					},
+					{
+						"_text_":"Euteleostomi"
+					},
+					{
+						"_text_":"Mammalia"
+					},
+					{
+						"_text_":"Eutheria"
+					},
+					{
+						"_text_":"Euarchontoglires"
+					},
+					{
+						"_text_":"Primates"
+					},
+					{
+						"_text_":"Haplorrhini"
+					},
+					{
+						"_text_":"Catarrhini"
+					},
+					{
+						"_text_":"Hominidae"
+					},
+					{
+						"_text_":"Homo"
+					}
+				]
+			},
+			"dbReference":{
+				"_at_key":"1",
+				"_at_id":"9606",
+				"_at_type":"NCBI Taxonomy"
+			},
+			"name":[
+				{
+					"_text_":"Homo sapiens",
+					"_at_type":"scientific"
+				},
+				{
+					"_text_":"Human",
+					"_at_type":"common"
+				}
+			]
+		},
+		"_at_dataset":"Swiss-Prot",
+		"_at_modified":"2011-09-21"
+	},
+	"_at_xsi:schemaLocation":"http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd",
+	"copyright":{
+		"_text_":"\nCopyrighted by the UniProt Consortium, see http://www.uniprot.org/terms\nDistributed under the Creative Commons Attribution-NoDerivs License\n"
+	}
+},"_at_encoding":"UTF-8","_at_version":"1.0"}
